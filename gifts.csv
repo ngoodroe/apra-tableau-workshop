@@ -1,0 +1,692 @@
+gift_id,constituent_id,gift_number,amount,gift_date,gift_type,gift_subtype,gift_balance,designation
+1,1,1,25000.0,2015-11-29,Donation,Wire Transfer,0.0,Faculty Excellence Fund
+2,1,2,25000.0,2013-06-25,Donation,Check,0.0,Annual Fund
+3,1,3,50000.0,2012-08-27,Grant,Government Grant,0.0,Athletics Fund
+4,4,1,190000.0,2020-12-12,Donation,,0.0,Athletics Fund
+5,5,1,140000.0,2025-12-10,Donation,,0.0,Scholarship Endowment
+6,5,2,190000.0,2025-02-27,Grant,Corporate Grant,0.0,Student Life
+7,5,3,45000.0,2019-06-10,Pledge,Campaign Pledge,0.0,Faculty Excellence Fund
+8,5,4,90000.0,2016-12-16,Donation,,0.0,Unrestricted Endowment
+9,5,5,100000.0,2015-03-03,Donation,,0.0,Capital Campaign
+10,5,6,150000.0,2015-01-20,Matching Gift,PAC Match,0.0,Unrestricted Endowment
+11,5,7,60000.0,2013-04-18,Donation,,0.0,Research Initiative
+12,5,8,40000.0,2012-11-04,Donation,,0.0,Athletics Fund
+13,5,9,110000.0,2011-12-14,Donation,Wire Transfer,0.0,Unrestricted Endowment
+14,5,10,200000.0,2011-06-07,Donation,,0.0,Annual Fund
+15,7,1,430000.0,2023-10-07,Donation,Wire Transfer,0.0,Library Fund
+16,7,2,410000.0,2022-04-17,Donation,Wire Transfer,0.0,Athletics Fund
+17,7,3,320000.0,2016-03-09,Pledge,,0.0,Arts & Humanities
+18,8,1,370000.0,2020-09-10,Pledge,Campaign Pledge,0.0,Scholarship Endowment
+19,8,2,90000.0,2014-01-28,Matching Gift,Corporate Match,0.0,Capital Campaign
+20,9,1,90000.0,2025-08-21,Pledge,Campaign Pledge,81000.0,Unrestricted Endowment
+21,9,2,120000.0,2023-12-26,Donation,Check,0.0,Scholarship Endowment
+22,9,3,150000.0,2021-12-14,Matching Gift,Foundation Match,0.0,Library Fund
+23,9,4,100000.0,2018-09-05,Pledge,Multi-year Pledge,0.0,Unrestricted Endowment
+24,9,5,180000.0,2018-06-05,Donation,,0.0,Library Fund
+25,9,6,120000.0,2017-07-30,Donation,,0.0,Unrestricted Endowment
+26,9,7,130000.0,2016-08-10,Matching Gift,Corporate Match,0.0,Dean's Discretionary Fund
+27,9,8,190000.0,2015-07-28,Grant,Corporate Grant,0.0,Scholarship Endowment
+28,9,9,30000.0,2014-10-25,Donation,Wire Transfer,0.0,Student Life
+29,9,10,120000.0,2012-02-22,Pledge,Multi-year Pledge,0.0,Library Fund
+30,10,1,350000.0,2025-07-30,Donation,,0.0,Athletics Fund
+31,10,2,400000.0,2023-08-15,Pledge,Multi-year Pledge,135000.0,Capital Campaign
+32,10,3,340000.0,2020-10-15,Donation,,0.0,Student Life
+33,10,4,210000.0,2019-04-23,Donation,Check,0.0,Athletics Fund
+34,10,5,35000.0,2019-03-13,Donation,,0.0,Arts & Humanities
+35,10,6,60000.0,2018-08-31,Donation,,0.0,Student Life
+36,10,7,340000.0,2016-10-05,Pledge,Multi-year Pledge,0.0,Scholarship Endowment
+37,10,8,120000.0,2014-04-06,Donation,,0.0,Arts & Humanities
+38,10,9,90000.0,2012-04-16,Grant,Foundation Grant,0.0,Global Initiatives
+39,10,10,110000.0,2011-12-30,Grant,Corporate Grant,0.0,Athletics Fund
+40,12,1,230000.0,2024-07-09,Donation,,0.0,Scholarship Endowment
+41,12,2,310000.0,2014-01-22,Grant,Foundation Grant,0.0,Athletics Fund
+42,12,3,180000.0,2013-12-30,Matching Gift,Foundation Match,0.0,Arts & Humanities
+43,12,4,45000.0,2013-05-11,Donation,,0.0,Scholarship Endowment
+44,13,1,60000.0,2023-11-29,Donation,GiveCampus,0.0,Student Life
+45,13,2,15000.0,2015-08-11,Donation,Wire Transfer,0.0,Faculty Excellence Fund
+46,14,1,130000.0,2023-12-24,Pledge,Campaign Pledge,85000.0,Capital Campaign
+47,14,2,1920000.0,2022-02-26,Donation,Check,0.0,Student Life
+48,14,3,880000.0,2013-07-18,Donation,Check,0.0,Student Life
+49,14,4,1200000.0,2011-10-06,Grant,Government Grant,0.0,Faculty Excellence Fund
+50,15,1,130000.0,2024-12-22,Donation,GiveCampus,0.0,Faculty Excellence Fund
+51,18,1,180000.0,2020-09-20,Pledge,Campaign Pledge,0.0,Research Initiative
+52,18,2,120000.0,2020-04-07,Donation,,0.0,Scholarship Endowment
+53,18,3,45000.0,2019-11-09,Donation,,0.0,Dean's Discretionary Fund
+54,18,4,45000.0,2017-01-28,Donation,Check,0.0,Global Initiatives
+55,18,5,140000.0,2013-05-03,Donation,,0.0,Dean's Discretionary Fund
+56,19,1,50000.0,2025-04-06,Pledge,,43000.0,Athletics Fund
+57,21,1,35000.0,2025-12-31,Donation,Check,0.0,Unrestricted Endowment
+58,21,2,180000.0,2023-11-28,Pledge,Multi-year Pledge,106000.0,Research Initiative
+59,21,3,140000.0,2023-10-28,Pledge,,72000.0,Unrestricted Endowment
+60,21,4,80000.0,2021-08-05,Donation,,0.0,Unrestricted Endowment
+61,21,5,140000.0,2018-08-26,Grant,Corporate Grant,0.0,Library Fund
+62,21,6,90000.0,2017-01-13,Matching Gift,Corporate Match,0.0,Annual Fund
+63,25,1,60000.0,2017-01-13,Donation,,0.0,Athletics Fund
+64,27,1,110000.0,2024-11-04,Donation,,0.0,Dean's Discretionary Fund
+65,27,2,340000.0,2018-07-04,Grant,Corporate Grant,0.0,Athletics Fund
+66,27,3,110000.0,2016-02-12,Donation,,0.0,Annual Fund
+67,27,4,270000.0,2013-02-25,Pledge,Multi-year Pledge,0.0,Faculty Excellence Fund
+68,31,1,250000.0,2020-08-04,Pledge,Campaign Pledge,0.0,Student Life
+69,31,2,610000.0,2017-12-28,Pledge,,0.0,Scholarship Endowment
+70,31,3,710000.0,2014-08-07,Pledge,,0.0,Athletics Fund
+71,35,1,450000.0,2022-03-16,Donation,,0.0,Annual Fund
+72,35,2,570000.0,2014-06-03,Donation,Wire Transfer,0.0,Research Initiative
+73,35,3,50000.0,2013-06-04,Pledge,,0.0,Capital Campaign
+74,35,4,280000.0,2012-03-26,Donation,GiveCampus,0.0,Athletics Fund
+75,37,1,190000.0,2017-04-17,Pledge,Campaign Pledge,0.0,Global Initiatives
+76,37,2,80000.0,2012-03-15,Donation,Wire Transfer,0.0,Faculty Excellence Fund
+77,39,1,60000.0,2018-04-21,Donation,,0.0,Library Fund
+78,40,1,720000.0,2025-12-09,Donation,,0.0,Research Initiative
+79,40,2,200000.0,2024-08-06,Grant,Corporate Grant,0.0,Student Life
+80,42,1,110000.0,2023-04-07,Donation,,0.0,Scholarship Endowment
+81,43,1,200000.0,2013-02-17,Donation,Check,0.0,Global Initiatives
+82,46,1,650000.0,2012-08-02,Donation,Wire Transfer,0.0,Student Life
+83,49,1,570000.0,2022-07-24,Pledge,,0.0,Library Fund
+84,49,2,210000.0,2020-02-04,Grant,Corporate Grant,0.0,Arts & Humanities
+85,49,3,430000.0,2014-03-04,Donation,,0.0,Global Initiatives
+86,50,1,90000.0,2018-06-25,Pledge,Campaign Pledge,0.0,Scholarship Endowment
+87,50,2,240000.0,2018-04-21,Matching Gift,Foundation Match,0.0,Athletics Fund
+88,50,3,330000.0,2016-02-29,Donation,,0.0,Dean's Discretionary Fund
+89,51,1,20000.0,2023-05-02,Donation,GiveCampus,0.0,Faculty Excellence Fund
+90,51,2,15000.0,2021-11-30,Pledge,Campaign Pledge,0.0,Dean's Discretionary Fund
+91,51,3,130000.0,2021-11-15,Donation,,0.0,Unrestricted Endowment
+92,51,4,140000.0,2021-08-14,Donation,,0.0,Library Fund
+93,52,1,15000.0,2017-11-27,Donation,GiveCampus,0.0,Scholarship Endowment
+94,53,1,360000.0,2021-07-23,Donation,GiveCampus,0.0,Faculty Excellence Fund
+95,55,1,180000.0,2014-05-27,Matching Gift,PAC Match,0.0,Global Initiatives
+96,55,2,120000.0,2013-11-10,Donation,GiveCampus,0.0,Research Initiative
+97,55,3,170000.0,2013-03-04,Donation,GiveCampus,0.0,Athletics Fund
+98,55,4,130000.0,2013-01-13,Donation,Check,0.0,Annual Fund
+99,56,1,10000.0,2017-11-19,Donation,Wire Transfer,0.0,Scholarship Endowment
+100,56,2,15000.0,2014-04-19,Pledge,,0.0,Faculty Excellence Fund
+101,58,1,70000.0,2013-09-29,Donation,Wire Transfer,0.0,Dean's Discretionary Fund
+102,59,1,60000.0,2025-02-14,Grant,Foundation Grant,0.0,Annual Fund
+103,59,2,45000.0,2022-04-11,Donation,,0.0,Faculty Excellence Fund
+104,59,3,10000.0,2014-09-09,Donation,Wire Transfer,0.0,Student Life
+105,59,4,25000.0,2014-03-21,Donation,Wire Transfer,0.0,Capital Campaign
+106,60,1,170000.0,2016-09-18,Donation,,0.0,Faculty Excellence Fund
+107,61,1,35000.0,2022-12-29,Donation,Check,0.0,Student Life
+108,61,2,60000.0,2014-09-09,Donation,GiveCampus,0.0,Capital Campaign
+109,61,3,70000.0,2012-04-17,Pledge,Multi-year Pledge,0.0,Annual Fund
+110,68,1,60000.0,2012-01-08,Pledge,,0.0,Library Fund
+111,70,1,260000.0,2017-12-22,Donation,Wire Transfer,0.0,Annual Fund
+112,70,2,400000.0,2011-10-14,Pledge,Multi-year Pledge,0.0,Research Initiative
+113,73,1,45000.0,2020-06-16,Donation,,0.0,Global Initiatives
+114,73,2,45000.0,2019-10-03,Pledge,Multi-year Pledge,0.0,Library Fund
+115,74,1,60000.0,2022-12-06,Donation,Wire Transfer,0.0,Global Initiatives
+116,75,1,90000.0,2025-09-19,Donation,Check,0.0,Athletics Fund
+117,75,2,330000.0,2025-05-27,Grant,Government Grant,0.0,Arts & Humanities
+118,75,3,590000.0,2017-10-18,Donation,,0.0,Student Life
+119,75,4,330000.0,2016-07-23,Donation,,0.0,Faculty Excellence Fund
+120,75,5,650000.0,2015-10-29,Donation,Wire Transfer,0.0,Faculty Excellence Fund
+121,75,6,330000.0,2015-10-16,Matching Gift,PAC Match,0.0,Arts & Humanities
+122,75,7,180000.0,2014-12-07,Donation,Wire Transfer,0.0,Research Initiative
+123,77,1,180000.0,2012-04-15,Donation,,0.0,Research Initiative
+124,79,1,160000.0,2025-12-04,Donation,,0.0,Research Initiative
+125,79,2,110000.0,2024-11-10,Donation,Wire Transfer,0.0,Student Life
+126,79,3,60000.0,2023-06-27,Pledge,Campaign Pledge,17000.0,Capital Campaign
+127,79,4,100000.0,2022-03-01,Donation,,0.0,Student Life
+128,79,5,150000.0,2018-05-06,Donation,,0.0,Student Life
+129,79,6,90000.0,2014-07-07,Pledge,,0.0,Capital Campaign
+130,79,7,35000.0,2012-06-11,Pledge,Multi-year Pledge,0.0,Global Initiatives
+131,79,8,150000.0,2012-04-20,Pledge,Campaign Pledge,0.0,Global Initiatives
+132,79,9,140000.0,2012-01-14,Pledge,Multi-year Pledge,0.0,Research Initiative
+133,81,1,70000.0,2023-12-22,Donation,GiveCampus,0.0,Athletics Fund
+134,81,2,50000.0,2023-05-19,Matching Gift,PAC Match,0.0,Arts & Humanities
+135,81,3,30000.0,2021-07-05,Matching Gift,Corporate Match,0.0,Annual Fund
+136,81,4,60000.0,2020-08-28,Donation,Check,0.0,Unrestricted Endowment
+137,81,5,45000.0,2019-05-13,Donation,,0.0,Athletics Fund
+138,81,6,70000.0,2018-01-18,Donation,Check,0.0,Annual Fund
+139,81,7,40000.0,2016-08-23,Pledge,Multi-year Pledge,0.0,Research Initiative
+140,81,8,70000.0,2014-06-16,Pledge,Campaign Pledge,0.0,Global Initiatives
+141,86,1,70000.0,2022-04-22,Donation,GiveCampus,0.0,Global Initiatives
+142,86,2,9000.0,2020-02-17,Grant,Government Grant,0.0,Arts & Humanities
+143,86,3,50000.0,2015-01-27,Donation,,0.0,Athletics Fund
+144,86,4,70000.0,2014-09-03,Donation,,0.0,Arts & Humanities
+145,87,1,660000.0,2023-07-27,Pledge,,174000.0,Scholarship Endowment
+146,87,2,390000.0,2020-07-11,Pledge,Multi-year Pledge,0.0,Dean's Discretionary Fund
+147,87,3,140000.0,2019-03-29,Grant,Foundation Grant,0.0,Global Initiatives
+148,87,4,230000.0,2017-06-15,Matching Gift,PAC Match,0.0,Unrestricted Endowment
+149,87,5,420000.0,2013-02-20,Pledge,,0.0,Research Initiative
+150,90,1,190000.0,2025-07-12,Pledge,Campaign Pledge,144000.0,Student Life
+151,91,1,210000.0,2024-03-03,Donation,GiveCampus,0.0,Student Life
+152,91,2,220000.0,2017-07-29,Pledge,,0.0,Annual Fund
+153,96,1,1100000.0,2023-10-18,Grant,Foundation Grant,0.0,Faculty Excellence Fund
+154,96,2,730000.0,2023-06-10,Pledge,Multi-year Pledge,240000.0,Athletics Fund
+155,96,3,1660000.0,2013-12-23,Pledge,Campaign Pledge,0.0,Scholarship Endowment
+156,98,1,50000.0,2021-07-07,Donation,,0.0,Capital Campaign
+157,98,2,10000.0,2012-05-18,Grant,Government Grant,0.0,Scholarship Endowment
+158,104,1,120000.0,2018-08-13,Grant,Corporate Grant,0.0,Faculty Excellence Fund
+159,104,2,150000.0,2015-08-08,Donation,,0.0,Global Initiatives
+160,104,3,40000.0,2014-06-04,Pledge,,0.0,Library Fund
+161,105,1,380000.0,2024-08-02,Donation,Check,0.0,Dean's Discretionary Fund
+162,105,2,140000.0,2016-12-04,Grant,Government Grant,0.0,Student Life
+163,111,1,300000.0,2017-06-09,Matching Gift,Foundation Match,0.0,Dean's Discretionary Fund
+164,111,2,300000.0,2016-09-10,Donation,GiveCampus,0.0,Annual Fund
+165,111,3,380000.0,2016-07-17,Matching Gift,PAC Match,0.0,Student Life
+166,113,1,140000.0,2025-09-11,Donation,,0.0,Arts & Humanities
+167,113,2,50000.0,2024-04-28,Matching Gift,PAC Match,0.0,Faculty Excellence Fund
+168,113,3,70000.0,2012-09-06,Donation,,0.0,Research Initiative
+169,114,1,410000.0,2016-07-10,Pledge,Multi-year Pledge,0.0,Research Initiative
+170,117,1,70000.0,2025-05-27,Donation,,0.0,Student Life
+171,117,2,60000.0,2023-09-17,Matching Gift,Corporate Match,0.0,Athletics Fund
+172,117,3,70000.0,2020-05-23,Donation,Wire Transfer,0.0,Dean's Discretionary Fund
+173,117,4,15000.0,2019-10-18,Grant,Foundation Grant,0.0,Faculty Excellence Fund
+174,117,5,30000.0,2014-07-18,Donation,Check,0.0,Scholarship Endowment
+175,118,1,8000.0,2025-11-26,Pledge,Campaign Pledge,7000.0,Global Initiatives
+176,118,2,60000.0,2016-03-07,Pledge,Multi-year Pledge,0.0,Global Initiatives
+177,121,1,140000.0,2022-08-05,Pledge,Campaign Pledge,0.0,Unrestricted Endowment
+178,121,2,130000.0,2017-04-09,Donation,GiveCampus,0.0,Unrestricted Endowment
+179,121,3,120000.0,2013-03-26,Donation,Wire Transfer,0.0,Global Initiatives
+180,123,1,60000.0,2024-04-18,Matching Gift,Corporate Match,0.0,Global Initiatives
+181,123,2,15000.0,2023-01-19,Donation,Wire Transfer,0.0,Athletics Fund
+182,123,3,160000.0,2019-09-05,Pledge,,0.0,Capital Campaign
+183,123,4,30000.0,2018-02-04,Grant,Foundation Grant,0.0,Athletics Fund
+184,123,5,160000.0,2017-09-10,Pledge,Multi-year Pledge,0.0,Research Initiative
+185,123,6,190000.0,2014-08-06,Pledge,,0.0,Research Initiative
+186,123,7,15000.0,2014-04-21,Pledge,Campaign Pledge,0.0,Library Fund
+187,123,8,130000.0,2013-04-25,Donation,GiveCampus,0.0,Research Initiative
+188,123,9,15000.0,2012-01-10,Matching Gift,Corporate Match,0.0,Capital Campaign
+189,124,1,70000.0,2021-03-11,Pledge,Campaign Pledge,0.0,Global Initiatives
+190,124,2,130000.0,2014-08-24,Matching Gift,Foundation Match,0.0,Capital Campaign
+191,124,3,120000.0,2013-09-16,Pledge,,0.0,Athletics Fund
+192,125,1,1810000.0,2023-08-31,Matching Gift,Foundation Match,0.0,Global Initiatives
+193,125,2,160000.0,2017-03-02,Donation,,0.0,Research Initiative
+194,125,3,780000.0,2011-06-04,Pledge,Campaign Pledge,0.0,Capital Campaign
+195,127,1,70000.0,2018-07-30,Pledge,,0.0,Annual Fund
+196,127,2,60000.0,2017-10-27,Pledge,,0.0,Unrestricted Endowment
+197,127,3,70000.0,2017-09-24,Grant,Foundation Grant,0.0,Student Life
+198,127,4,30000.0,2017-03-07,Donation,,0.0,Athletics Fund
+199,127,5,60000.0,2013-06-16,Grant,Corporate Grant,0.0,Student Life
+200,128,1,70000.0,2019-05-04,Donation,,0.0,Capital Campaign
+201,128,2,20000.0,2014-11-22,Donation,,0.0,Unrestricted Endowment
+202,129,1,110000.0,2025-01-26,Donation,,0.0,Global Initiatives
+203,129,2,780000.0,2024-11-26,Donation,,0.0,Annual Fund
+204,129,3,330000.0,2023-09-09,Matching Gift,PAC Match,0.0,Global Initiatives
+205,129,4,110000.0,2017-08-16,Pledge,Campaign Pledge,0.0,Global Initiatives
+206,129,5,600000.0,2017-07-29,Donation,,0.0,Library Fund
+207,129,6,180000.0,2017-07-18,Donation,Check,0.0,Student Life
+208,129,7,490000.0,2015-01-03,Donation,GiveCampus,0.0,Unrestricted Endowment
+209,129,8,160000.0,2012-11-03,Donation,Check,0.0,Arts & Humanities
+210,130,1,190000.0,2025-12-06,Grant,Government Grant,0.0,Athletics Fund
+211,130,2,45000.0,2020-04-01,Donation,GiveCampus,0.0,Capital Campaign
+212,131,1,60000.0,2025-11-14,Pledge,,51000.0,Capital Campaign
+213,131,2,70000.0,2024-03-29,Pledge,Multi-year Pledge,53000.0,Annual Fund
+214,131,3,40000.0,2023-05-23,Donation,Wire Transfer,0.0,Athletics Fund
+215,131,4,20000.0,2023-03-26,Donation,,0.0,Library Fund
+216,131,5,70000.0,2018-07-31,Donation,,0.0,Arts & Humanities
+217,131,6,15000.0,2015-04-09,Pledge,Multi-year Pledge,0.0,Research Initiative
+218,131,7,45000.0,2013-11-06,Donation,,0.0,Library Fund
+219,131,8,60000.0,2012-12-07,Donation,,0.0,Unrestricted Endowment
+220,132,1,35000.0,2026-04-19,Donation,Wire Transfer,0.0,Unrestricted Endowment
+221,132,2,40000.0,2023-10-13,Donation,Wire Transfer,0.0,Global Initiatives
+222,132,3,30000.0,2022-08-23,Matching Gift,PAC Match,0.0,Faculty Excellence Fund
+223,132,4,70000.0,2017-10-15,Donation,Wire Transfer,0.0,Athletics Fund
+224,133,1,700000.0,2025-03-16,Donation,,0.0,Student Life
+225,133,2,660000.0,2022-07-11,Donation,GiveCampus,0.0,Athletics Fund
+226,133,3,90000.0,2019-01-23,Donation,GiveCampus,0.0,Faculty Excellence Fund
+227,133,4,670000.0,2013-04-29,Pledge,Multi-year Pledge,0.0,Library Fund
+228,134,1,210000.0,2015-12-02,Pledge,Campaign Pledge,0.0,Capital Campaign
+229,136,1,420000.0,2011-12-22,Donation,Wire Transfer,0.0,Student Life
+230,139,1,170000.0,2022-06-17,Donation,Check,0.0,Unrestricted Endowment
+231,139,2,50000.0,2014-01-22,Pledge,Multi-year Pledge,0.0,Faculty Excellence Fund
+232,139,3,110000.0,2013-06-19,Grant,Foundation Grant,0.0,Student Life
+233,140,1,140000.0,2025-10-17,Donation,Wire Transfer,0.0,Dean's Discretionary Fund
+234,140,2,90000.0,2025-08-27,Pledge,,71000.0,Library Fund
+235,140,3,20000.0,2021-03-04,Donation,GiveCampus,0.0,Faculty Excellence Fund
+236,140,4,110000.0,2018-09-19,Matching Gift,PAC Match,0.0,Annual Fund
+237,140,5,10000.0,2017-02-23,Donation,Wire Transfer,0.0,Capital Campaign
+238,140,6,170000.0,2016-03-22,Donation,,0.0,Faculty Excellence Fund
+239,140,7,70000.0,2013-06-20,Pledge,,0.0,Scholarship Endowment
+240,144,1,190000.0,2014-03-20,Matching Gift,Foundation Match,0.0,Athletics Fund
+241,149,1,70000.0,2023-03-13,Pledge,Campaign Pledge,0.0,Annual Fund
+242,149,2,40000.0,2018-12-19,Pledge,Campaign Pledge,0.0,Athletics Fund
+243,150,1,70000.0,2025-12-11,Matching Gift,PAC Match,0.0,Arts & Humanities
+244,150,2,380000.0,2019-10-31,Pledge,Campaign Pledge,0.0,Dean's Discretionary Fund
+245,150,3,340000.0,2014-02-26,Donation,GiveCampus,0.0,Dean's Discretionary Fund
+246,150,4,280000.0,2014-01-17,Pledge,Campaign Pledge,0.0,Athletics Fund
+247,150,5,140000.0,2012-08-25,Pledge,Campaign Pledge,0.0,Arts & Humanities
+248,153,1,260000.0,2024-06-03,Donation,Wire Transfer,0.0,Library Fund
+249,153,2,310000.0,2019-12-13,Matching Gift,PAC Match,0.0,Dean's Discretionary Fund
+250,153,3,60000.0,2011-10-16,Pledge,,0.0,Faculty Excellence Fund
+251,155,1,130000.0,2021-11-29,Pledge,,0.0,Global Initiatives
+252,155,2,80000.0,2015-08-06,Donation,,0.0,Global Initiatives
+253,155,3,130000.0,2014-03-19,Donation,GiveCampus,0.0,Library Fund
+254,157,1,150000.0,2022-12-11,Donation,,0.0,Capital Campaign
+255,157,2,120000.0,2016-07-08,Donation,GiveCampus,0.0,Dean's Discretionary Fund
+256,157,3,130000.0,2013-06-02,Donation,,0.0,Unrestricted Endowment
+257,157,4,90000.0,2012-04-27,Donation,,0.0,Unrestricted Endowment
+258,160,1,30000.0,2011-06-05,Grant,Corporate Grant,0.0,Research Initiative
+259,162,1,140000.0,2013-07-17,Donation,,0.0,Athletics Fund
+260,164,1,380000.0,2020-04-15,Donation,GiveCampus,0.0,Library Fund
+261,164,2,100000.0,2017-11-27,Pledge,Multi-year Pledge,0.0,Global Initiatives
+262,165,1,170000.0,2023-04-28,Pledge,,0.0,Faculty Excellence Fund
+263,165,2,180000.0,2020-10-10,Donation,Wire Transfer,0.0,Scholarship Endowment
+264,165,3,40000.0,2020-04-08,Donation,,0.0,Unrestricted Endowment
+265,165,4,70000.0,2014-05-12,Pledge,Campaign Pledge,0.0,Arts & Humanities
+266,165,5,190000.0,2013-05-21,Pledge,,0.0,Arts & Humanities
+267,165,6,190000.0,2012-02-02,Donation,,0.0,Research Initiative
+268,167,1,200000.0,2024-01-06,Donation,Wire Transfer,0.0,Scholarship Endowment
+269,167,2,80000.0,2021-04-28,Pledge,Multi-year Pledge,0.0,Annual Fund
+270,167,3,100000.0,2018-08-10,Matching Gift,Corporate Match,0.0,Research Initiative
+271,167,4,120000.0,2018-01-03,Matching Gift,PAC Match,0.0,Global Initiatives
+272,167,5,100000.0,2014-06-05,Donation,Check,0.0,Athletics Fund
+273,167,6,50000.0,2012-09-02,Grant,Foundation Grant,0.0,Athletics Fund
+274,168,1,240000.0,2014-10-26,Grant,Foundation Grant,0.0,Library Fund
+275,169,1,340000.0,2025-04-03,Donation,,0.0,Global Initiatives
+276,171,1,70000.0,2021-08-05,Donation,GiveCampus,0.0,Scholarship Endowment
+277,171,2,70000.0,2017-06-17,Donation,,0.0,Faculty Excellence Fund
+278,173,1,380000.0,2016-11-24,Pledge,,0.0,Faculty Excellence Fund
+279,173,2,190000.0,2015-08-20,Pledge,Multi-year Pledge,0.0,Annual Fund
+280,174,1,530000.0,2022-12-13,Pledge,,0.0,Athletics Fund
+281,175,1,50000.0,2025-07-08,Donation,,0.0,Dean's Discretionary Fund
+282,175,2,40000.0,2022-05-01,Pledge,,0.0,Global Initiatives
+283,175,3,15000.0,2018-05-16,Pledge,Multi-year Pledge,0.0,Annual Fund
+284,177,1,150000.0,2023-03-28,Donation,Wire Transfer,0.0,Student Life
+285,177,2,310000.0,2022-08-28,Donation,Wire Transfer,0.0,Library Fund
+286,177,3,350000.0,2018-11-20,Donation,,0.0,Library Fund
+287,177,4,220000.0,2018-06-30,Pledge,Campaign Pledge,0.0,Unrestricted Endowment
+288,177,5,260000.0,2017-04-15,Donation,Check,0.0,Global Initiatives
+289,177,6,160000.0,2016-12-22,Donation,,0.0,Dean's Discretionary Fund
+290,177,7,130000.0,2016-09-14,Grant,Government Grant,0.0,Capital Campaign
+291,177,8,260000.0,2014-06-29,Donation,,0.0,Scholarship Endowment
+292,177,9,190000.0,2013-10-21,Grant,Corporate Grant,0.0,Annual Fund
+293,177,10,340000.0,2013-10-18,Donation,,0.0,Annual Fund
+294,178,1,270000.0,2017-12-14,Donation,,0.0,Scholarship Endowment
+295,178,2,70000.0,2011-12-21,Matching Gift,PAC Match,0.0,Arts & Humanities
+296,180,1,440000.0,2019-01-15,Donation,Check,0.0,Unrestricted Endowment
+297,180,2,600000.0,2018-09-07,Donation,Check,0.0,Scholarship Endowment
+298,182,1,180000.0,2023-01-28,Donation,GiveCampus,0.0,Dean's Discretionary Fund
+299,182,2,130000.0,2021-04-29,Matching Gift,PAC Match,0.0,Dean's Discretionary Fund
+300,182,3,80000.0,2017-09-18,Donation,Wire Transfer,0.0,Dean's Discretionary Fund
+301,182,4,180000.0,2017-08-27,Pledge,Multi-year Pledge,0.0,Faculty Excellence Fund
+302,182,5,25000.0,2015-04-21,Matching Gift,PAC Match,0.0,Capital Campaign
+303,182,6,160000.0,2015-02-07,Pledge,,0.0,Dean's Discretionary Fund
+304,182,7,170000.0,2014-07-15,Donation,,0.0,Faculty Excellence Fund
+305,182,8,180000.0,2013-02-25,Pledge,Campaign Pledge,0.0,Annual Fund
+306,182,9,130000.0,2012-06-21,Pledge,,0.0,Research Initiative
+307,182,10,180000.0,2012-05-27,Pledge,Campaign Pledge,0.0,Faculty Excellence Fund
+308,184,1,7000.0,2013-11-28,Donation,,0.0,Library Fund
+309,191,1,15000.0,2013-09-13,Donation,,0.0,Global Initiatives
+310,191,2,30000.0,2012-03-24,Matching Gift,Foundation Match,0.0,Scholarship Endowment
+311,195,1,60000.0,2025-02-12,Grant,Foundation Grant,0.0,Unrestricted Endowment
+312,195,2,9000.0,2024-01-06,Donation,Check,0.0,Faculty Excellence Fund
+313,195,3,60000.0,2020-11-24,Donation,Check,0.0,Faculty Excellence Fund
+314,195,4,50000.0,2017-07-03,Matching Gift,PAC Match,0.0,Annual Fund
+315,195,5,15000.0,2013-12-26,Donation,Wire Transfer,0.0,Global Initiatives
+316,195,6,20000.0,2013-11-20,Matching Gift,Corporate Match,0.0,Capital Campaign
+317,199,1,50000.0,2024-08-13,Pledge,Campaign Pledge,38000.0,Arts & Humanities
+318,199,2,60000.0,2021-01-03,Pledge,Campaign Pledge,0.0,Student Life
+319,199,3,120000.0,2019-07-05,Donation,,0.0,Athletics Fund
+320,199,4,100000.0,2013-11-25,Donation,Check,0.0,Library Fund
+321,199,5,180000.0,2011-12-12,Pledge,,0.0,Capital Campaign
+322,200,1,380000.0,2025-11-13,Pledge,Campaign Pledge,341000.0,Dean's Discretionary Fund
+323,200,2,360000.0,2020-10-06,Donation,Wire Transfer,0.0,Global Initiatives
+324,200,3,100000.0,2020-08-12,Donation,,0.0,Library Fund
+325,200,4,45000.0,2020-06-14,Donation,,0.0,Unrestricted Endowment
+326,200,5,200000.0,2018-11-06,Matching Gift,Foundation Match,0.0,Library Fund
+327,200,6,110000.0,2013-07-02,Pledge,Campaign Pledge,0.0,Arts & Humanities
+328,201,1,140000.0,2023-05-18,Donation,,0.0,Capital Campaign
+329,201,2,90000.0,2022-12-17,Pledge,Campaign Pledge,0.0,Annual Fund
+330,201,3,45000.0,2020-11-09,Donation,,0.0,Athletics Fund
+331,201,4,100000.0,2014-09-01,Pledge,Campaign Pledge,0.0,Library Fund
+332,202,1,190000.0,2022-03-02,Donation,,0.0,Faculty Excellence Fund
+333,202,2,200000.0,2021-08-01,Donation,,0.0,Research Initiative
+334,202,3,160000.0,2020-12-30,Pledge,Campaign Pledge,0.0,Arts & Humanities
+335,202,4,25000.0,2018-06-22,Donation,,0.0,Faculty Excellence Fund
+336,202,5,120000.0,2018-04-17,Grant,Foundation Grant,0.0,Annual Fund
+337,202,6,130000.0,2017-12-16,Pledge,,0.0,Dean's Discretionary Fund
+338,202,7,150000.0,2016-06-22,Matching Gift,Foundation Match,0.0,Annual Fund
+339,202,8,50000.0,2014-10-09,Donation,,0.0,Unrestricted Endowment
+340,202,9,110000.0,2013-07-19,Grant,Foundation Grant,0.0,Global Initiatives
+341,202,10,180000.0,2012-01-05,Grant,Government Grant,0.0,Research Initiative
+342,204,1,45000.0,2024-03-22,Donation,,0.0,Dean's Discretionary Fund
+343,204,2,100000.0,2023-09-22,Donation,,0.0,Unrestricted Endowment
+344,204,3,390000.0,2015-02-05,Matching Gift,Corporate Match,0.0,Library Fund
+345,204,4,80000.0,2012-08-27,Pledge,,0.0,Global Initiatives
+346,206,1,10000.0,2023-10-12,Donation,,0.0,Annual Fund
+347,212,1,20000.0,2021-11-13,Pledge,Multi-year Pledge,0.0,Global Initiatives
+348,212,2,30000.0,2012-05-02,Donation,,0.0,Student Life
+349,213,1,330000.0,2016-02-04,Grant,Government Grant,0.0,Scholarship Endowment
+350,213,2,320000.0,2011-09-19,Donation,,0.0,Scholarship Endowment
+351,218,1,290000.0,2026-02-10,Pledge,Campaign Pledge,280000.0,Athletics Fund
+352,219,1,80000.0,2021-12-18,Pledge,Multi-year Pledge,0.0,Dean's Discretionary Fund
+353,219,2,160000.0,2013-01-16,Donation,Check,0.0,Dean's Discretionary Fund
+354,222,1,260000.0,2025-12-04,Donation,GiveCampus,0.0,Arts & Humanities
+355,222,2,450000.0,2024-02-16,Donation,GiveCampus,0.0,Athletics Fund
+356,222,3,150000.0,2023-06-07,Pledge,Multi-year Pledge,30000.0,Scholarship Endowment
+357,222,4,630000.0,2021-03-05,Grant,Foundation Grant,0.0,Capital Campaign
+358,222,5,750000.0,2016-02-18,Matching Gift,Corporate Match,0.0,Scholarship Endowment
+359,222,6,170000.0,2015-03-04,Donation,,0.0,Student Life
+360,222,7,100000.0,2013-03-22,Donation,Wire Transfer,0.0,Global Initiatives
+361,223,1,15000.0,2025-10-21,Donation,,0.0,Student Life
+362,223,2,70000.0,2024-05-23,Pledge,Multi-year Pledge,46000.0,Capital Campaign
+363,223,3,50000.0,2017-01-22,Grant,Government Grant,0.0,Annual Fund
+364,223,4,50000.0,2016-09-30,Donation,,0.0,Annual Fund
+365,223,5,15000.0,2016-08-20,Donation,Wire Transfer,0.0,Arts & Humanities
+366,223,6,35000.0,2013-01-21,Matching Gift,Corporate Match,0.0,Global Initiatives
+367,225,1,400000.0,2024-11-07,Pledge,Multi-year Pledge,293000.0,Capital Campaign
+368,225,2,120000.0,2019-05-24,Matching Gift,PAC Match,0.0,Capital Campaign
+369,225,3,120000.0,2017-12-27,Grant,Corporate Grant,0.0,Annual Fund
+370,225,4,230000.0,2016-10-25,Donation,,0.0,Student Life
+371,225,5,100000.0,2016-05-17,Donation,Check,0.0,Research Initiative
+372,225,6,60000.0,2013-01-26,Pledge,Multi-year Pledge,0.0,Athletics Fund
+373,225,7,60000.0,2012-05-03,Pledge,,0.0,Research Initiative
+374,226,1,80000.0,2026-01-05,Donation,,0.0,Dean's Discretionary Fund
+375,226,2,150000.0,2024-02-14,Donation,,0.0,Library Fund
+376,226,3,220000.0,2018-02-03,Donation,GiveCampus,0.0,Library Fund
+377,226,4,45000.0,2014-09-18,Donation,Check,0.0,Faculty Excellence Fund
+378,227,1,190000.0,2019-11-08,Matching Gift,Corporate Match,0.0,Athletics Fund
+379,227,2,90000.0,2018-03-17,Donation,,0.0,Dean's Discretionary Fund
+380,230,1,5000.0,2025-08-22,Donation,,0.0,Unrestricted Endowment
+381,230,2,60000.0,2021-09-20,Grant,Government Grant,0.0,Research Initiative
+382,230,3,60000.0,2020-08-13,Donation,GiveCampus,0.0,Athletics Fund
+383,230,4,70000.0,2018-05-04,Grant,Corporate Grant,0.0,Capital Campaign
+384,230,5,45000.0,2016-10-02,Donation,Wire Transfer,0.0,Faculty Excellence Fund
+385,230,6,50000.0,2016-09-03,Grant,Corporate Grant,0.0,Annual Fund
+386,230,7,70000.0,2016-04-14,Donation,GiveCampus,0.0,Research Initiative
+387,230,8,25000.0,2015-03-07,Donation,,0.0,Unrestricted Endowment
+388,230,9,60000.0,2014-06-18,Pledge,,0.0,Annual Fund
+389,230,10,40000.0,2012-12-08,Donation,GiveCampus,0.0,Scholarship Endowment
+390,232,1,60000.0,2021-01-06,Donation,Check,0.0,Dean's Discretionary Fund
+391,232,2,25000.0,2020-06-01,Pledge,,0.0,Arts & Humanities
+392,232,3,70000.0,2014-02-09,Donation,,0.0,Arts & Humanities
+393,232,4,8000.0,2013-12-04,Pledge,Campaign Pledge,0.0,Global Initiatives
+394,232,5,60000.0,2013-03-05,Donation,,0.0,Unrestricted Endowment
+395,232,6,60000.0,2011-08-13,Grant,Corporate Grant,0.0,Global Initiatives
+396,236,1,30000.0,2023-08-11,Grant,Government Grant,0.0,Dean's Discretionary Fund
+397,240,1,100000.0,2019-11-17,Matching Gift,Foundation Match,0.0,Athletics Fund
+398,241,1,100000.0,2019-01-29,Donation,Check,0.0,Student Life
+399,243,1,60000.0,2025-12-23,Donation,,0.0,Capital Campaign
+400,243,2,60000.0,2016-04-20,Grant,Government Grant,0.0,Capital Campaign
+401,243,3,40000.0,2012-08-12,Donation,Wire Transfer,0.0,Library Fund
+402,244,1,140000.0,2025-01-28,Grant,Government Grant,0.0,Annual Fund
+403,244,2,140000.0,2024-04-23,Pledge,Campaign Pledge,96000.0,Scholarship Endowment
+404,244,3,140000.0,2023-12-09,Donation,Wire Transfer,0.0,Global Initiatives
+405,244,4,110000.0,2022-06-17,Donation,Wire Transfer,0.0,Library Fund
+406,244,5,180000.0,2017-02-04,Matching Gift,PAC Match,0.0,Library Fund
+407,247,1,170000.0,2025-08-15,Grant,Government Grant,0.0,Research Initiative
+408,247,2,70000.0,2019-10-23,Grant,Foundation Grant,0.0,Capital Campaign
+409,247,3,100000.0,2014-11-28,Pledge,Multi-year Pledge,0.0,Student Life
+410,247,4,190000.0,2011-06-22,Donation,Wire Transfer,0.0,Library Fund
+411,252,1,40000.0,2016-11-30,Donation,,0.0,Capital Campaign
+412,254,1,130000.0,2019-08-04,Donation,,0.0,Capital Campaign
+413,254,2,100000.0,2017-04-06,Donation,Wire Transfer,0.0,Athletics Fund
+414,254,3,120000.0,2012-12-12,Pledge,Multi-year Pledge,0.0,Student Life
+415,256,1,25000.0,2015-08-10,Pledge,Campaign Pledge,0.0,Arts & Humanities
+416,256,2,15000.0,2013-05-01,Donation,,0.0,Global Initiatives
+417,256,3,30000.0,2011-05-27,Donation,,0.0,Library Fund
+418,258,1,330000.0,2019-12-08,Pledge,Campaign Pledge,0.0,Student Life
+419,258,2,300000.0,2015-05-17,Donation,,0.0,Scholarship Endowment
+420,260,1,45000.0,2022-03-26,Donation,GiveCampus,0.0,Dean's Discretionary Fund
+421,260,2,60000.0,2019-09-27,Pledge,Multi-year Pledge,0.0,Research Initiative
+422,260,3,60000.0,2011-12-15,Donation,Wire Transfer,0.0,Research Initiative
+423,261,1,50000.0,2014-10-31,Donation,,0.0,Capital Campaign
+424,262,1,70000.0,2017-08-26,Donation,,0.0,Global Initiatives
+425,268,1,180000.0,2021-03-12,Pledge,,0.0,Athletics Fund
+426,268,2,40000.0,2015-01-20,Donation,Wire Transfer,0.0,Library Fund
+427,268,3,25000.0,2014-05-12,Pledge,,0.0,Global Initiatives
+428,269,1,30000.0,2024-08-25,Matching Gift,Foundation Match,0.0,Faculty Excellence Fund
+429,269,2,150000.0,2021-07-01,Donation,Wire Transfer,0.0,Unrestricted Endowment
+430,269,3,200000.0,2019-08-01,Grant,Foundation Grant,0.0,Dean's Discretionary Fund
+431,271,1,40000.0,2026-04-19,Matching Gift,Corporate Match,0.0,Arts & Humanities
+432,271,2,60000.0,2022-02-14,Pledge,Multi-year Pledge,0.0,Dean's Discretionary Fund
+433,271,3,90000.0,2018-08-23,Donation,,0.0,Athletics Fund
+434,272,1,45000.0,2024-02-15,Donation,,0.0,Athletics Fund
+435,272,2,120000.0,2023-07-07,Donation,GiveCampus,0.0,Scholarship Endowment
+436,272,3,150000.0,2019-03-06,Donation,Check,0.0,Scholarship Endowment
+437,272,4,35000.0,2016-09-08,Pledge,Multi-year Pledge,0.0,Global Initiatives
+438,272,5,150000.0,2012-06-26,Donation,Check,0.0,Annual Fund
+439,272,6,190000.0,2011-09-21,Donation,Check,0.0,Annual Fund
+440,276,1,40000.0,2016-05-17,Donation,,0.0,Faculty Excellence Fund
+441,278,1,180000.0,2020-05-12,Pledge,Campaign Pledge,0.0,Global Initiatives
+442,278,2,130000.0,2017-11-11,Donation,GiveCampus,0.0,Athletics Fund
+443,278,3,80000.0,2016-11-02,Matching Gift,Corporate Match,0.0,Dean's Discretionary Fund
+444,278,4,25000.0,2014-03-26,Grant,Corporate Grant,0.0,Global Initiatives
+445,278,5,70000.0,2014-01-23,Donation,Check,0.0,Annual Fund
+446,278,6,130000.0,2012-06-24,Donation,Check,0.0,Global Initiatives
+447,278,7,20000.0,2012-04-02,Pledge,Campaign Pledge,0.0,Library Fund
+448,278,8,60000.0,2011-06-08,Matching Gift,Corporate Match,0.0,Dean's Discretionary Fund
+449,280,1,9000.0,2016-10-31,Pledge,Campaign Pledge,0.0,Student Life
+450,282,1,70000.0,2021-08-30,Donation,Check,0.0,Capital Campaign
+451,282,2,45000.0,2019-04-04,Donation,,0.0,Arts & Humanities
+452,282,3,30000.0,2016-11-10,Pledge,,0.0,Annual Fund
+453,283,1,60000.0,2023-04-05,Matching Gift,PAC Match,0.0,Athletics Fund
+454,283,2,200000.0,2019-08-10,Matching Gift,Foundation Match,0.0,Athletics Fund
+455,283,3,150000.0,2019-07-22,Pledge,Campaign Pledge,0.0,Global Initiatives
+456,283,4,100000.0,2014-05-31,Donation,,0.0,Arts & Humanities
+457,283,5,60000.0,2013-06-20,Pledge,,0.0,Athletics Fund
+458,283,6,170000.0,2011-09-13,Donation,GiveCampus,0.0,Library Fund
+459,287,1,15000.0,2021-12-29,Grant,Foundation Grant,0.0,Faculty Excellence Fund
+460,287,2,80000.0,2021-05-10,Grant,Corporate Grant,0.0,Research Initiative
+461,287,3,170000.0,2014-12-13,Pledge,,0.0,Research Initiative
+462,288,1,30000.0,2025-02-03,Donation,Wire Transfer,0.0,Arts & Humanities
+463,288,2,9000.0,2023-11-16,Donation,Check,0.0,Unrestricted Endowment
+464,289,1,140000.0,2023-08-26,Donation,GiveCampus,0.0,Research Initiative
+465,291,1,60000.0,2025-09-07,Donation,,0.0,Scholarship Endowment
+466,291,2,190000.0,2024-10-18,Donation,Wire Transfer,0.0,Athletics Fund
+467,291,3,110000.0,2023-12-25,Donation,GiveCampus,0.0,Annual Fund
+468,291,4,180000.0,2023-04-18,Donation,Wire Transfer,0.0,Annual Fund
+469,291,5,120000.0,2019-05-05,Donation,GiveCampus,0.0,Library Fund
+470,291,6,200000.0,2019-03-22,Pledge,,0.0,Faculty Excellence Fund
+471,291,7,45000.0,2017-07-22,Grant,Government Grant,0.0,Arts & Humanities
+472,291,8,160000.0,2017-04-23,Donation,,0.0,Athletics Fund
+473,291,9,200000.0,2012-07-21,Donation,GiveCampus,0.0,Athletics Fund
+474,297,1,120000.0,2021-03-12,Donation,Check,0.0,Capital Campaign
+475,297,2,60000.0,2021-03-05,Donation,Wire Transfer,0.0,Capital Campaign
+476,297,3,35000.0,2020-09-02,Donation,Wire Transfer,0.0,Dean's Discretionary Fund
+477,297,4,110000.0,2018-08-20,Pledge,Multi-year Pledge,0.0,Arts & Humanities
+478,297,5,200000.0,2018-07-21,Pledge,Multi-year Pledge,0.0,Annual Fund
+479,297,6,190000.0,2017-08-26,Donation,,0.0,Athletics Fund
+480,297,7,60000.0,2016-08-29,Pledge,Multi-year Pledge,0.0,Arts & Humanities
+481,297,8,180000.0,2015-07-28,Pledge,,0.0,Scholarship Endowment
+482,297,9,45000.0,2014-05-15,Donation,Check,0.0,Library Fund
+483,297,10,110000.0,2013-02-07,Donation,Check,0.0,Dean's Discretionary Fund
+484,302,1,120000.0,2017-05-18,Pledge,Multi-year Pledge,0.0,Unrestricted Endowment
+485,306,1,80000.0,2024-09-03,Grant,Foundation Grant,0.0,Unrestricted Endowment
+486,306,2,160000.0,2022-07-02,Donation,,0.0,Global Initiatives
+487,306,3,190000.0,2017-10-18,Pledge,,0.0,Athletics Fund
+488,306,4,130000.0,2014-03-22,Donation,,0.0,Research Initiative
+489,309,1,20000.0,2023-01-22,Donation,,0.0,Annual Fund
+490,309,2,70000.0,2021-02-28,Donation,Check,0.0,Unrestricted Endowment
+491,309,3,40000.0,2020-04-28,Pledge,Campaign Pledge,0.0,Research Initiative
+492,309,4,40000.0,2015-01-10,Donation,Wire Transfer,0.0,Scholarship Endowment
+493,309,5,30000.0,2014-01-28,Grant,Foundation Grant,0.0,Athletics Fund
+494,309,6,70000.0,2012-04-23,Donation,,0.0,Athletics Fund
+495,311,1,100000.0,2024-10-29,Pledge,,60000.0,Annual Fund
+496,311,2,130000.0,2018-03-13,Pledge,Campaign Pledge,0.0,Unrestricted Endowment
+497,311,3,130000.0,2015-08-26,Donation,,0.0,Capital Campaign
+498,311,4,190000.0,2014-04-22,Donation,Wire Transfer,0.0,Unrestricted Endowment
+499,311,5,110000.0,2012-10-15,Donation,GiveCampus,0.0,Global Initiatives
+500,312,1,140000.0,2024-12-09,Donation,GiveCampus,0.0,Scholarship Endowment
+501,312,2,100000.0,2022-10-31,Donation,,0.0,Athletics Fund
+502,312,3,15000.0,2019-06-11,Donation,,0.0,Dean's Discretionary Fund
+503,312,4,110000.0,2019-04-03,Matching Gift,Corporate Match,0.0,Dean's Discretionary Fund
+504,312,5,60000.0,2014-10-08,Donation,,0.0,Student Life
+505,312,6,120000.0,2014-06-22,Pledge,,0.0,Student Life
+506,312,7,120000.0,2013-02-26,Donation,,0.0,Capital Campaign
+507,312,8,200000.0,2012-11-16,Matching Gift,Foundation Match,0.0,Student Life
+508,313,1,110000.0,2022-10-13,Matching Gift,Foundation Match,0.0,Annual Fund
+509,313,2,120000.0,2021-08-05,Pledge,,0.0,Capital Campaign
+510,313,3,20000.0,2013-08-07,Donation,,0.0,Annual Fund
+511,314,1,280000.0,2026-04-05,Donation,GiveCampus,0.0,Library Fund
+512,317,1,60000.0,2023-07-31,Donation,,0.0,Faculty Excellence Fund
+513,317,2,320000.0,2017-08-23,Donation,,0.0,Annual Fund
+514,317,3,110000.0,2015-07-10,Matching Gift,Foundation Match,0.0,Athletics Fund
+515,317,4,270000.0,2013-10-15,Matching Gift,Foundation Match,0.0,Scholarship Endowment
+516,322,1,200000.0,2023-03-17,Donation,,0.0,Unrestricted Endowment
+517,322,2,15000.0,2021-12-07,Pledge,,0.0,Dean's Discretionary Fund
+518,322,3,15000.0,2019-05-15,Pledge,Multi-year Pledge,0.0,Capital Campaign
+519,322,4,170000.0,2019-03-31,Donation,,0.0,Arts & Humanities
+520,322,5,120000.0,2011-12-02,Matching Gift,Corporate Match,0.0,Scholarship Endowment
+521,323,1,70000.0,2025-04-10,Donation,GiveCampus,0.0,Research Initiative
+522,323,2,10000.0,2016-07-13,Donation,Check,0.0,Research Initiative
+523,324,1,10000.0,2026-04-10,Donation,Wire Transfer,0.0,Global Initiatives
+524,324,2,50000.0,2024-05-14,Donation,,0.0,Student Life
+525,324,3,30000.0,2024-04-13,Pledge,,17000.0,Research Initiative
+526,324,4,20000.0,2021-04-07,Donation,Wire Transfer,0.0,Capital Campaign
+527,324,5,60000.0,2019-12-24,Donation,Wire Transfer,0.0,Global Initiatives
+528,324,6,30000.0,2016-04-13,Donation,GiveCampus,0.0,Annual Fund
+529,325,1,40000.0,2016-08-02,Pledge,Campaign Pledge,0.0,Unrestricted Endowment
+530,325,2,60000.0,2014-08-23,Pledge,,0.0,Arts & Humanities
+531,325,3,60000.0,2013-11-06,Donation,GiveCampus,0.0,Capital Campaign
+532,325,4,60000.0,2013-10-16,Donation,Wire Transfer,0.0,Library Fund
+533,325,5,7000.0,2012-01-22,Grant,Government Grant,0.0,Faculty Excellence Fund
+534,327,1,120000.0,2016-02-11,Donation,,0.0,Research Initiative
+535,327,2,200000.0,2012-02-26,Donation,Wire Transfer,0.0,Annual Fund
+536,330,1,430000.0,2024-09-03,Donation,,0.0,Library Fund
+537,330,2,270000.0,2015-12-20,Donation,,0.0,Unrestricted Endowment
+538,334,1,320000.0,2024-02-21,Donation,Check,0.0,Student Life
+539,339,1,760000.0,2022-08-29,Donation,,0.0,Student Life
+540,341,1,70000.0,2023-12-12,Donation,GiveCampus,0.0,Annual Fund
+541,341,2,160000.0,2023-05-08,Donation,,0.0,Annual Fund
+542,341,3,35000.0,2020-05-18,Grant,Corporate Grant,0.0,Library Fund
+543,341,4,140000.0,2020-05-01,Grant,Foundation Grant,0.0,Dean's Discretionary Fund
+544,341,5,130000.0,2018-02-02,Donation,,0.0,Dean's Discretionary Fund
+545,341,6,90000.0,2013-11-22,Grant,Foundation Grant,0.0,Library Fund
+546,343,1,250000.0,2022-08-27,Matching Gift,Foundation Match,0.0,Athletics Fund
+547,343,2,60000.0,2022-04-28,Donation,Wire Transfer,0.0,Unrestricted Endowment
+548,343,3,330000.0,2015-01-09,Matching Gift,PAC Match,0.0,Capital Campaign
+549,345,1,10000.0,2024-04-14,Matching Gift,Foundation Match,0.0,Arts & Humanities
+550,345,2,10000.0,2023-04-02,Donation,,0.0,Student Life
+551,351,1,60000.0,2024-05-17,Donation,,0.0,Dean's Discretionary Fund
+552,351,2,380000.0,2023-11-10,Donation,GiveCampus,0.0,Annual Fund
+553,351,3,80000.0,2019-03-30,Grant,Foundation Grant,0.0,Annual Fund
+554,351,4,330000.0,2011-07-29,Donation,Wire Transfer,0.0,Arts & Humanities
+555,353,1,480000.0,2024-05-13,Grant,Corporate Grant,0.0,Student Life
+556,353,2,570000.0,2020-07-22,Pledge,,0.0,Unrestricted Endowment
+557,353,3,480000.0,2011-08-25,Donation,GiveCampus,0.0,Research Initiative
+558,354,1,70000.0,2023-05-11,Donation,,0.0,Research Initiative
+559,354,2,10000.0,2021-07-10,Grant,Government Grant,0.0,Dean's Discretionary Fund
+560,354,3,15000.0,2018-07-30,Donation,GiveCampus,0.0,Faculty Excellence Fund
+561,354,4,60000.0,2017-01-23,Grant,Foundation Grant,0.0,Faculty Excellence Fund
+562,354,5,60000.0,2012-12-16,Matching Gift,PAC Match,0.0,Annual Fund
+563,356,1,220000.0,2024-10-07,Donation,,0.0,Arts & Humanities
+564,356,2,80000.0,2022-03-14,Grant,Government Grant,0.0,Annual Fund
+565,356,3,130000.0,2021-07-10,Donation,Wire Transfer,0.0,Research Initiative
+566,356,4,190000.0,2021-05-02,Donation,,0.0,Global Initiatives
+567,356,5,400000.0,2019-08-26,Donation,,0.0,Athletics Fund
+568,356,6,210000.0,2018-03-27,Matching Gift,Foundation Match,0.0,Athletics Fund
+569,356,7,140000.0,2017-04-06,Matching Gift,PAC Match,0.0,Research Initiative
+570,356,8,320000.0,2015-10-21,Matching Gift,Foundation Match,0.0,Athletics Fund
+571,356,9,80000.0,2012-08-10,Donation,,0.0,Arts & Humanities
+572,356,10,190000.0,2011-06-01,Donation,GiveCampus,0.0,Athletics Fund
+573,358,1,190000.0,2018-10-13,Donation,,0.0,Faculty Excellence Fund
+574,358,2,150000.0,2018-05-27,Pledge,,0.0,Global Initiatives
+575,358,3,190000.0,2012-05-27,Donation,,0.0,Scholarship Endowment
+576,359,1,100000.0,2025-09-09,Matching Gift,Foundation Match,0.0,Research Initiative
+577,359,2,200000.0,2024-06-09,Donation,,0.0,Capital Campaign
+578,359,3,70000.0,2024-01-27,Donation,GiveCampus,0.0,Unrestricted Endowment
+579,359,4,140000.0,2024-01-10,Donation,,0.0,Capital Campaign
+580,359,5,90000.0,2021-01-25,Pledge,Campaign Pledge,0.0,Arts & Humanities
+581,359,6,70000.0,2012-11-06,Matching Gift,Corporate Match,0.0,Dean's Discretionary Fund
+582,361,1,180000.0,2024-06-14,Donation,Wire Transfer,0.0,Arts & Humanities
+583,361,2,20000.0,2023-04-11,Grant,Foundation Grant,0.0,Research Initiative
+584,364,1,50000.0,2023-10-26,Donation,Wire Transfer,0.0,Arts & Humanities
+585,364,2,25000.0,2022-03-15,Donation,GiveCampus,0.0,Scholarship Endowment
+586,364,3,50000.0,2021-06-30,Pledge,,0.0,Library Fund
+587,364,4,8000.0,2018-09-29,Pledge,Multi-year Pledge,0.0,Dean's Discretionary Fund
+588,364,5,50000.0,2018-07-11,Pledge,Campaign Pledge,0.0,Annual Fund
+589,364,6,50000.0,2013-02-11,Matching Gift,PAC Match,0.0,Annual Fund
+590,364,7,30000.0,2011-08-16,Donation,Check,0.0,Global Initiatives
+591,365,1,25000.0,2026-01-13,Donation,,0.0,Annual Fund
+592,365,2,35000.0,2021-09-30,Grant,Government Grant,0.0,Global Initiatives
+593,365,3,60000.0,2013-04-28,Pledge,,0.0,Scholarship Endowment
+594,366,1,260000.0,2024-03-15,Grant,Foundation Grant,0.0,Student Life
+595,366,2,310000.0,2021-05-05,Donation,,0.0,Arts & Humanities
+596,366,3,150000.0,2018-10-02,Pledge,,0.0,Arts & Humanities
+597,366,4,35000.0,2011-08-22,Donation,GiveCampus,0.0,Library Fund
+598,367,1,35000.0,2025-11-16,Donation,Wire Transfer,0.0,Annual Fund
+599,367,2,30000.0,2011-11-11,Donation,GiveCampus,0.0,Library Fund
+600,368,1,480000.0,2023-07-01,Pledge,Campaign Pledge,261000.0,Dean's Discretionary Fund
+601,368,2,330000.0,2021-06-03,Matching Gift,PAC Match,0.0,Annual Fund
+602,368,3,420000.0,2020-11-20,Donation,GiveCampus,0.0,Capital Campaign
+603,368,4,60000.0,2020-04-26,Donation,,0.0,Unrestricted Endowment
+604,368,5,60000.0,2015-07-26,Donation,GiveCampus,0.0,Faculty Excellence Fund
+605,368,6,280000.0,2015-01-27,Matching Gift,PAC Match,0.0,Research Initiative
+606,369,1,9000.0,2020-08-04,Donation,,0.0,Unrestricted Endowment
+607,369,2,50000.0,2016-01-02,Matching Gift,PAC Match,0.0,Faculty Excellence Fund
+608,369,3,25000.0,2014-04-04,Pledge,,0.0,Scholarship Endowment
+609,370,1,180000.0,2025-05-31,Pledge,,133000.0,Arts & Humanities
+610,370,2,130000.0,2013-06-29,Donation,Wire Transfer,0.0,Student Life
+611,372,1,30000.0,2025-12-29,Grant,Corporate Grant,0.0,Research Initiative
+612,372,2,160000.0,2022-11-29,Donation,Wire Transfer,0.0,Annual Fund
+613,373,1,170000.0,2018-10-25,Donation,,0.0,Scholarship Endowment
+614,373,2,150000.0,2018-10-21,Donation,GiveCampus,0.0,Athletics Fund
+615,373,3,20000.0,2016-01-26,Donation,,0.0,Research Initiative
+616,373,4,180000.0,2014-02-16,Pledge,,0.0,Dean's Discretionary Fund
+617,373,5,80000.0,2013-10-29,Donation,Wire Transfer,0.0,Capital Campaign
+618,373,6,100000.0,2013-09-09,Donation,GiveCampus,0.0,Annual Fund
+619,375,1,20000.0,2024-04-08,Grant,Government Grant,0.0,Annual Fund
+620,375,2,35000.0,2023-09-27,Donation,,0.0,Scholarship Endowment
+621,375,3,50000.0,2018-08-02,Pledge,Campaign Pledge,0.0,Capital Campaign
+622,376,1,240000.0,2026-03-18,Pledge,,232000.0,Student Life
+623,376,2,230000.0,2023-07-08,Donation,,0.0,Student Life
+624,376,3,300000.0,2015-05-06,Pledge,Multi-year Pledge,0.0,Global Initiatives
+625,376,4,280000.0,2014-08-05,Pledge,Multi-year Pledge,0.0,Capital Campaign
+626,376,5,60000.0,2013-06-17,Pledge,Campaign Pledge,0.0,Student Life
+627,377,1,160000.0,2021-01-02,Donation,Check,0.0,Global Initiatives
+628,377,2,25000.0,2018-09-09,Grant,Corporate Grant,0.0,Global Initiatives
+629,379,1,180000.0,2022-06-10,Donation,,0.0,Unrestricted Endowment
+630,379,2,110000.0,2020-02-12,Donation,,0.0,Dean's Discretionary Fund
+631,379,3,40000.0,2015-07-21,Pledge,,0.0,Capital Campaign
+632,379,4,130000.0,2014-11-21,Pledge,Campaign Pledge,0.0,Capital Campaign
+633,382,1,60000.0,2024-12-24,Donation,GiveCampus,0.0,Athletics Fund
+634,388,1,140000.0,2021-11-27,Pledge,Campaign Pledge,0.0,Unrestricted Endowment
+635,388,2,35000.0,2013-05-11,Pledge,Campaign Pledge,0.0,Faculty Excellence Fund
+636,388,3,60000.0,2012-10-17,Matching Gift,Foundation Match,0.0,Dean's Discretionary Fund
+637,389,1,210000.0,2023-05-19,Pledge,,0.0,Dean's Discretionary Fund
+638,391,1,620000.0,2025-05-18,Grant,Government Grant,0.0,Scholarship Endowment
+639,392,1,200000.0,2017-03-05,Donation,Check,0.0,Annual Fund
+640,393,1,70000.0,2021-02-17,Donation,,0.0,Global Initiatives
+641,393,2,15000.0,2016-06-09,Donation,,0.0,Unrestricted Endowment
+642,393,3,15000.0,2016-01-22,Donation,Wire Transfer,0.0,Scholarship Endowment
+643,393,4,70000.0,2015-12-31,Donation,Check,0.0,Dean's Discretionary Fund
+644,394,1,190000.0,2017-10-29,Donation,Wire Transfer,0.0,Dean's Discretionary Fund
+645,394,2,50000.0,2012-09-01,Matching Gift,PAC Match,0.0,Athletics Fund
+646,395,1,120000.0,2024-10-22,Donation,,0.0,Scholarship Endowment
+647,395,2,15000.0,2020-02-13,Donation,,0.0,Arts & Humanities
+648,395,3,180000.0,2017-08-16,Donation,GiveCampus,0.0,Research Initiative
+649,395,4,150000.0,2017-07-08,Donation,,0.0,Research Initiative
+650,395,5,80000.0,2014-03-03,Donation,,0.0,Scholarship Endowment
+651,395,6,160000.0,2012-05-26,Pledge,Multi-year Pledge,0.0,Arts & Humanities
+652,396,1,1930000.0,2020-08-05,Donation,GiveCampus,0.0,Faculty Excellence Fund
+653,396,2,1250000.0,2019-11-15,Pledge,,0.0,Dean's Discretionary Fund
+654,396,3,890000.0,2019-07-27,Donation,,0.0,Athletics Fund
+655,396,4,820000.0,2011-08-05,Pledge,Multi-year Pledge,0.0,Faculty Excellence Fund
+656,397,1,360000.0,2017-08-31,Donation,,0.0,Scholarship Endowment
+657,398,1,90000.0,2020-07-28,Donation,,0.0,Dean's Discretionary Fund
+658,399,1,40000.0,2019-02-12,Donation,Check,0.0,Student Life
+659,399,2,130000.0,2013-11-12,Grant,Foundation Grant,0.0,Student Life
+660,400,1,60000.0,2024-02-09,Pledge,Campaign Pledge,21000.0,Scholarship Endowment
+661,400,2,45000.0,2022-12-31,Pledge,Multi-year Pledge,0.0,Athletics Fund
+662,400,3,45000.0,2017-03-02,Donation,,0.0,Capital Campaign
+663,400,4,70000.0,2012-06-14,Pledge,Multi-year Pledge,0.0,Library Fund
+664,400,5,20000.0,2012-05-04,Matching Gift,Corporate Match,0.0,Unrestricted Endowment
+665,401,1,70000.0,2021-04-06,Matching Gift,PAC Match,0.0,Dean's Discretionary Fund
+666,401,2,10000.0,2021-01-06,Donation,,0.0,Unrestricted Endowment
+667,401,3,35000.0,2020-10-19,Donation,,0.0,Dean's Discretionary Fund
+668,401,4,70000.0,2020-06-17,Donation,Check,0.0,Research Initiative
+669,404,1,150000.0,2017-04-21,Pledge,Multi-year Pledge,0.0,Dean's Discretionary Fund
+670,404,2,180000.0,2016-02-19,Pledge,Campaign Pledge,0.0,Arts & Humanities
+671,404,3,80000.0,2013-02-22,Matching Gift,PAC Match,0.0,Research Initiative
+672,405,1,45000.0,2020-03-26,Matching Gift,Foundation Match,0.0,Research Initiative
+673,405,2,9000.0,2017-08-20,Matching Gift,PAC Match,0.0,Athletics Fund
+674,405,3,15000.0,2017-06-29,Donation,,0.0,Arts & Humanities
+675,406,1,170000.0,2026-02-17,Donation,Wire Transfer,0.0,Athletics Fund
+676,406,2,160000.0,2013-06-18,Donation,,0.0,Research Initiative
+677,407,1,70000.0,2017-12-25,Donation,GiveCampus,0.0,Capital Campaign
+678,407,2,190000.0,2013-05-24,Donation,,0.0,Library Fund
+679,409,1,45000.0,2018-01-20,Pledge,,0.0,Athletics Fund
+680,411,1,720000.0,2025-02-15,Donation,GiveCampus,0.0,Scholarship Endowment
+681,411,2,290000.0,2021-12-04,Donation,,0.0,Faculty Excellence Fund
+682,411,3,90000.0,2020-05-14,Pledge,Campaign Pledge,0.0,Research Initiative
+683,411,4,630000.0,2014-02-04,Donation,,0.0,Scholarship Endowment
+684,411,5,560000.0,2013-03-21,Matching Gift,PAC Match,0.0,Annual Fund
+685,411,6,560000.0,2011-09-18,Donation,,0.0,Library Fund
+686,414,1,70000.0,2024-07-11,Donation,Wire Transfer,0.0,Athletics Fund
+687,414,2,20000.0,2023-08-11,Donation,Check,0.0,Athletics Fund
+688,414,3,15000.0,2018-01-17,Pledge,Campaign Pledge,0.0,Library Fund
+689,414,4,60000.0,2013-12-29,Donation,Check,0.0,Unrestricted Endowment
+690,418,1,180000.0,2017-02-02,Pledge,,0.0,Faculty Excellence Fund
+691,418,2,100000.0,2014-06-11,Matching Gift,PAC Match,0.0,Global Initiatives
