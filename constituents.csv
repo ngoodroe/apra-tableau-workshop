@@ -1,419 +1,419 @@
 constituent_id,name,birthdate,status,days_in_status,spouse_name,spouse_birthdate,fundraiser_id,capacity_rating,city,state,class_year
-1,Mrs. Anthony Zhang II,1945-10-14,Cultivation,122,Dr. Betty T. James,1975-04-23,1,$50K-$99K,Portland,OR,1996
-2,Dr. George Baker,1949-04-25,Cultivation,434,,,1,$100K-$249K,Portland,OR,1986
-3,Prescott N. Hernandez II,1958-11-20,Identification,99,,,1,$500K-$999K,Detroit,MI,2007
-4,Ms. Dorothy R. Ruiz Jr.,1950-06-12,Identification,60,,,1,$250K-$499K,Nashville,TN,2006
-5,Ms. Carol J. Abubakar II,1954-11-11,Stewardship,174,,,1,$100K-$249K,Denver,CO,1964
-6,Jason Turner III,1949-05-05,Solicitation,156,Prescott P. Zhang Sr.,1963-04-05,1,$100K-$249K,Los Angeles,CA,1967
-7,Thomas R. Howard,1975-01-22,Solicitation,399,,,1,$500K-$999K,Seattle,WA,1996
-8,George J. Bailey,1972-02-28,Solicitation,350,Prof. Ann Martin Jr.,1950-09-25,1,$250K-$499K,Baltimore,MD,
-9,Brandon H. Park,1945-12-16,Stewardship,201,Steven S. Cox,1956-09-28,1,$100K-$249K,Albany,NY,1975
-10,Maria T. Cook,1955-04-03,Stewardship,752,,,1,$250K-$499K,Dallas,TX,1997
-11,Dr. Ryan B. Beaumont Jr.,1944-09-08,Qualification,156,,,1,$50K-$99K,Los Angeles,CA,1975
-12,Ms. Jean Harris,1946-11-14,Cultivation,452,,,1,$250K-$499K,Singapore,SG,1991
-13,Sandra G. Ramos III,1948-07-06,Stewardship,630,Angela Martinez III,1975-02-02,1,$50K-$99K,Philadelphia,PA,1996
-14,Frances N. Okafor,1950-07-01,Stewardship,859,Prof. Nathan W. Alvarez III,1949-04-10,1,$1M+,Phoenix,AZ,1965
-15,Arthur Howard,1943-09-03,Cultivation,280,Mr. Karen Walker Sr.,1947-10-08,1,$100K-$249K,Austin,TX,1964
-16,Eric L. Walker,1965-03-22,Cultivation,397,,,1,$100K-$249K,Dubai,UAE,1966
-17,Mr. Prescott J. Taylor Jr.,1944-04-12,Identification,79,,,1,$100K-$249K,Singapore,SG,1996
-18,Scott Wilson,1956-02-04,Solicitation,313,Mrs. Brenda G. Foster Jr.,1953-11-21,1,$100K-$249K,Toronto,Canada,
-19,Stephen L. Sutton,1980-05-06,Cultivation,542,Christina Anderson,1984-03-18,1,$50K-$99K,San Francisco,CA,1985
-20,David Clark,1982-02-12,Cultivation,663,Michelle Walker,1951-07-01,1,$50K-$99K,Washington,DC,1983
-21,Mr. Heather Bancroft III,1954-04-27,Solicitation,265,Brandon Chen,1954-01-22,1,$100K-$249K,Phoenix,AZ,1983
-22,Tyler Whitmore II,1961-01-04,Qualification,147,Mrs. Eugenia King,1946-10-14,1,$50K-$99K,Portland,OR,1982
-23,Ms. Shirley P. Smith II,1974-11-24,Cultivation,291,Adam L. Gray Jr.,1982-02-24,1,$1M+,Atlanta,GA,
-24,Prof. Beaumont P. Castillo Sr.,1983-12-06,Cultivation,720,Prof. Joyce Smith,1958-04-14,1,$250K-$499K,Austin,TX,2000
-25,Jean Langford,1982-02-10,Cultivation,617,,,1,$100K-$249K,Richmond,VA,2001
-26,Ms. Ronald B. Young III,1979-02-15,Cultivation,514,,,1,$250K-$499K,Phoenix,AZ,
-27,Ms. Donna Smith,1967-04-06,Cultivation,620,,,1,$250K-$499K,San Diego,CA,1997
-28,Thaddeus Wood Jr.,1968-10-27,Qualification,272,Reginald F. Worthington III,1968-05-25,1,$500K-$999K,Hartford,CT,2002
-29,Prof. Douglas K. Walker,1961-06-18,Qualification,55,,,1,$250K-$499K,Albany,NY,1976
-30,Frank Collins,1953-07-13,Cultivation,688,Dr. Constance A. Rivera,1964-07-18,1,$50K-$99K,Miami,FL,1996
-31,Harold L. Castillo Sr.,1950-08-05,Solicitation,348,Michael Chavez,1945-11-14,1,$500K-$999K,Albany,NY,1991
-32,Raymond Carter,1966-05-27,Qualification,55,John Miller Jr.,1954-11-03,1,$50K-$99K,Austin,TX,2003
-33,Dr. Michelle S. Castillo,1976-04-15,Identification,72,Joshua Worthington,1950-05-04,1,$50K-$99K,Phoenix,AZ,1981
-34,Ms. Lisa Thornton,1946-12-25,Cultivation,398,Mr. Barnard Hall II,1967-11-12,1,$500K-$999K,San Diego,CA,2003
-35,Judith Morales,1973-11-09,Cultivation,720,Frances J. Adams,1945-05-15,1,$500K-$999K,Albany,NY,1991
-36,Brian M. Kingsford,1961-05-20,Cultivation,372,Robert Harris,1955-12-14,1,$250K-$499K,Baltimore,MD,1977
-37,Dr. Betty N. Myers,1959-11-19,Solicitation,218,,,1,$100K-$249K,Albany,NY,1995
-38,Brenda H. Thomas,1960-02-24,Cultivation,638,Mrs. Stephanie S. Scott II,1978-05-04,1,$1M+,Hong Kong,HK,
-39,Steven B. Cox,1984-03-21,Qualification,265,Mr. Patricia Ortiz III,1968-06-06,1,$100K-$249K,Raleigh,NC,
-40,Cheryl B. Martin,1976-05-03,Qualification,141,,,1,$500K-$999K,Atlanta,GA,1988
-41,Virginia Hill Sr.,1959-10-20,Cultivation,151,,,1,$250K-$499K,Charlotte,NC,2009
-42,Mr. George W. Martinez,1940-07-15,Identification,159,Justin K. Ross,1984-08-03,1,$250K-$499K,Miami,FL,1978
-43,Cynthia Mensah,1949-02-02,Solicitation,114,,,1,$100K-$249K,Dallas,TX,2000
-44,Helen Wright II,1974-08-15,Solicitation,71,,,1,$100K-$249K,Nashville,TN,1989
-45,Dr. Jonathan Blackwell,1970-09-21,Solicitation,256,Prof. Brian Morales III,1945-08-12,1,$100K-$249K,Boston,MA,1982
-46,Emma Phillips II,1942-08-03,Cultivation,412,Prof. Samuel N. Beaumont II,1940-11-28,1,$500K-$999K,Baltimore,MD,1988
-47,Dr. Timothy E. Abubakar,1968-12-16,Identification,38,,,1,$100K-$249K,Albany,NY,2002
-48,Dr. Beaumont H. Whitmore,1969-02-21,Cultivation,247,Justin Wright Sr.,1970-08-08,1,$50K-$99K,Denver,CO,1971
-49,Mrs. Karen P. Baker II,1957-01-10,Cultivation,395,,,1,$500K-$999K,London,UK,
-50,Gregory W. Carter III,1960-04-23,Cultivation,334,,,1,$250K-$499K,Seattle,WA,1976
-51,Dennis Langford,1971-01-05,Stewardship,1088,,,1,$100K-$249K,Austin,TX,
-52,Patricia Evans,1944-08-26,Cultivation,361,Julie Bancroft Jr.,1983-09-13,1,$50K-$99K,Richmond,VA,
-53,Dr. Karen K. Robinson,1967-02-25,Cultivation,192,,,1,$500K-$999K,Albany,NY,2006
-54,Prof. Janet E. Young II,1966-10-22,Qualification,106,,,1,$50K-$99K,Austin,TX,1967
-55,Mrs. Kathleen J. Rogers,1982-01-26,Cultivation,566,,,1,$100K-$249K,Phoenix,AZ,
-56,Prof. Jose Rogers,1952-07-28,Cultivation,584,,,1,$50K-$99K,Richmond,VA,1986
-57,Stephen B. Mensah III,1958-04-20,Cultivation,450,Ms. Edward Sanders,1980-02-21,1,$100K-$249K,Nashville,TN,1981
-58,Mr. Nicole P. Thompson,1948-09-12,Solicitation,301,,,1,$50K-$99K,St. Louis,MO,1979
-59,Prof. Raymond Gutierrez,1949-04-28,Stewardship,873,,,1,$50K-$99K,Providence,RI,
-60,Margaret J. Brooks Sr.,1980-06-04,Solicitation,375,Ms. Walter W. Adams,1981-02-21,1,$100K-$249K,Columbus,OH,
-61,Dr. Barbara S. Anderson,1955-09-05,Stewardship,855,Patrick Worthington II,1966-10-24,1,$50K-$99K,Indianapolis,IN,1988
-62,Prof. William Ramirez III,1968-04-28,Cultivation,461,,,1,$500K-$999K,Indianapolis,IN,2005
-63,Prof. Edward Aldridge III,1945-11-07,Cultivation,701,Dr. Richard Young,1976-04-03,1,$500K-$999K,Pittsburgh,PA,
-64,Mrs. James E. Taylor II,1956-03-04,Cultivation,116,Mrs. Patricia H. Chavez Jr.,1941-03-09,1,$100K-$249K,Charlotte,NC,2009
-65,Jean Cook II,1954-10-02,Cultivation,623,,,1,$50K-$99K,Los Angeles,CA,2003
-66,Sandra R. Martinez,1960-10-05,Disqualified,47,,,1,$50K-$99K,Providence,RI,2001
-67,Nicole P. Gonzalez,1981-11-25,Cultivation,654,Ms. Adam H. Evans Jr.,1969-07-14,1,$100K-$249K,Austin,TX,1982
-68,Karen C. Lopez Sr.,1946-12-24,Cultivation,471,,,1,$250K-$499K,St. Louis,MO,
-69,Mr. Victoria P. Chen,1958-10-10,Cultivation,450,,,1,$100K-$249K,Hong Kong,HK,1994
-70,Montgomery J. Watson,1967-09-25,Qualification,332,,,1,$250K-$499K,Charlotte,NC,2003
-71,Prof. Samantha Hall,1951-03-19,Cultivation,500,Mr. Andrew Brown,1973-04-13,1,$100K-$249K,Portland,OR,1983
-72,Mr. Jessica B. Sanders,1957-08-22,Qualification,231,,,1,$50K-$99K,Austin,TX,1990
-73,Mark S. Howard,1942-04-13,Cultivation,703,Dr. Mary G. Sutton,1956-05-11,1,$50K-$99K,London,UK,1993
-74,Ms. Arthur Castillo Jr.,1944-07-28,Solicitation,51,,,1,$50K-$99K,San Diego,CA,1991
-75,Henry N. Williams Jr.,1950-10-15,Stewardship,801,,,1,$500K-$999K,Singapore,SG,1968
-76,Prof. Raymond F. Martinez II,1980-02-17,Qualification,275,Ms. Carolyn E. Walker,1949-05-07,1,$100K-$249K,Toronto,Canada,1971
-77,Zachary Blackwell III,1983-10-21,Solicitation,355,,,1,$250K-$499K,Minneapolis,MN,
-78,Mr. Walter K. Langford,1977-01-12,Cultivation,609,Mr. Samantha B. Davis Jr.,1958-02-21,1,$1M+,Austin,TX,
-79,David G. Adams III,1972-03-02,Stewardship,982,Mr. Rachel Hernandez II,1981-03-02,1,$100K-$249K,London,UK,1990
-80,Prof. Diane L. Sanders,1980-11-11,Disqualified,47,Matthew Roberts,1956-12-28,1,$100K-$249K,Denver,CO,2000
-81,Samantha Long Sr.,1948-10-23,Stewardship,233,,,1,$50K-$99K,Dubai,UAE,1986
-82,Betty Stewart II,1963-01-12,Cultivation,406,,,1,$50K-$99K,Washington,DC,1975
-83,Mrs. Michelle D. Bailey II,1973-01-22,Cultivation,434,Mrs. Jack F. Thornton,1968-01-14,1,$250K-$499K,Dallas,TX,2008
-84,Kathleen Flores III,1952-06-22,Qualification,306,,,1,$100K-$249K,Nashville,TN,
-85,Carol Kingsford,1956-01-21,Cultivation,582,,,1,$50K-$99K,San Diego,CA,
-86,Prof. Nancy Wright III,1972-03-27,Cultivation,537,,,2,$50K-$99K,Toronto,Canada,1976
-87,Arthur N. Hernandez Jr.,1954-01-11,Solicitation,80,Donna K. Diallo III,1984-03-25,2,$500K-$999K,Boston,MA,1990
-88,Mrs. Reginald James II,1967-02-25,Cultivation,385,Ms. Helen H. Collins III,1944-02-27,2,$500K-$999K,Boston,MA,
-89,Mrs. Justin M. Walker Sr.,1951-11-22,Cultivation,177,,,2,$50K-$99K,London,UK,1985
-90,Beaumont S. Garcia Sr.,1963-05-24,Identification,11,,,2,$100K-$249K,London,UK,1966
-91,Paul W. Baker,1983-08-23,Cultivation,580,,,2,$250K-$499K,Philadelphia,PA,1970
-92,Ms. Susan Nguyen,1960-05-17,Identification,108,Jean G. Torres Jr.,1943-11-11,2,$250K-$499K,Hartford,CT,1985
-93,Raymond Peterson III,1963-09-09,Cultivation,174,,,2,$100K-$249K,Richmond,VA,1967
-94,Anthony K. Flores III,1978-12-14,Cultivation,260,,,2,$1M+,Minneapolis,MN,1984
-95,Stephen Langford,1944-11-21,Cultivation,505,,,2,$250K-$499K,Pittsburgh,PA,2009
-96,William H. Pemberton Jr.,1963-07-19,Cultivation,123,,,2,$1M+,Seattle,WA,2005
-97,Mrs. Thaddeus L. Price,1955-02-01,Cultivation,280,,,2,$100K-$249K,Richmond,VA,1986
-98,Ms. Emma Cooper,1947-03-28,Stewardship,211,,,2,$50K-$99K,Detroit,MI,2007
-99,Mr. Reginald Zhang,1950-12-23,Cultivation,268,,,2,$50K-$99K,Austin,TX,1994
-100,Michael M. Gutierrez II,1948-10-03,Qualification,47,Prof. Julie Jimenez III,1973-07-25,2,$1M+,Washington,DC,1998
-101,Gregory W. Ruiz,1948-07-17,Identification,21,,,2,$1M+,Los Angeles,CA,
-102,Ms. Gregory Kelly,1945-05-07,Cultivation,654,Prof. Steven Bennett II,1945-09-21,2,$50K-$99K,Denver,CO,1999
-103,Dr. Linda J. Price,1976-07-20,Qualification,341,,,2,$250K-$499K,Baltimore,MD,2002
-104,Scott B. Lee III,1966-08-15,Cultivation,298,,,2,$100K-$249K,Raleigh,NC,1971
-105,Mrs. Patrick Wilson Jr.,1955-08-04,Cultivation,363,,,2,$250K-$499K,Pittsburgh,PA,1971
-106,Angela Okafor,1960-10-24,Identification,87,,,2,$50K-$99K,San Diego,CA,1972
-107,Jennifer N. Bailey III,1955-04-19,Cultivation,451,,,2,$100K-$249K,Albany,NY,1980
-108,Dr. Sandra J. Whitfield Jr.,1965-06-02,Cultivation,500,Dr. Clifton Campbell II,1958-02-13,2,$500K-$999K,Providence,RI,1997
-109,Mr. Jerry L. Ward Jr.,1949-04-20,Qualification,274,Arthur B. Moore Jr.,1970-09-15,2,$1M+,Atlanta,GA,1994
-110,Prof. Rosalind T. Ramos III,1985-10-10,Qualification,257,Dr. Patrick D. Collins,1984-11-01,2,$500K-$999K,Austin,TX,1978
-111,Dr. Harriet T. Mendoza Sr.,1949-11-08,Disqualified,30,,,2,$250K-$499K,Dubai,UAE,2006
-112,Timothy S. Chen,1985-03-17,Identification,60,Christine Morgan II,1964-06-06,2,$50K-$99K,Austin,TX,1996
-113,Ms. Angela K. Lewis,1958-12-07,Cultivation,590,,,2,$100K-$249K,Detroit,MI,1984
-114,Heather Turner Jr.,1949-05-02,Cultivation,384,Mr. Gregory Price,1970-04-07,2,$500K-$999K,Portland,OR,
-115,Ms. Jacob T. Lewis,1943-02-14,Qualification,183,Dorothy Moore,1975-03-14,2,$100K-$249K,Portland,OR,1992
-116,Dr. Daniel Robinson II,1942-03-14,Cultivation,270,Dr. Julie White,1942-01-10,2,$50K-$99K,Nashville,TN,1968
-117,Eston E. Aldridge II,1969-05-07,Stewardship,290,,,2,$50K-$99K,Hartford,CT,2008
-118,Nicole Ashworth,1951-10-28,Cultivation,505,Jean N. Castillo,1951-03-16,2,$50K-$99K,Minneapolis,MN,1977
-119,Helen Watson,1956-11-12,Identification,67,,,2,$100K-$249K,Richmond,VA,1969
-120,Prof. Donald Nguyen Jr.,1979-04-08,Cultivation,226,,,2,$50K-$99K,London,UK,1991
-121,Prescott Holloway,1955-11-25,Solicitation,335,,,2,$100K-$249K,Indianapolis,IN,
-122,Mr. Sarah Okafor II,1952-10-18,Identification,45,Mrs. Christine Murphy,1983-04-23,2,$100K-$249K,St. Louis,MO,1967
-123,Henry B. Ward III,1983-05-24,Stewardship,104,,,2,$100K-$249K,San Francisco,CA,1962
-124,Mr. Harrington Zhang,1970-01-10,Solicitation,239,,,2,$100K-$249K,Chicago,IL,1970
-125,Peter Mensah Sr.,1964-02-22,Solicitation,368,Paul Hall,1951-09-13,2,$1M+,Indianapolis,IN,2008
-126,Whitfield N. Holloway,1955-08-12,Disqualified,93,,,2,$500K-$999K,Boston,MA,2008
-127,Dr. Amy D. Wood,1968-10-22,Solicitation,390,,,2,$50K-$99K,Indianapolis,IN,
-128,Ms. Joseph K. Robinson Jr.,1976-10-25,Qualification,358,Gary E. Alvarez II,1954-07-10,2,$50K-$99K,Richmond,VA,1997
-129,Montgomery M. Hughes Sr.,1973-06-23,Stewardship,912,,,2,$500K-$999K,Minneapolis,MN,1981
-130,Ms. Scott Jackson III,1943-09-14,Cultivation,516,Thaddeus H. Allen,1961-11-03,2,$250K-$499K,Providence,RI,
-131,David Harris II,1953-08-07,Stewardship,741,Prof. Patricia G. Harrington,1970-04-23,2,$50K-$99K,Dallas,TX,1975
-132,Evelyn Rivera,1956-06-17,Cultivation,599,,,2,$50K-$99K,Austin,TX,2008
-133,Susan Lewis,1941-05-18,Cultivation,688,Nicole L. Robinson Sr.,1976-04-16,2,$500K-$999K,Miami,FL,2005
-134,Judith M. Perez,1974-08-06,Cultivation,645,,,2,$250K-$499K,Albany,NY,
-135,Dr. Mary H. Rodriguez,1940-04-17,Disqualified,247,,,2,$100K-$249K,Los Angeles,CA,2001
-136,Dr. Mary Evans,1941-09-24,Cultivation,371,,,2,$500K-$999K,Providence,RI,1980
-137,Mrs. Sandra Howard,1955-04-20,Identification,141,,,2,$250K-$499K,Louisville,KY,1984
-138,Barnard H. Hill,1981-11-25,Qualification,30,,,2,$100K-$249K,St. Louis,MO,1986
-139,Mr. Alice Hughes Jr.,1976-02-17,Cultivation,133,,,2,$100K-$249K,New York,NY,2006
-140,Prof. Whitfield Jones,1960-01-07,Stewardship,355,,,2,$100K-$249K,Chicago,IL,2007
-141,Ms. Clifton Roberts II,1961-07-25,Solicitation,101,Mr. Arthur Hall,1946-07-08,2,$500K-$999K,Raleigh,NC,
-142,Linda Ashford III,1971-04-12,Cultivation,656,,,2,$250K-$499K,Columbus,OH,
-143,Prof. Angela Hernandez,1949-07-23,Cultivation,247,Katherine C. Smith,1968-06-25,2,$250K-$499K,San Diego,CA,1970
-144,Anthony M. Cox,1978-10-26,Identification,90,,,2,$100K-$249K,Hong Kong,HK,
-145,Jacob Perez Sr.,1950-03-09,Identification,84,,,2,$100K-$249K,Houston,TX,1971
-146,Mr. Alexander H. Jimenez III,1978-10-07,Identification,124,Mr. Paul N. Nelson Sr.,1961-08-11,2,$100K-$249K,Indianapolis,IN,2003
-147,Ms. Kyle N. Green,1984-11-16,Disqualified,308,,,2,$50K-$99K,Austin,TX,1982
-148,Ms. Rosalind White II,1941-12-15,Cultivation,304,Justin Rodriguez Sr.,1983-08-05,2,$250K-$499K,Columbus,OH,1977
-149,Mr. Peter Morgan Sr.,1974-09-28,Qualification,228,,,2,$50K-$99K,Louisville,KY,1985
-150,Ms. Frank B. Richardson Sr.,1961-07-04,Solicitation,35,Mr. Eric T. Ward,1968-06-13,2,$250K-$499K,Houston,TX,2005
-151,Anthony C. Anderson,1962-05-11,Cultivation,556,,,2,$100K-$249K,Pittsburgh,PA,1995
-152,Katherine B. Wentworth,1941-06-21,Cultivation,201,,,2,$100K-$249K,Richmond,VA,1972
-153,Mrs. Frank Gutierrez,1965-11-06,Stewardship,441,Julie G. Cook Sr.,1964-01-23,2,$250K-$499K,Toronto,Canada,1979
-154,Deborah G. Rogers,1956-11-28,Solicitation,280,,,2,$250K-$499K,Los Angeles,CA,2002
-155,Frank Gray,1983-12-26,Cultivation,394,,,2,$100K-$249K,Columbus,OH,
-156,Prof. Ashley E. Reed Sr.,1966-10-05,Cultivation,678,Jose W. Myers,1975-03-16,2,$250K-$499K,Austin,TX,1973
-157,Dr. Harold N. Ward II,1981-08-14,Cultivation,593,,,2,$100K-$249K,San Francisco,CA,1990
-158,Ms. Justin H. Ramos,1950-08-19,Cultivation,597,,,2,$50K-$99K,Boston,MA,1969
-159,Harrington Garcia III,1974-04-14,Cultivation,194,,,2,$50K-$99K,Sydney,Australia,2003
-160,Daniel D. Pemberton,1953-12-19,Solicitation,382,,,2,$50K-$99K,Chicago,IL,2007
-161,Ms. Sarah Ramos,1978-09-06,Cultivation,421,,,2,$100K-$249K,Washington,DC,
-162,Mr. Paul Ashford Sr.,1943-05-28,Qualification,349,,,2,$100K-$249K,London,UK,1970
-163,Cheryl J. Mendoza Sr.,1964-08-03,Qualification,338,,,2,$250K-$499K,Phoenix,AZ,1967
-164,Christine Chen,1969-11-22,Cultivation,456,,,2,$250K-$499K,St. Louis,MO,
-165,Jonathan K. Baker II,1976-03-19,Solicitation,278,,,2,$100K-$249K,Louisville,KY,2005
-166,Mrs. Douglas P. Sanchez,1981-05-06,Solicitation,170,Mr. Alexander M. Castillo,1943-07-21,2,$50K-$99K,Hartford,CT,2006
-167,Dr. Jason E. Chavez,1973-11-15,Solicitation,34,,,2,$100K-$249K,Houston,TX,1983
-168,Charles C. Whitfield,1946-06-12,Solicitation,183,,,2,$1M+,Louisville,KY,1970
-169,Dr. Joshua G. Mendoza,1966-10-22,Cultivation,543,,,2,$250K-$499K,Los Angeles,CA,
-170,Carolyn Green,1955-05-21,Identification,28,,,2,$50K-$99K,Atlanta,GA,2000
-171,Prof. Timothy Reed,1965-05-21,Cultivation,145,,,2,$100K-$249K,Boston,MA,1977
-172,Mr. Thaddeus Johnson Jr.,1960-03-13,Cultivation,672,,,2,$50K-$99K,Albany,NY,1996
-173,Mr. Patricia B. Abubakar,1965-09-10,Solicitation,351,Henry N. Hernandez II,1974-10-05,2,$250K-$499K,Los Angeles,CA,1981
-174,Marguerite Thornton,1959-12-14,Identification,68,,,2,$500K-$999K,Seattle,WA,1967
-175,Mrs. Donald E. Long,1950-08-12,Stewardship,590,Mrs. Maria J. Whitfield,1941-06-26,2,$50K-$99K,San Francisco,CA,1995
-176,Nathan Davis III,1976-03-12,Identification,47,,,2,$250K-$499K,Singapore,SG,1968
-177,James A. Young,1970-06-13,Stewardship,367,Mrs. Barbara Mensah Sr.,1954-06-08,2,$250K-$499K,Atlanta,GA,2008
-178,Jessica T. Garcia Sr.,1944-08-28,Cultivation,379,Prof. Christine R. Johnson Jr.,1952-05-19,3,$250K-$499K,Singapore,SG,2009
-179,Ms. Whitfield Young,1940-07-01,Cultivation,328,,,3,$100K-$249K,Dubai,UAE,2002
-180,Brandon T. Walker Sr.,1971-01-05,Stewardship,633,Mr. Susan Zhang II,1966-12-12,3,$500K-$999K,Baltimore,MD,2009
-181,Lisa Davis Sr.,1982-03-08,Identification,81,,,3,$50K-$99K,Washington,DC,1982
-182,Prof. Kathleen G. Moore,1949-02-06,Stewardship,980,Benjamin W. Rivera,1968-05-15,3,$100K-$249K,Austin,TX,1969
-183,Dr. Laura Adams,1945-12-08,Identification,98,,,3,$250K-$499K,Raleigh,NC,1965
-184,Virginia Cox,1946-08-04,Cultivation,233,Mr. Patricia H. Taylor,1965-06-22,3,$50K-$99K,Minneapolis,MN,2003
-185,Mr. Ronald Murphy,1945-06-04,Identification,17,Richard P. Holloway Sr.,1971-01-13,3,$100K-$249K,Los Angeles,CA,1973
-186,Mrs. William Bennett,1981-05-16,Cultivation,511,Kyle J. Roberts,1966-04-21,3,$500K-$999K,Portland,OR,
-187,Janet S. Hall II,1960-07-09,Cultivation,274,,,3,$100K-$249K,Sydney,Australia,2000
-188,Thaddeus H. Lee,1955-11-08,Qualification,150,Joseph Lewis Sr.,1962-03-06,3,$500K-$999K,Portland,OR,1982
-189,Clifton Richardson,1971-09-10,Solicitation,119,Barbara H. James,1941-09-16,3,$250K-$499K,Dubai,UAE,2001
-190,Sarah E. Pemberton,1973-06-03,Qualification,205,,,3,$50K-$99K,Minneapolis,MN,2004
-191,Mrs. Ruth Cooper Jr.,1951-12-18,Cultivation,718,Cynthia Fairbanks,1964-05-24,3,$50K-$99K,Raleigh,NC,1970
-192,Dr. Brian Diallo,1980-10-04,Qualification,268,Mrs. Frank Walker Jr.,1960-03-21,3,$50K-$99K,Singapore,SG,
-193,Prof. Sharon C. Hall,1946-12-01,Identification,19,,,3,$250K-$499K,Baltimore,MD,2008
-194,Carolyn Gonzalez III,1976-11-25,Cultivation,320,,,3,$50K-$99K,Indianapolis,IN,1966
-195,Mr. Charles N. Lee,1975-02-11,Solicitation,334,Linda F. James Sr.,1950-01-04,3,$50K-$99K,Boston,MA,1974
-196,Prof. Scott B. Turner II,1971-03-02,Cultivation,459,Dr. Christina S. Sanchez,1941-04-06,3,$100K-$249K,Sydney,Australia,1967
-197,Prof. Betty Roberts,1963-07-12,Cultivation,281,,,3,$50K-$99K,Columbus,OH,1978
-198,Mrs. Matthew M. Wentworth II,1966-10-08,Cultivation,656,,,3,$50K-$99K,Portland,OR,1986
-199,Miriam Ortiz,1945-07-28,Solicitation,395,,,3,$100K-$249K,Sydney,Australia,1998
-200,Kevin Perez,1952-03-02,Stewardship,927,Mr. Ruth E. Thornton,1960-12-26,3,$250K-$499K,Seattle,WA,1986
-201,Dr. Marguerite Collins,1966-03-05,Cultivation,670,,,3,$100K-$249K,Portland,OR,1968
-202,Gregory King Sr.,1981-08-19,Stewardship,1028,,,3,$100K-$249K,Philadelphia,PA,1979
-203,Gary S. Diallo,1963-01-11,Cultivation,400,Prof. Pamela Bancroft,1954-03-10,3,$100K-$249K,Columbus,OH,
-204,Mr. Edward P. Harrington III,1973-06-27,Cultivation,147,,,3,$250K-$499K,Portland,OR,1972
-205,Clifton G. Park,1943-04-02,Identification,123,Dr. Alexander Scott Jr.,1969-09-13,3,$250K-$499K,Columbus,OH,1969
-206,Mrs. Jean Hall Jr.,1950-05-24,Solicitation,382,,,3,$50K-$99K,Albany,NY,1963
-207,Ms. Jeffrey Sanders,1957-11-14,Cultivation,615,,,3,$50K-$99K,Singapore,SG,2005
-208,Dr. Cynthia K. Foster,1967-07-28,Identification,96,,,3,$500K-$999K,Minneapolis,MN,1975
-209,Dr. Gerald Whitmore Jr.,1975-11-20,Cultivation,713,,,3,$250K-$499K,Columbus,OH,2005
-210,Prof. Eric Zhang,1952-03-17,Identification,68,,,3,$50K-$99K,Portland,OR,
-211,Mrs. Michael Nguyen,1966-07-13,Solicitation,48,,,3,$250K-$499K,Columbus,OH,1998
-212,Janet Aldridge,1982-09-06,Solicitation,180,,,3,$50K-$99K,Charlotte,NC,1970
-213,Mrs. Debra Lewis Jr.,1954-12-28,Solicitation,187,,,3,$250K-$499K,Hong Kong,HK,1983
-214,Jessica Brooks,1970-04-17,Cultivation,212,,,3,$100K-$249K,Hartford,CT,
-215,Mrs. Emily Baker Sr.,1976-08-05,Cultivation,413,,,3,$50K-$99K,San Francisco,CA,
-216,Mrs. Benjamin Smith III,1957-04-25,Qualification,100,,,3,$50K-$99K,Baltimore,MD,1972
-217,Christina S. Roberts,1942-09-07,Cultivation,472,Dr. Samuel Howard,1941-11-01,3,$250K-$499K,Houston,TX,1977
-218,Arthur Perez,1942-05-10,Qualification,247,Eston E. Baker III,1962-04-06,3,$500K-$999K,Raleigh,NC,
-219,Mrs. Jason Chavez II,1950-02-12,Stewardship,136,Shirley Gray,1978-01-22,3,$100K-$249K,Charlotte,NC,1963
-220,Nicholas E. Clark,1959-07-22,Identification,32,Brenda Long,1966-02-17,3,$50K-$99K,Richmond,VA,1969
-221,Ms. Anna Sanchez Jr.,1985-07-10,Qualification,96,Dr. Reginald G. Myers III,1961-04-01,3,$250K-$499K,Albany,NY,1967
-222,Mr. Gerald D. Okafor,1981-04-15,Stewardship,666,Prof. Zachary F. Chen,1958-06-26,3,$500K-$999K,Albany,NY,1989
-223,Mrs. Amanda R. Gray,1945-06-27,Solicitation,205,Mrs. Ashley R. Wright Sr.,1984-08-26,3,$50K-$99K,Chicago,IL,1972
-224,Mrs. Anthony S. Kingsford III,1951-10-13,Identification,98,,,3,$250K-$499K,San Francisco,CA,2005
-225,Mark Murphy,1944-05-21,Stewardship,703,,,3,$250K-$499K,Washington,DC,2005
-226,Roger Long,1967-11-24,Cultivation,344,Gregory Hughes Sr.,1949-09-20,3,$250K-$499K,Singapore,SG,2003
-227,Mrs. Lisa Adams,1961-05-02,Stewardship,516,,,3,$100K-$249K,Providence,RI,1986
-228,Daniel Cook Jr.,1947-08-24,Cultivation,108,,,3,$50K-$99K,Hartford,CT,1988
-229,Prof. Gerald Price III,1961-06-27,Identification,20,,,3,$100K-$249K,Houston,TX,
-230,Virginia H. Smith Jr.,1962-11-26,Stewardship,657,,,3,$50K-$99K,Providence,RI,1985
-231,Sandra G. Harris,1965-04-15,Solicitation,127,,,3,$50K-$99K,Denver,CO,1968
-232,Judith Bailey,1971-01-17,Solicitation,54,Adam Morgan II,1951-12-19,3,$50K-$99K,Dubai,UAE,1970
-233,Kelly Diallo,1957-07-11,Identification,82,,,3,$250K-$499K,Austin,TX,1970
-234,Benjamin Cox,1952-04-20,Qualification,162,Kimberly Price,1972-09-23,3,$100K-$249K,London,UK,2007
-235,Cornelius P. Wentworth,1973-02-01,Identification,104,,,3,$100K-$249K,Providence,RI,2004
-236,Prof. Donna Myers,1953-09-02,Identification,98,,,3,$50K-$99K,Denver,CO,
-237,Diane K. Myers,1964-07-14,Identification,87,,,3,$500K-$999K,Hong Kong,HK,
-238,Cynthia Ross Jr.,1977-09-24,Identification,161,,,3,$250K-$499K,Dallas,TX,2008
-239,Mr. Deborah Harrington II,1947-07-02,Disqualified,233,,,3,$50K-$99K,Minneapolis,MN,1978
-240,Michelle L. Wood,1980-10-27,Qualification,352,Prof. Cheryl Cox Jr.,1944-12-11,3,$100K-$249K,Detroit,MI,1973
-241,Joyce H. Nguyen,1982-06-11,Cultivation,459,Prof. Laura Gray II,1970-09-27,3,$250K-$499K,Denver,CO,2003
-242,Ms. David Adams Sr.,1947-07-09,Identification,145,Prof. Michael Holloway Jr.,1972-09-15,3,$250K-$499K,Richmond,VA,1980
-243,Mr. Joshua Sutton II,1974-01-21,Stewardship,194,Ms. Jason Stewart,1953-09-27,3,$50K-$99K,London,UK,2009
-244,Mrs. Michael L. Jones,1944-01-06,Solicitation,158,,,3,$100K-$249K,Los Angeles,CA,1998
-245,Adam N. Sanders,1974-01-21,Solicitation,398,Mr. Harriet C. Rivera II,1946-05-26,3,$500K-$999K,Indianapolis,IN,2000
-246,Dr. Jean H. Moore Sr.,1974-05-21,Identification,43,Prof. Maria Johnson II,1975-03-04,3,$250K-$499K,Richmond,VA,1998
-247,Jason T. Jackson,1951-04-20,Cultivation,348,Ms. Ashley B. Aldridge II,1969-11-18,3,$100K-$249K,Houston,TX,2004
-248,Janet H. Gonzalez,1979-02-07,Identification,88,,,3,$50K-$99K,Dubai,UAE,1983
-249,Benjamin Perez,1960-04-26,Cultivation,316,Stephen Moore Jr.,1970-08-15,3,$50K-$99K,Dubai,UAE,1981
-250,Mrs. Prescott C. Whitfield,1941-09-21,Cultivation,121,,,3,$50K-$99K,Houston,TX,
-251,Eric Kim III,1981-03-12,Cultivation,491,,,3,$250K-$499K,Miami,FL,1999
-252,Mr. Julie A. Alvarez,1979-11-06,Solicitation,293,,,3,$50K-$99K,Hartford,CT,1972
-253,Janet S. Robinson,1956-06-08,Qualification,35,,,3,$500K-$999K,Seattle,WA,1995
-254,Dr. David Adams,1985-09-21,Stewardship,620,,,3,$100K-$249K,Providence,RI,
-255,Catherine Zhang,1973-05-13,Qualification,128,Joyce M. Cooper III,1978-01-17,3,$100K-$249K,Minneapolis,MN,
-256,Ms. Kenneth M. James,1982-04-14,Cultivation,428,,,4,$50K-$99K,London,UK,1992
-257,Jennifer E. Watson,1948-11-17,Cultivation,130,Mrs. Joseph F. Kelly Sr.,1978-10-21,4,$100K-$249K,Dubai,UAE,2008
-258,Frances P. Wood,1977-03-20,Solicitation,367,Anna L. Abubakar III,1978-10-03,4,$250K-$499K,Houston,TX,1986
-259,Kelly James,1951-08-20,Qualification,321,,,4,$50K-$99K,Toronto,Canada,1996
-260,James Pemberton Sr.,1973-07-12,Cultivation,134,,,4,$50K-$99K,Providence,RI,1989
-261,Mr. Jose S. Sutton,1945-05-20,Qualification,292,Shirley A. Watson II,1947-09-01,4,$250K-$499K,San Diego,CA,1975
-262,Harriet W. Stewart Jr.,1979-05-22,Solicitation,233,Ms. Victoria Ward III,1951-06-18,4,$50K-$99K,St. Louis,MO,1978
-263,Mr. Ryan F. Gonzalez,1972-07-26,Disqualified,187,,,4,$100K-$249K,Columbus,OH,
-264,Dr. Betty Ortiz Sr.,1945-02-09,Cultivation,317,Christopher Jimenez Sr.,1965-10-21,4,$250K-$499K,San Francisco,CA,2007
-265,Robert T. Torres,1942-10-17,Disqualified,278,,,4,$50K-$99K,Minneapolis,MN,2001
-266,Mrs. Daniel Pemberton Sr.,1962-11-13,Qualification,221,,,4,$50K-$99K,Phoenix,AZ,1995
-267,Harriet J. Lewis,1969-07-19,Identification,8,,,4,$250K-$499K,Houston,TX,1988
-268,Mr. Jean Park II,1976-05-23,Cultivation,543,Barnard H. Ashworth Jr.,1969-11-15,4,$100K-$249K,London,UK,
-269,Ms. Ryan Evans Jr.,1973-09-01,Stewardship,599,Ms. Emma L. Martinez II,1951-08-11,4,$100K-$249K,Detroit,MI,1998
-270,Ms. Gary Chen,1953-04-07,Qualification,141,,,4,$500K-$999K,Dallas,TX,
-271,Mary Kim,1970-06-20,Cultivation,412,,,4,$250K-$499K,Atlanta,GA,1998
-272,Ms. Constance T. Kingsford Sr.,1970-09-02,Stewardship,1089,Jerry Pemberton,1969-02-23,4,$100K-$249K,London,UK,1982
-273,Mr. Christine J. White II,1956-04-09,Solicitation,271,Catherine P. Clark Sr.,1984-06-12,4,$50K-$99K,Miami,FL,
-274,Ms. Dorothy Kingsford,1975-07-28,Qualification,209,,,4,$50K-$99K,Washington,DC,2009
-275,Mrs. Roger Green III,1959-05-18,Qualification,304,,,4,$250K-$499K,Minneapolis,MN,1968
-276,Mr. Virginia King Jr.,1963-09-18,Solicitation,161,,,4,$50K-$99K,Detroit,MI,1988
-277,Kevin Torres Jr.,1960-11-17,Qualification,263,,,4,$500K-$999K,Dallas,TX,1990
-278,Mrs. Joshua Abubakar Jr.,1966-11-20,Stewardship,888,,,4,$100K-$249K,Nashville,TN,
-279,Prof. Jonathan Turner,1968-06-24,Identification,157,Virginia F. Bancroft,1948-12-08,4,$50K-$99K,Charlotte,NC,2009
-280,Mr. Thomas Ortiz II,1943-01-25,Solicitation,233,Nancy E. Hernandez Sr.,1959-04-08,4,$50K-$99K,Denver,CO,1990
-281,Christine Gutierrez II,1957-09-15,Cultivation,228,Melissa Rogers Sr.,1973-11-21,4,$50K-$99K,Denver,CO,1984
-282,Victoria K. Johnson,1973-03-12,Cultivation,383,,,4,$50K-$99K,Houston,TX,1962
-283,Justin Langford,1975-06-07,Solicitation,240,Ruth F. Foster Sr.,1964-04-09,4,$100K-$249K,Providence,RI,2002
-284,Jonathan C. White,1958-02-21,Qualification,247,Brenda Cooper,1960-01-05,4,$250K-$499K,Portland,OR,1996
-285,Robert E. Johnson III,1953-06-14,Identification,86,Maria B. Nelson,1949-01-09,4,$1M+,Nashville,TN,1966
-286,Dr. Margaret Foster,1964-08-08,Cultivation,124,,,4,$50K-$99K,Detroit,MI,2009
-287,Prof. Samuel B. Worthington II,1973-02-09,Solicitation,276,,,4,$100K-$249K,Miami,FL,1974
-288,Ms. Ruth F. Langford,1977-02-13,Cultivation,338,,,4,$50K-$99K,Miami,FL,1964
-289,Mr. Angela C. Patel Jr.,1980-01-02,Cultivation,454,Mrs. Prescott Taylor III,1954-06-18,4,$250K-$499K,Seattle,WA,1984
-290,Janet Allen,1971-12-15,Solicitation,316,Prof. Harrington Harris,1974-06-11,4,$100K-$249K,Dallas,TX,1979
-291,Michelle J. Kim Jr.,1969-01-25,Stewardship,836,Mrs. John Campbell,1960-12-03,4,$100K-$249K,Hong Kong,HK,1996
-292,Mrs. Larry L. Anderson,1973-11-03,Solicitation,52,,,4,$50K-$99K,Albany,NY,
-293,Ms. Dorothy N. Alvarez III,1973-10-23,Qualification,316,Prof. Richard C. Johnson,1981-08-27,4,$500K-$999K,Dallas,TX,2002
-294,Dr. Jonathan Whitfield,1959-02-07,Identification,139,,,4,$100K-$249K,Indianapolis,IN,2008
-295,Ms. Clifton Thompson II,1975-07-24,Qualification,68,,,4,$100K-$249K,Dallas,TX,1998
-296,Mrs. Brian Bailey Jr.,1982-03-18,Cultivation,704,,,4,$100K-$249K,Louisville,KY,1984
-297,Adam Adams,1976-09-07,Stewardship,828,,,4,$100K-$249K,Austin,TX,2009
-298,Dr. William Wood,1973-03-10,Qualification,17,,,4,$1M+,Richmond,VA,1976
-299,Montgomery Watson,1946-01-15,Qualification,196,,,4,$50K-$99K,Portland,OR,1978
-300,Prof. Betty Richardson,1944-12-11,Cultivation,584,Mrs. Harold Myers,1978-11-10,4,$100K-$249K,Charlotte,NC,1998
-301,Henry Thomas,1981-10-01,Cultivation,481,Dr. Brandon Green II,1976-03-11,4,$250K-$499K,Baltimore,MD,1976
-302,Betty K. Ashford Sr.,1949-03-11,Qualification,56,,,4,$250K-$499K,Columbus,OH,2009
-303,Kimberly Morgan II,1952-08-13,Identification,173,Ms. Ellsworth Harrington II,1955-04-03,4,$100K-$249K,Houston,TX,1989
-304,Jose G. Adams Jr.,1978-11-01,Cultivation,402,Mrs. Carolyn Kingsford III,1979-03-15,4,$500K-$999K,Houston,TX,1976
-305,Dr. Jacob Abubakar,1958-01-11,Qualification,70,Prof. Virginia L. Clark II,1953-04-18,4,$100K-$249K,Houston,TX,1978
-306,Dr. Jack Alvarez II,1942-05-06,Cultivation,151,,,4,$100K-$249K,Seattle,WA,2006
-307,Prof. Alexander Williams,1981-07-08,Cultivation,479,Dorothy Cooper II,1945-03-07,4,$50K-$99K,New York,NY,1991
-308,Brandon N. Worthington,1941-06-22,Cultivation,450,Helen T. Scott,1980-05-13,4,$250K-$499K,Chicago,IL,
-309,Ms. Kenneth N. Alvarez,1945-12-13,Solicitation,296,,,4,$50K-$99K,Hong Kong,HK,
-310,Mrs. Christina Mensah Jr.,1968-09-05,Cultivation,301,Mrs. Eugenia Kingsford,1948-05-23,4,$100K-$249K,Charlotte,NC,1995
-311,Mrs. Katherine W. Jimenez,1951-06-27,Stewardship,358,,,4,$100K-$249K,Seattle,WA,1982
-312,Prof. Kenneth Wilson,1951-01-25,Stewardship,606,Ms. Kathleen A. Rivera,1984-08-05,4,$100K-$249K,Indianapolis,IN,2000
-313,Jean G. Lewis,1966-01-09,Cultivation,512,,,4,$100K-$249K,Minneapolis,MN,2004
-314,Cheryl Beaumont III,1955-07-13,Disqualified,411,Dr. Heather Turner II,1973-11-23,4,$250K-$499K,Los Angeles,CA,1995
-315,Ms. Roger Harrington,1975-07-17,Identification,168,,,4,$100K-$249K,Chicago,IL,
-316,Prof. Zachary K. Bennett,1984-09-05,Qualification,251,,,4,$100K-$249K,Raleigh,NC,
-317,Paul L. Cook,1951-08-19,Cultivation,296,Betty F. Foster,1945-02-23,4,$250K-$499K,Atlanta,GA,1985
-318,Mrs. Jack Garcia,1961-10-28,Identification,175,,,4,$250K-$499K,London,UK,
-319,Prof. Peter F. Thomas,1952-01-20,Qualification,143,Dr. Judith S. Kim,1978-08-08,4,$50K-$99K,San Francisco,CA,2004
-320,Dr. Jacob Scott II,1953-01-06,Cultivation,241,,,4,$100K-$249K,Houston,TX,1984
-321,Prof. Frank Miller,1966-03-06,Identification,179,,,4,$500K-$999K,Singapore,SG,2004
-322,Eugenia B. Lopez,1960-06-13,Solicitation,64,Reginald S. Moore,1984-05-11,4,$100K-$249K,Hong Kong,HK,1995
-323,Daniel K. Stewart Jr.,1956-09-19,Qualification,333,Kimberly Peterson II,1980-08-16,4,$50K-$99K,San Francisco,CA,
-324,Dr. Donald D. Harrington,1979-07-14,Stewardship,153,,,4,$50K-$99K,Nashville,TN,1997
-325,Prof. Karen T. Cox Jr.,1940-02-22,Solicitation,200,,,4,$50K-$99K,Dallas,TX,2008
-326,Kyle Kingsford,1981-03-16,Cultivation,249,Prescott Gutierrez Sr.,1943-09-10,4,$1M+,Minneapolis,MN,2005
-327,Frank E. Scott,1961-07-21,Cultivation,637,,,4,$100K-$249K,Miami,FL,
-328,Prof. Benjamin Wright Sr.,1945-08-08,Cultivation,470,,,4,$100K-$249K,Atlanta,GA,1981
-329,Dr. Rebecca Murphy II,1941-08-17,Qualification,92,Ms. Rachel Whitfield II,1959-06-05,4,$50K-$99K,Atlanta,GA,1968
-330,Dr. Judith T. Anderson,1959-01-22,Solicitation,334,Mr. Debra B. Wilson II,1982-12-10,4,$500K-$999K,Washington,DC,1981
-331,Prof. Cornelius R. Castillo,1957-03-06,Cultivation,370,Mr. Patricia Ward II,1946-04-18,4,$50K-$99K,Dallas,TX,1982
-332,Mrs. Charles L. Kim III,1943-03-01,Qualification,255,,,4,$500K-$999K,Nashville,TN,
-333,Mrs. Rosalind Myers III,1979-06-10,Identification,92,,,4,$100K-$249K,Houston,TX,
-334,Clifton R. Gonzalez III,1959-11-21,Solicitation,393,Walter H. Jackson,1963-07-06,4,$250K-$499K,Sydney,Australia,2004
-335,Dr. Thomas M. Morgan III,1950-05-25,Cultivation,446,,,4,$500K-$999K,Austin,TX,1970
-336,Mr. Helen Phillips Sr.,1955-10-08,Cultivation,651,Mrs. Frances L. Clark Sr.,1967-10-26,4,$100K-$249K,Philadelphia,PA,2006
-337,Ashley Gutierrez Jr.,1975-02-27,Qualification,241,,,4,$250K-$499K,Los Angeles,CA,1987
-338,Dr. Betty E. Nguyen,1949-11-05,Identification,122,Justin R. Sanchez,1983-06-10,4,$50K-$99K,San Diego,CA,2005
-339,Daniel Bennett II,1965-03-28,Cultivation,391,,,4,$500K-$999K,Louisville,KY,1997
-340,Mark Beaumont,1955-07-23,Disqualified,316,,,4,$50K-$99K,Hong Kong,HK,1982
-341,Mrs. Jean W. Roberts Jr.,1966-03-10,Solicitation,373,,,4,$100K-$249K,Louisville,KY,1962
-342,Mrs. Nancy P. Beaumont III,1984-10-14,Identification,166,,,4,$50K-$99K,Albany,NY,1994
-343,Mrs. Jose Watson III,1955-12-17,Cultivation,365,Whitfield Jones,1976-08-23,4,$250K-$499K,San Diego,CA,1999
-344,Pamela C. Kelly,1955-08-21,Cultivation,169,,,5,$250K-$499K,Seattle,WA,1996
-345,Robert T. Okafor III,1976-12-11,Solicitation,245,,,5,$50K-$99K,San Francisco,CA,1980
-346,Prof. Sarah Brooks,1976-01-22,Qualification,163,,,5,$50K-$99K,Raleigh,NC,
-347,Mr. Pamela J. Scott,1940-12-04,Cultivation,708,Mrs. Rosalind Alvarez III,1963-03-09,5,$50K-$99K,Houston,TX,1977
-348,Mr. Donna Holloway,1971-07-25,Cultivation,482,Ms. Douglas Perez,1976-12-27,5,$250K-$499K,Chicago,IL,2003
-349,Jean W. Robinson Sr.,1983-12-13,Qualification,256,Prof. Donna Morales,1958-08-13,5,$250K-$499K,San Francisco,CA,1995
-350,Brenda J. Kingsford,1956-11-19,Solicitation,230,,,5,$50K-$99K,Sydney,Australia,2005
-351,Raymond White Jr.,1975-01-22,Solicitation,34,,,5,$250K-$499K,Dubai,UAE,
-352,Jeffrey Allen,1942-01-20,Identification,30,,,5,$50K-$99K,Philadelphia,PA,2000
-353,Mr. Daniel Taylor Sr.,1982-11-19,Cultivation,279,,,5,$500K-$999K,Atlanta,GA,
-354,Mr. Nathan Scott Sr.,1984-11-25,Solicitation,195,,,5,$50K-$99K,Hartford,CT,1966
-355,Dr. Eric King,1968-02-16,Qualification,116,Melissa Wilson,1974-07-07,5,$50K-$99K,San Diego,CA,1968
-356,Mr. Miriam Pemberton III,1941-08-05,Stewardship,61,Dr. Diane L. Okafor Sr.,1976-01-17,5,$250K-$499K,Philadelphia,PA,1993
-357,Dr. Dennis Fairbanks III,1947-10-18,Cultivation,457,,,5,$100K-$249K,Los Angeles,CA,1981
-358,Christopher Blackwell,1981-04-06,Cultivation,657,Dr. Dennis Hill Sr.,1946-11-23,5,$100K-$249K,Houston,TX,1967
-359,Ms. Michael Chavez,1971-07-03,Stewardship,690,Cornelius Wentworth III,1941-01-11,5,$100K-$249K,Dallas,TX,2008
-360,Kenneth Robinson,1942-12-05,Identification,132,,,5,$50K-$99K,Toronto,Canada,1992
-361,Mrs. Patricia B. Okafor,1946-08-20,Stewardship,409,,,5,$100K-$249K,Phoenix,AZ,
-362,Ms. Thomas Stewart Jr.,1983-07-11,Identification,37,,,5,$250K-$499K,Atlanta,GA,
-363,Mrs. Debra J. Jackson Sr.,1950-12-12,Cultivation,656,,,5,$50K-$99K,Miami,FL,1977
-364,George S. Hernandez,1940-03-03,Stewardship,641,,,5,$50K-$99K,Philadelphia,PA,1992
-365,Amy Bennett,1978-03-23,Solicitation,285,,,5,$50K-$99K,Portland,OR,1967
-366,Gary T. Gonzalez Jr.,1974-09-08,Cultivation,565,Ms. Stephen D. Langford,1983-08-16,5,$250K-$499K,Pittsburgh,PA,2004
-367,Nicholas R. Garcia,1943-09-06,Stewardship,383,Dr. Harold Martinez,1968-10-19,5,$50K-$99K,St. Louis,MO,1974
-368,Ryan P. Chen,1964-04-03,Solicitation,271,,,5,$500K-$999K,Charlotte,NC,1965
-369,Paul G. Mendoza Jr.,1957-04-11,Stewardship,320,Dr. Clifton E. Anderson III,1969-07-06,5,$50K-$99K,Hartford,CT,1976
-370,Ryan T. Cooper,1977-08-27,Stewardship,1007,,,5,$100K-$249K,Denver,CO,2008
-371,Ms. Rosalind Mensah,1966-01-02,Cultivation,571,William N. Morgan,1968-08-08,5,$500K-$999K,Phoenix,AZ,1962
-372,Prof. Amy Lopez,1970-11-10,Solicitation,112,Miriam Brown III,1969-03-28,5,$100K-$249K,Miami,FL,1973
-373,Dr. Charles L. Howard,1958-07-25,Solicitation,168,,,5,$100K-$249K,Hartford,CT,2001
-374,Joseph Mensah Jr.,1943-02-13,Cultivation,464,,,5,$250K-$499K,Houston,TX,1964
-375,Timothy L. Walker II,1947-11-16,Cultivation,684,,,5,$50K-$99K,Hong Kong,HK,
-376,Prof. Arthur Scott,1944-06-12,Solicitation,261,Arthur Thomas III,1985-09-22,5,$250K-$499K,Charlotte,NC,
-377,Mr. Edward Rogers,1945-07-06,Stewardship,650,,,5,$100K-$249K,St. Louis,MO,
-378,Kenneth Kelly,1958-07-22,Identification,145,,,5,$50K-$99K,Atlanta,GA,
-379,Mr. Jennifer Robinson II,1981-06-14,Cultivation,682,Christine T. Whitmore II,1968-08-10,5,$100K-$249K,Boston,MA,1981
-380,Prof. Richard K. Rogers,1979-03-23,Qualification,288,Prof. Brian Whitmore,1950-04-04,5,$50K-$99K,Providence,RI,1982
-381,William Hall,1963-08-18,Cultivation,256,Helen A. Phillips III,1949-08-11,5,$100K-$249K,St. Louis,MO,2009
-382,Prof. Miriam Kingsford III,1961-12-04,Cultivation,580,,,5,$100K-$249K,Nashville,TN,
-383,Ms. Peter L. Davis,1977-09-08,Qualification,156,Ms. Jennifer R. Sanders,1972-07-07,5,$100K-$249K,Raleigh,NC,2000
-384,Patrick A. Torres Jr.,1962-05-15,Cultivation,664,Mr. Laura Murphy Sr.,1968-05-06,5,$500K-$999K,St. Louis,MO,
-385,Mr. Andrew S. Chen II,1961-02-19,Disqualified,401,Daniel J. Collins,1975-08-23,5,$100K-$249K,Indianapolis,IN,1970
-386,Dr. Helen Hill III,1975-12-15,Qualification,128,,,5,$500K-$999K,Nashville,TN,1962
-387,Prof. Henry H. Brown,1957-08-03,Qualification,320,Eugenia P. Chen,1980-11-16,5,$50K-$99K,Providence,RI,
-388,Prof. Carol Jackson Jr.,1969-12-05,Solicitation,212,Mrs. Jessica P. Ruiz Jr.,1943-05-10,5,$100K-$249K,Singapore,SG,1966
-389,Mrs. Whitfield L. Holloway,1957-11-23,Cultivation,461,,,5,$250K-$499K,Minneapolis,MN,1999
-390,Harold F. Wilson,1949-09-08,Cultivation,282,,,5,$50K-$99K,Washington,DC,1997
-391,Ashley C. Anderson,1941-08-12,Cultivation,409,,,5,$500K-$999K,Toronto,Canada,1970
-392,Kevin Brown,1954-03-28,Solicitation,385,,,5,$500K-$999K,Toronto,Canada,1976
-393,Mr. Lisa S. Ashworth Sr.,1942-04-04,Cultivation,123,,,5,$50K-$99K,Houston,TX,1994
-394,Prof. Robert Ashford,1978-04-19,Cultivation,294,Mrs. Carolyn E. Aldridge,1977-06-12,5,$100K-$249K,Detroit,MI,1994
-395,Mr. Eugenia Howard,1985-04-10,Solicitation,117,,,5,$100K-$249K,London,UK,
-396,Jean F. Murphy,1951-06-13,Cultivation,524,,,5,$1M+,Philadelphia,PA,1976
-397,Mr. Marie M. Ross,1975-12-02,Cultivation,174,Carl K. Rogers,1983-08-08,5,$250K-$499K,Austin,TX,1980
-398,Patrick S. Sanders,1965-08-17,Disqualified,351,,,5,$100K-$249K,Los Angeles,CA,1969
-399,Mrs. Thomas G. Baker,1978-07-04,Qualification,133,,,5,$100K-$249K,Dubai,UAE,
-400,Janet N. Cooper II,1957-03-25,Solicitation,262,,,5,$50K-$99K,Dubai,UAE,1978
-401,Dr. Karen A. Thompson Sr.,1978-11-11,Cultivation,246,Prof. Matthew Alvarez II,1971-08-07,5,$50K-$99K,Washington,DC,1993
-402,Whitfield B. Morales,1964-08-11,Cultivation,475,,,5,$50K-$99K,Baltimore,MD,1964
-403,Mrs. Cheryl K. Foster Sr.,1971-02-19,Identification,179,,,5,$100K-$249K,Raleigh,NC,1997
-404,Mrs. Ann J. Peterson Sr.,1979-11-12,Solicitation,175,,,5,$100K-$249K,Providence,RI,1963
-405,Dr. Rachel P. Hall Jr.,1966-06-02,Cultivation,340,Ms. Gary Chavez,1984-02-28,5,$50K-$99K,St. Louis,MO,1983
-406,Clifton Collins,1941-12-16,Qualification,315,,,5,$100K-$249K,Chicago,IL,1982
-407,Dorothy Clark Jr.,1971-09-26,Cultivation,437,Mrs. Scott P. Sanchez III,1980-02-27,5,$100K-$249K,Singapore,SG,
-408,Cynthia Lopez,1977-06-09,Qualification,48,,,5,$50K-$99K,Raleigh,NC,1995
-409,Prof. Ann Morales II,1960-04-14,Cultivation,501,,,5,$50K-$99K,Los Angeles,CA,1994
-410,Deborah Ramirez III,1957-11-18,Cultivation,719,,,5,$250K-$499K,Minneapolis,MN,
-411,Zachary E. Worthington,1967-07-11,Stewardship,191,,,5,$500K-$999K,San Francisco,CA,1988
-412,Ms. Joyce E. Harris,1955-05-15,Qualification,262,Ruth B. Sanchez,1957-03-01,5,$50K-$99K,Denver,CO,1979
-413,Jennifer C. Green,1944-07-12,Cultivation,182,,,5,$50K-$99K,Chicago,IL,2008
-414,Mr. Marie Brooks II,1956-08-03,Stewardship,547,,,5,$50K-$99K,Singapore,SG,1982
-415,Ms. Jose D. Thompson,1957-08-14,Cultivation,350,,,5,$100K-$249K,San Diego,CA,
-416,Jean Scott,1963-08-23,Identification,101,Prof. Jennifer Okafor,1982-01-23,5,$100K-$249K,Atlanta,GA,
-417,Margaret Walker III,1964-01-13,Cultivation,351,Prof. Betty Ashworth,1959-04-28,5,$50K-$99K,San Diego,CA,
-418,Prof. Christopher Cooper III,1966-06-23,Stewardship,925,,,5,$100K-$249K,Indianapolis,IN,
+1,Emily Sanders,1974-02-19,Cultivation,522,William G. Robinson,1972-10-01,1,$50K-$99K,Portland,OR,2007
+2,Pamela Smith,1950-12-14,Cultivation,438,,,1,$100K-$249K,Charlotte,NC,1975
+3,Alexander James,1956-01-24,Disqualified,249,Clifton N. Hernandez,1975-05-27,1,$50K-$99K,Houston,TX,1985
+4,Justin Bancroft,1954-02-13,Cultivation,374,,,1,$250K-$499K,Chicago,IL,1985
+5,Charles Perez,1974-12-08,Qualification,97,,,1,$100K-$249K,Portland,OR,1979
+6,Christine Pemberton,1943-04-27,Disqualified,30,Benjamin C. Ramirez,1976-12-11,1,$100K-$249K,Hong Kong,HK,1993
+7,Emily W. Ramos,1956-12-19,Cultivation,528,Joyce E. Reed,1971-02-25,1,$500K-$999K,Hartford,CT,1969
+8,Diane R. Howard,1956-09-28,Qualification,19,,,1,$50K-$99K,Louisville,KY,1969
+9,Rachel P. Lee,1969-01-24,Solicitation,398,,,1,$100K-$249K,Portland,OR,1994
+10,Scott Bailey,1978-04-05,Solicitation,221,,,1,$100K-$249K,Philadelphia,PA,1996
+11,Carl M. Park,1959-04-02,Disqualified,137,,,1,$500K-$999K,New York,NY,
+12,Reginald Taylor,1982-08-18,Stewardship,398,,,1,$50K-$99K,Albany,NY,2000
+13,Rebecca Phillips,1982-11-12,Cultivation,538,,,1,$50K-$99K,Sydney,Australia,
+14,Harriet H. Smith,1944-12-21,Cultivation,150,Ryan B. Beaumont,1961-02-17,1,$50K-$99K,Los Angeles,CA,2004
+15,Jacob Wentworth,1966-04-04,Cultivation,189,,,1,$100K-$249K,Singapore,SG,1984
+16,Dorothy L. Kingsford,1946-04-07,Cultivation,284,,,1,$100K-$249K,San Francisco,CA,1970
+17,Lisa W. Gonzalez,1943-11-18,Cultivation,105,,,1,$50K-$99K,Phoenix,AZ,
+18,Harold N. Mensah,1943-03-13,Stewardship,64,Jerry R. Torres,1967-12-24,1,$500K-$999K,Denver,CO,
+19,Laura Brooks,1974-01-24,Cultivation,411,Joseph S. Bailey,1973-03-02,1,$250K-$499K,Seattle,WA,
+20,Gary H. Brooks,1978-01-20,Identification,27,,,1,$50K-$99K,Los Angeles,CA,1999
+21,Benjamin N. Taylor,1982-11-10,Cultivation,558,Benjamin Martinez,1940-08-20,1,$50K-$99K,Detroit,MI,
+22,Kimberly Park,1944-04-12,Disqualified,159,,,1,$50K-$99K,Miami,FL,1996
+23,Harriet D. Park,1948-05-04,Solicitation,84,Harriet K. James,1953-12-11,1,$100K-$249K,Toronto,Canada,2002
+24,Jessica P. Thornton,1957-01-01,Stewardship,743,,,1,$100K-$249K,Detroit,MI,2002
+25,Adam Anderson,1944-12-05,Disqualified,293,,,1,$50K-$99K,Richmond,VA,1985
+26,Patrick Langford,1942-06-07,Cultivation,345,Anthony W. Zhang,1966-10-24,1,$50K-$99K,Washington,DC,1977
+27,Michael L. Ashford,1966-11-28,Stewardship,568,,,1,$1M+,Minneapolis,MN,2006
+28,Zachary H. Lewis,1941-11-07,Identification,109,Frank C. Sutton,1957-06-21,1,$500K-$999K,Providence,RI,2005
+29,Eric J. Jones,1946-10-14,Disqualified,190,Benjamin T. Anderson,1964-10-07,1,$100K-$249K,Boston,MA,2007
+30,Ronald C. Castillo,1961-10-11,Cultivation,217,,,1,$100K-$249K,Sydney,Australia,1981
+31,Nicole Harris,1966-11-13,Cultivation,268,Helen A. Hill,1958-04-14,1,$250K-$499K,Austin,TX,2000
+32,Roger F. Alvarez,1945-05-17,Cultivation,724,,,1,$100K-$249K,Richmond,VA,1977
+33,Susan S. Bennett,1944-08-14,Cultivation,679,Stephanie Roberts,1971-07-08,1,$50K-$99K,Dallas,TX,2006
+34,Jeffrey T. Gutierrez,1943-09-08,Identification,38,,,1,$250K-$499K,Philadelphia,PA,1991
+35,Peter Jimenez,1972-07-27,Cultivation,651,,,1,$1M+,Austin,TX,1972
+36,Stephen Kelly,1971-11-08,Solicitation,170,,,1,$100K-$249K,Detroit,MI,2007
+37,Christopher H. Roberts,1984-03-23,Qualification,123,,,1,$50K-$99K,Austin,TX,1988
+38,Jose A. Bancroft,1976-07-16,Cultivation,96,Janet N. Bancroft,1966-09-24,1,$100K-$249K,San Francisco,CA,2000
+39,Linda N. Jimenez,1950-08-05,Stewardship,115,,,1,$100K-$249K,Portland,OR,
+40,Paul White,1943-05-13,Cultivation,425,,,1,$250K-$499K,Houston,TX,1982
+41,Jose C. Ortiz,1941-12-18,Cultivation,143,,,1,$500K-$999K,Portland,OR,
+42,Angela A. Gray,1949-04-05,Cultivation,574,,,1,$250K-$499K,Chicago,IL,1998
+43,Joshua Worthington,1985-02-25,Stewardship,395,,,1,$100K-$249K,Detroit,MI,
+44,Heather G. Martinez,1977-12-27,Identification,167,,,1,$50K-$99K,Raleigh,NC,2006
+45,David P. Alvarez,1963-02-17,Solicitation,361,,,1,$500K-$999K,Atlanta,GA,1988
+46,Zachary Morales,1951-12-17,Solicitation,363,,,1,$50K-$99K,St. Louis,MO,1996
+47,Jacob Lopez,1957-08-08,Solicitation,267,Dennis S. Aldridge,1960-03-16,1,$100K-$249K,Dubai,UAE,1978
+48,Eston Hernandez,1955-12-14,Cultivation,590,,,1,$500K-$999K,Portland,OR,1977
+49,John H. Phillips,1984-04-10,Solicitation,369,,,1,$100K-$249K,Albany,NY,1992
+50,Judith J. Robinson,1947-12-07,Cultivation,413,Donald Blackwell,1984-03-07,1,$50K-$99K,Hong Kong,HK,1992
+51,Dorothy Nguyen,1954-06-06,Qualification,168,,,1,$100K-$249K,Toronto,Canada,1996
+52,Steven Ashworth,1971-02-28,Qualification,20,,,1,$50K-$99K,San Francisco,CA,1992
+53,Frances C. Phillips,1971-02-19,Cultivation,144,Kenneth K. Hernandez,1955-02-18,1,$50K-$99K,San Francisco,CA,2000
+54,Peter P. Flores,1976-10-02,Cultivation,714,Dorothy Clark,1980-04-09,1,$100K-$249K,Toronto,Canada,1972
+55,Nathan Ortiz,1958-01-08,Qualification,161,Larry Rogers,1944-11-08,1,$100K-$249K,Denver,CO,
+56,Constance E. Diallo,1957-03-03,Solicitation,60,,,1,$100K-$249K,Dallas,TX,1981
+57,Walter Long,1965-05-17,Cultivation,642,,,1,$250K-$499K,Nashville,TN,1967
+58,Michael A. Blackwell,1983-05-19,Cultivation,131,,,1,$500K-$999K,Austin,TX,1973
+59,Douglas Cooper,1945-08-12,Cultivation,508,Debra D. Bancroft,1950-06-14,1,$250K-$499K,Portland,OR,1980
+60,Daniel L. Anderson,1965-09-27,Cultivation,91,Miriam B. Harris,1973-06-20,1,$100K-$249K,Hong Kong,HK,2002
+61,Emma S. Thomas,1941-11-20,Cultivation,335,,,1,$50K-$99K,Portland,OR,1981
+62,Ashley D. Hughes,1949-08-23,Cultivation,388,Roger Collins,1970-08-08,1,$100K-$249K,Houston,TX,1971
+63,Paul Scott,1966-06-26,Cultivation,609,,,1,$500K-$999K,London,UK,1962
+64,Carl Cook,1974-08-12,Qualification,184,,,1,$50K-$99K,Dubai,UAE,1996
+65,Amy Robinson,1966-01-11,Cultivation,574,,,1,$500K-$999K,Dallas,TX,1986
+66,Barbara L. Chen,1946-08-04,Cultivation,628,,,1,$250K-$499K,Seattle,WA,
+67,Anna N. Price,1945-06-28,Identification,179,Reginald L. Mendoza,1985-08-28,1,$50K-$99K,Seattle,WA,2001
+68,Betty D. Blackwell,1980-12-28,Identification,32,,,1,$100K-$249K,Nashville,TN,2006
+69,Nicole P. Jackson,1955-09-14,Qualification,303,,,1,$50K-$99K,Austin,TX,1973
+70,Amy E. Robinson,1969-11-09,Qualification,249,,,1,$50K-$99K,San Diego,CA,1962
+71,George M. Chavez,1959-11-14,Stewardship,572,,,1,$100K-$249K,Nashville,TN,1981
+72,Dennis Watson,1958-12-10,Qualification,25,Tyler B. Diallo,1978-12-16,1,$100K-$249K,Providence,RI,
+73,Janet G. Gray,1956-11-25,Stewardship,340,,,1,$250K-$499K,Charlotte,NC,2002
+74,Patrick Lopez,1958-06-24,Cultivation,515,Kevin W. Park,1963-09-17,1,$50K-$99K,Richmond,VA,
+75,Nicole Baker,1947-08-03,Stewardship,348,,,1,$50K-$99K,Providence,RI,1976
+76,Marguerite N. Johnson,1956-09-04,Stewardship,991,,,1,$250K-$499K,Columbus,OH,2009
+77,Kathleen W. Adams,1979-04-21,Cultivation,154,Evelyn Hill,1981-07-04,1,$100K-$249K,St. Louis,MO,1964
+78,Clifton R. Mitchell,1982-12-23,Cultivation,643,Jose Whitfield,1949-07-21,1,$100K-$249K,Philadelphia,PA,1993
+79,Maria R. Walker,1963-02-22,Cultivation,466,Constance Hughes,1962-01-13,1,$500K-$999K,Portland,OR,1969
+80,Jennifer L. Young,1948-10-07,Stewardship,200,,,1,$250K-$499K,Houston,TX,
+81,Donna Wood,1940-05-28,Cultivation,238,Kimberly Kingsford,1951-02-22,1,$100K-$249K,Charlotte,NC,
+82,John B. Taylor,1966-09-04,Qualification,46,,,1,$100K-$249K,Phoenix,AZ,1985
+83,Susan Diallo,1982-09-10,Cultivation,559,Linda S. Aldridge,1965-07-22,1,$50K-$99K,London,UK,2007
+84,Donna J. Gray,1980-10-18,Stewardship,725,Dennis Howard,1958-08-17,1,$50K-$99K,Houston,TX,1968
+85,Laura H. Evans,1961-08-13,Solicitation,242,,,1,$50K-$99K,Hong Kong,HK,1982
+86,Kyle C. Lopez,1967-02-24,Cultivation,471,,,2,$250K-$499K,St. Louis,MO,
+87,Margaret P. Chen,1943-05-20,Cultivation,409,,,2,$100K-$249K,Hong Kong,HK,1998
+88,Sandra W. Mitchell,1947-05-19,Cultivation,321,Adam Sutton,1979-10-22,2,$50K-$99K,Providence,RI,1963
+89,Brenda Flores,1961-06-01,Cultivation,275,Andrew Phillips,1944-03-24,2,$250K-$499K,Portland,OR,1963
+90,Rachel K. Jimenez,1960-10-20,Identification,28,Jessica B. Sanders,1945-05-15,2,$100K-$249K,San Diego,CA,1993
+91,Ashley D. Torres,1983-11-19,Cultivation,588,,,2,$100K-$249K,Miami,FL,1981
+92,Helen Sutton,1948-05-10,Identification,90,Donald P. Thompson,1948-07-18,2,$100K-$249K,San Francisco,CA,1994
+93,David R. Abubakar,1944-06-19,Cultivation,529,Aaron Collins,1958-02-13,2,$250K-$499K,Pittsburgh,PA,1982
+94,Catherine D. Young,1967-10-13,Qualification,282,,,2,$500K-$999K,Hartford,CT,1981
+95,Ashley Harris,1962-06-24,Solicitation,360,Donna E. Allen,1952-03-20,2,$50K-$99K,Denver,CO,2003
+96,Virginia Park,1976-11-21,Identification,166,,,2,$1M+,Albany,NY,2002
+97,Helen Chavez,1943-06-17,Cultivation,165,,,2,$100K-$249K,Providence,RI,1990
+98,Betty Bailey,1964-08-19,Identification,148,David G. Adams,1978-08-17,2,$100K-$249K,Nashville,TN,1965
+99,Nancy Thompson,1942-04-23,Cultivation,538,,,2,$250K-$499K,Baltimore,MD,
+100,Larry L. Sanders,1978-01-26,Cultivation,432,Thomas W. Sanders,1964-05-09,2,$100K-$249K,St. Louis,MO,2004
+101,Andrew Flores,1981-12-22,Disqualified,214,Kimberly Hernandez,1959-09-13,2,$100K-$249K,Seattle,WA,1983
+102,Christina Williams,1963-05-06,Solicitation,139,Rachel Cooper,1952-04-05,2,$250K-$499K,Toronto,Canada,1980
+103,Cornelius L. Park,1979-03-20,Stewardship,831,,,2,$50K-$99K,Sydney,Australia,1973
+104,Susan H. Murphy,1979-05-25,Stewardship,979,,,2,$250K-$499K,Denver,CO,1977
+105,Stephanie R. Gutierrez,1958-07-17,Cultivation,630,,,2,$250K-$499K,Providence,RI,1972
+106,Jessica Chen,1963-09-04,Solicitation,394,,,2,$250K-$499K,Washington,DC,
+107,Marie P. Lopez,1954-08-12,Stewardship,114,Kelly T. Mitchell,1955-07-03,2,$50K-$99K,Denver,CO,1963
+108,Emily S. Long,1948-12-16,Cultivation,549,,,2,$50K-$99K,Baltimore,MD,1967
+109,Prescott K. Walker,1959-02-02,Identification,68,,,2,$50K-$99K,Seattle,WA,2001
+110,John Watson,1955-12-05,Cultivation,388,,,2,$50K-$99K,Albany,NY,2001
+111,Nancy Campbell,1944-09-18,Cultivation,609,,,2,$100K-$249K,Minneapolis,MN,1994
+112,Jerry Allen,1941-06-26,Cultivation,159,Gregory D. Sutton,1977-12-25,2,$100K-$249K,Providence,RI,1964
+113,Evelyn Morgan,1980-03-26,Cultivation,228,,,2,$50K-$99K,Minneapolis,MN,1991
+114,Benjamin Reed,1965-09-16,Identification,71,,,2,$50K-$99K,Dallas,TX,2003
+115,Frank M. Morales,1965-12-15,Qualification,211,,,2,$100K-$249K,San Francisco,CA,1973
+116,Nancy Hernandez,1967-10-27,Cultivation,274,Constance D. Hernandez,1960-11-10,2,$100K-$249K,Toronto,Canada,2000
+117,David Diallo,1962-10-14,Solicitation,170,Joseph N. Campbell,1972-12-22,2,$50K-$99K,Richmond,VA,1963
+118,Karen M. Campbell,1964-10-02,Qualification,323,Michelle Mitchell,1963-08-25,2,$100K-$249K,Richmond,VA,1970
+119,Ashley F. Peterson,1973-07-18,Cultivation,210,Anna Ross,1968-04-20,2,$100K-$249K,Portland,OR,1993
+120,Peter Wentworth,1983-06-22,Qualification,191,,,2,$50K-$99K,Los Angeles,CA,1997
+121,Kevin Reed,1954-02-07,Cultivation,232,,,2,$500K-$999K,Denver,CO,1993
+122,Harriet C. Rodriguez,1959-07-23,Identification,129,,,2,$100K-$249K,St. Louis,MO,1988
+123,Nathan T. Hall,1948-09-21,Solicitation,330,,,2,$50K-$99K,Austin,TX,1970
+124,Eston F. Lee,1960-12-08,Cultivation,444,,,2,$500K-$999K,San Francisco,CA,
+125,Harriet K. Bennett,1974-02-17,Cultivation,262,Michelle L. Whitmore,1976-01-27,2,$50K-$99K,Houston,TX,
+126,Sharon Collins,1979-11-01,Identification,134,Constance K. Morgan,1955-11-13,2,$500K-$999K,Singapore,SG,1966
+127,Timothy E. Green,1985-06-24,Solicitation,206,,,2,$50K-$99K,Indianapolis,IN,
+128,Amy J. Cook,1955-03-04,Qualification,39,Justin Beaumont,1979-07-08,2,$100K-$249K,Hong Kong,HK,
+129,Edward Peterson,1972-08-16,Stewardship,691,,,2,$250K-$499K,Singapore,SG,1967
+130,Janet K. Peterson,1978-11-22,Stewardship,1023,Emma Aldridge,1946-07-05,2,$100K-$249K,Phoenix,AZ,
+131,Jessica Harris,1963-09-10,Solicitation,67,Diane Blackwell,1975-05-27,2,$250K-$499K,St. Louis,MO,
+132,Raymond Campbell,1949-04-20,Solicitation,290,Joyce Garcia,1942-03-23,2,$50K-$99K,Philadelphia,PA,1992
+133,Katherine K. Chavez,1961-09-27,Cultivation,611,Reginald K. Ortiz,1941-06-11,2,$50K-$99K,London,UK,1988
+134,Anna Ashford,1977-10-08,Cultivation,142,,,2,$250K-$499K,Boston,MA,1972
+135,Jacob D. Harris,1941-08-11,Cultivation,518,Kenneth G. Evans,1972-10-16,2,$250K-$499K,San Diego,CA,
+136,Rosalind S. Howard,1964-06-06,Solicitation,265,,,2,$50K-$99K,Washington,DC,
+137,Stephanie Scott,1975-05-08,Cultivation,394,,,2,$100K-$249K,Detroit,MI,2007
+138,Rosalind Langford,1957-05-04,Qualification,307,,,2,$250K-$499K,Austin,TX,1986
+139,Donna K. Foster,1945-06-15,Stewardship,585,,,2,$100K-$249K,Pittsburgh,PA,1975
+140,Emily H. Young,1943-11-17,Qualification,129,,,2,$100K-$249K,Hong Kong,HK,1965
+141,Emily W. Lee,1966-11-16,Identification,129,Rebecca Torres,1960-05-21,2,$50K-$99K,Providence,RI,1967
+142,Kevin F. Abubakar,1942-07-26,Cultivation,597,,,2,$50K-$99K,Chicago,IL,2009
+143,Sandra Nelson,1958-08-21,Disqualified,292,Cornelius E. Aldridge,1972-08-09,2,$500K-$999K,Chicago,IL,1969
+144,Patricia Langford,1958-10-22,Cultivation,287,,,2,$250K-$499K,Detroit,MI,2002
+145,Joyce White,1948-08-11,Stewardship,568,Mary H. Cook,1957-06-10,2,$250K-$499K,London,UK,1998
+146,Donald F. Phillips,1983-09-23,Identification,86,Donald Nguyen,1963-10-08,2,$250K-$499K,Phoenix,AZ,1970
+147,Eugenia Ashworth,1974-11-27,Cultivation,313,Angela Wood,1945-09-15,2,$100K-$249K,St. Louis,MO,1985
+148,Gerald W. Martin,1950-06-28,Identification,140,,,2,$100K-$249K,San Francisco,CA,2005
+149,Virginia Rogers,1948-09-14,Qualification,247,,,2,$100K-$249K,Houston,TX,1997
+150,James Brooks,1944-01-14,Cultivation,442,Thomas Davis,1944-08-02,2,$250K-$499K,Boston,MA,1973
+151,Dennis N. Carter,1945-11-22,Solicitation,306,Paul Hall,1947-03-18,2,$250K-$499K,Indianapolis,IN,1970
+152,Scott W. Stewart,1974-07-27,Solicitation,147,,,2,$50K-$99K,New York,NY,1984
+153,Jose Zhang,1941-04-07,Qualification,48,Dorothy Cook,1978-11-23,2,$50K-$99K,Atlanta,GA,
+154,Laura Pemberton,1943-03-17,Qualification,162,Kathleen Whitfield,1976-06-19,2,$50K-$99K,Richmond,VA,2005
+155,Thaddeus K. Scott,1943-09-19,Solicitation,119,,,2,$50K-$99K,Seattle,WA,1989
+156,Dennis Green,1984-07-14,Cultivation,242,,,2,$50K-$99K,Pittsburgh,PA,1973
+157,Andrew Abubakar,1943-09-14,Solicitation,243,Marguerite Roberts,1955-05-07,2,$100K-$249K,Charlotte,NC,1967
+158,Edward N. Sanders,1978-10-02,Stewardship,209,,,2,$500K-$999K,Houston,TX,1999
+159,Debra A. Ramirez,1952-12-04,Solicitation,275,Jacob Ross,1953-07-08,2,$100K-$249K,Providence,RI,1980
+160,Catherine Peterson,1969-02-26,Cultivation,570,Katherine Mitchell,1960-07-02,2,$100K-$249K,Pittsburgh,PA,1976
+161,Kelly G. Nelson,1954-07-19,Solicitation,155,,,2,$50K-$99K,Hong Kong,HK,2003
+162,Carl M. Perez,1948-12-18,Stewardship,1060,,,2,$50K-$99K,Albany,NY,1996
+163,Lisa Castillo,1943-01-14,Disqualified,84,Kathleen E. Johnson,1953-09-15,2,$1M+,Toronto,Canada,2001
+164,John W. Evans,1940-01-17,Cultivation,371,,,2,$500K-$999K,Providence,RI,1980
+165,Melissa D. Howard,1949-04-07,Identification,165,,,2,$250K-$499K,Louisville,KY,1984
+166,Zachary Long,1954-05-22,Qualification,55,,,2,$100K-$249K,St. Louis,MO,2003
+167,Kyle A. Long,1950-02-16,Solicitation,252,Frank Bancroft,1946-09-02,2,$50K-$99K,San Diego,CA,2006
+168,Pamela Richardson,1982-01-06,Stewardship,704,,,2,$100K-$249K,Chicago,IL,1975
+169,Scott H. Richardson,1964-11-18,Cultivation,429,,,2,$250K-$499K,Columbus,OH,2009
+170,Gregory P. Robinson,1944-06-20,Qualification,328,,,2,$1M+,Houston,TX,
+171,Nathan M. Cox,1964-07-06,Cultivation,689,,,2,$250K-$499K,Boston,MA,1967
+172,Nancy N. Foster,1980-03-24,Solicitation,229,,,2,$50K-$99K,Phoenix,AZ,1968
+173,Brenda C. White,1967-08-18,Identification,149,Marie A. Lopez,1962-09-03,2,$500K-$999K,Richmond,VA,1982
+174,Nancy Ward,1955-10-17,Stewardship,407,Dennis J. Hill,1957-08-05,2,$50K-$99K,Indianapolis,IN,1989
+175,Angela Peterson,1978-10-07,Qualification,248,Sandra A. Turner,1961-10-13,2,$50K-$99K,Los Angeles,CA,
+176,Rebecca F. Turner,1960-05-24,Cultivation,592,Jacob J. Fairbanks,1965-06-04,2,$50K-$99K,Washington,DC,
+177,Eugenia R. Ross,1953-08-26,Qualification,163,,,2,$1M+,Minneapolis,MN,
+178,Emily Walker,1956-11-05,Identification,115,,,3,$500K-$999K,Indianapolis,IN,1966
+179,Gerald Chen,1984-07-18,Cultivation,127,Catherine Wentworth,1974-10-21,3,$100K-$249K,Dubai,UAE,
+180,Susan Hughes,1983-11-13,Identification,91,Ruth D. King,1954-09-24,3,$50K-$99K,Pittsburgh,PA,1999
+181,Ann A. Morgan,1946-05-14,Solicitation,73,Ashley Whitfield,1949-06-10,3,$50K-$99K,St. Louis,MO,1975
+182,Nathan K. Garcia,1985-02-01,Cultivation,441,,,3,$50K-$99K,Philadelphia,PA,2005
+183,Harriet W. Stewart,1969-04-26,Solicitation,237,,,3,$500K-$999K,Phoenix,AZ,1973
+184,Ronald P. Roberts,1940-12-07,Cultivation,300,,,3,$100K-$249K,Boston,MA,2007
+185,Clifton L. Sanchez,1969-02-09,Solicitation,373,,,3,$50K-$99K,Philadelphia,PA,
+186,Ashley R. Gray,1951-11-23,Cultivation,394,,,3,$100K-$249K,San Diego,CA,
+187,Brandon M. Myers,1949-09-13,Cultivation,518,Emily Stewart,1951-08-21,3,$250K-$499K,Austin,TX,2003
+188,Emily R. Gray,1943-06-01,Stewardship,1052,,,3,$50K-$99K,Denver,CO,1986
+189,Carl R. Cooper,1950-02-19,Disqualified,29,Jeffrey J. Lewis,1974-05-06,3,$100K-$249K,Albany,NY,1998
+190,Ashley W. Holloway,1963-09-27,Solicitation,51,,,3,$250K-$499K,Hong Kong,HK,1990
+191,Angela B. Cook,1956-06-28,Cultivation,179,,,3,$1M+,Philadelphia,PA,1969
+192,Adam E. Ashford,1953-04-26,Solicitation,60,,,3,$50K-$99K,Dubai,UAE,1996
+193,Justin J. Bancroft,1972-11-27,Qualification,62,,,3,$100K-$249K,Austin,TX,1988
+194,Kimberly L. Thornton,1955-11-13,Stewardship,1062,,,3,$1M+,Washington,DC,2002
+195,Betty J. Myers,1963-08-16,Qualification,181,James Aldridge,1945-12-15,3,$100K-$249K,Richmond,VA,2006
+196,Adam Peterson,1957-06-27,Cultivation,380,Raymond Taylor,1976-08-26,3,$50K-$99K,Sydney,Australia,2005
+197,George A. Stewart,1952-12-05,Solicitation,362,Helen J. Lopez,1981-06-09,3,$50K-$99K,Hartford,CT,2004
+198,Kathleen C. Ross,1946-01-07,Stewardship,1036,,,3,$50K-$99K,Columbus,OH,1999
+199,Rachel Beaumont,1967-12-05,Qualification,258,Charles C. Whitfield,1946-02-11,3,$250K-$499K,New York,NY,1981
+200,Andrew A. Bennett,1981-03-15,Qualification,193,,,3,$250K-$499K,Washington,DC,2002
+201,Daniel Moore,1947-10-24,Solicitation,226,,,3,$500K-$999K,Richmond,VA,1989
+202,Angela Wood,1978-05-25,Cultivation,117,,,3,$50K-$99K,Portland,OR,
+203,Edward Nguyen,1981-01-26,Cultivation,335,,,3,$50K-$99K,Toronto,Canada,1969
+204,Patricia Green,1948-07-28,Qualification,305,,,3,$100K-$249K,Los Angeles,CA,1996
+205,Karen G. Garcia,1943-07-17,Solicitation,176,Ann Stewart,1984-07-03,3,$250K-$499K,Los Angeles,CA,1996
+206,Timothy Martin,1974-06-13,Cultivation,690,Thomas P. Whitfield,1955-01-08,3,$50K-$99K,Raleigh,NC,1989
+207,Kevin E. Long,1940-03-16,Identification,95,Thaddeus Holloway,1956-03-12,3,$100K-$249K,San Francisco,CA,1979
+208,Adam C. King,1985-10-21,Solicitation,69,Arthur M. Davis,1971-10-06,3,$50K-$99K,Boston,MA,1978
+209,Roger A. Young,1942-08-12,Solicitation,226,Kenneth B. Cox,1985-12-21,3,$500K-$999K,Atlanta,GA,1982
+210,Lisa Thomas,1972-11-02,Qualification,105,Cynthia Garcia,1965-02-15,3,$500K-$999K,Austin,TX,
+211,Robert K. Richardson,1959-12-20,Solicitation,154,,,3,$50K-$99K,Houston,TX,1999
+212,Constance Young,1949-01-14,Disqualified,26,,,3,$1M+,Dallas,TX,1984
+213,James Carter,1959-02-07,Cultivation,632,,,3,$250K-$499K,New York,NY,
+214,Betty H. Okafor,1973-07-23,Cultivation,471,,,3,$1M+,Seattle,WA,2009
+215,Julie B. Morales,1982-03-08,Identification,81,,,3,$50K-$99K,Washington,DC,1982
+216,Brenda G. Moore,1977-02-05,Stewardship,276,Joshua L. Evans,1947-09-12,3,$100K-$249K,Austin,TX,
+217,Betty K. Holloway,1985-12-20,Qualification,34,,,3,$50K-$99K,Detroit,MI,1982
+218,Richard King,1951-01-13,Qualification,245,Marguerite Young,1946-08-04,3,$250K-$499K,Pittsburgh,PA,
+219,Joyce C. Brooks,1977-05-27,Qualification,52,Jennifer Sanchez,1981-08-26,3,$50K-$99K,Charlotte,NC,1983
+220,Ruth Turner,1971-01-13,Qualification,363,Adam G. Diallo,1951-05-09,3,$500K-$999K,San Francisco,CA,1971
+221,Arthur W. Morgan,1943-02-09,Identification,105,,,3,$100K-$249K,Phoenix,AZ,1974
+222,Constance Carter,1985-06-16,Cultivation,647,,,3,$250K-$499K,Phoenix,AZ,1984
+223,Michael H. Brown,1957-01-26,Stewardship,1026,Prescott H. Lee,1946-04-22,3,$100K-$249K,San Diego,CA,1996
+224,Jeffrey Kingsford,1964-06-27,Solicitation,118,,,3,$500K-$999K,San Francisco,CA,1999
+225,Linda Rivera,1976-10-05,Cultivation,666,,,3,$250K-$499K,Pittsburgh,PA,
+226,Kevin C. Davis,1954-10-08,Stewardship,100,,,3,$250K-$499K,Albany,NY,1962
+227,Melissa Aldridge,1960-01-01,Cultivation,241,Andrew Aldridge,1973-06-03,3,$100K-$249K,Washington,DC,2004
+228,George Morales,1980-08-21,Cultivation,414,Kevin Ward,1984-10-26,3,$50K-$99K,Raleigh,NC,2004
+229,Nicole A. Long,1976-07-28,Cultivation,671,,,3,$50K-$99K,Raleigh,NC,2000
+230,Anthony Jackson,1961-12-03,Cultivation,333,,,3,$250K-$499K,Charlotte,NC,1982
+231,Debra J. Clark,1955-12-03,Qualification,193,,,3,$500K-$999K,Houston,TX,1968
+232,Joshua Peterson,1964-06-18,Solicitation,222,,,3,$50K-$99K,Richmond,VA,1992
+233,Charles Jones,1958-01-11,Solicitation,163,Anthony F. Zhang,1964-03-24,3,$100K-$249K,Charlotte,NC,1967
+234,Ruth Perez,1978-07-06,Cultivation,144,,,3,$1M+,Providence,RI,1975
+235,Miriam K. Hill,1955-02-02,Disqualified,215,,,3,$100K-$249K,Hong Kong,HK,1993
+236,Frances A. Clark,1950-11-10,Qualification,55,Kyle Flores,1965-08-16,3,$100K-$249K,Louisville,KY,
+237,Dennis R. Garcia,1956-08-15,Qualification,148,Cynthia Richardson,1943-03-25,3,$100K-$249K,San Diego,CA,1968
+238,Ryan Whitmore,1964-09-14,Identification,144,Kyle Walker,1970-05-03,3,$50K-$99K,Sydney,Australia,2007
+239,Donna R. Thompson,1950-04-26,Identification,56,,,3,$100K-$249K,Toronto,Canada,1989
+240,Donna King,1960-12-26,Identification,24,,,3,$250K-$499K,Dallas,TX,1997
+241,Patricia Gray,1977-09-26,Cultivation,519,,,3,$50K-$99K,Portland,OR,1971
+242,Dorothy Chen,1974-06-14,Qualification,149,,,3,$100K-$249K,Philadelphia,PA,1993
+243,Andrew Patel,1984-07-02,Cultivation,495,Frank Miller,1970-05-12,3,$100K-$249K,Minneapolis,MN,1981
+244,Ryan R. Pemberton,1960-05-24,Cultivation,516,,,3,$500K-$999K,Philadelphia,PA,1967
+245,Eston Holloway,1943-09-26,Qualification,95,,,3,$50K-$99K,Indianapolis,IN,2007
+246,Linda G. Whitmore,1943-04-02,Cultivation,557,,,3,$50K-$99K,Toronto,Canada,1985
+247,Margaret Walker,1963-08-20,Solicitation,258,,,3,$50K-$99K,Hartford,CT,1992
+248,Eric Myers,1945-05-01,Cultivation,485,,,3,$50K-$99K,Denver,CO,1998
+249,Timothy P. Reed,1941-11-01,Solicitation,272,,,3,$50K-$99K,Charlotte,NC,
+250,Brandon Ross,1981-05-14,Cultivation,475,Carolyn G. Gutierrez,1959-11-17,3,$100K-$249K,New York,NY,
+251,Jack Wood,1978-05-10,Cultivation,200,,,3,$50K-$99K,London,UK,1983
+252,Scott T. Blackwell,1955-01-26,Disqualified,452,Aaron Patel,1948-12-01,3,$100K-$249K,Portland,OR,1980
+253,Edward H. Patel,1974-11-26,Qualification,257,,,3,$100K-$249K,San Diego,CA,
+254,Marguerite D. Ortiz,1948-12-09,Cultivation,662,,,3,$100K-$249K,Denver,CO,1973
+255,Cynthia Flores,1966-06-12,Stewardship,593,Nicole D. Ortiz,1943-11-19,3,$500K-$999K,Houston,TX,2001
+256,Dennis Evans,1943-03-05,Identification,58,Rachel R. Jackson,1960-12-06,4,$500K-$999K,London,UK,1993
+257,Mary G. Blackwell,1950-10-25,Cultivation,252,,,4,$1M+,Austin,TX,1967
+258,Frances B. Ramos,1952-12-12,Qualification,21,Samuel Howard,1952-01-22,4,$100K-$249K,Louisville,KY,2008
+259,Anthony K. Perez,1944-01-10,Qualification,162,Judith Wood,1973-06-14,4,$250K-$499K,Pittsburgh,PA,
+260,Edward N. Williams,1954-04-24,Disqualified,81,Jason Chavez,1972-03-04,4,$50K-$99K,Albany,NY,2003
+261,Richard Miller,1982-02-21,Solicitation,40,,,4,$100K-$249K,Detroit,MI,1969
+262,Michelle A. Hill,1966-11-04,Cultivation,622,Brenda Long,1948-07-27,4,$100K-$249K,Hong Kong,HK,
+263,Sandra G. Pemberton,1956-09-07,Cultivation,456,Victoria B. Cox,1971-04-23,4,$100K-$249K,Nashville,TN,
+264,Alice C. Pemberton,1972-02-24,Cultivation,193,,,4,$50K-$99K,Houston,TX,
+265,Richard F. Chen,1942-05-12,Cultivation,410,Adam Gonzalez,1942-01-28,4,$100K-$249K,Nashville,TN,2003
+266,Jonathan Lopez,1963-06-06,Qualification,72,,,4,$100K-$249K,Richmond,VA,1991
+267,Joshua B. Aldridge,1950-02-14,Qualification,316,,,4,$100K-$249K,Providence,RI,1998
+268,Linda Park,1948-08-16,Cultivation,205,,,4,$50K-$99K,San Diego,CA,
+269,Cornelius Watson,1976-04-22,Cultivation,436,Eston Long,1979-02-14,4,$50K-$99K,Austin,TX,1977
+270,Marguerite Bennett,1943-01-21,Cultivation,250,Gerald Bancroft,1971-03-03,4,$250K-$499K,San Diego,CA,1982
+271,Eugenia Phillips,1955-02-15,Qualification,241,,,4,$1M+,San Francisco,CA,
+272,Arthur Williams,1946-07-14,Cultivation,126,Marguerite Holloway,1945-10-20,4,$500K-$999K,Richmond,VA,1994
+273,Patrick Fairbanks,1954-08-11,Cultivation,663,,,4,$250K-$499K,Hartford,CT,2000
+274,Jeffrey M. Thornton,1980-05-18,Cultivation,624,Jack Garcia,1950-08-05,4,$250K-$499K,Richmond,VA,
+275,Edward N. Ramirez,1969-04-23,Solicitation,203,,,4,$100K-$249K,Detroit,MI,1988
+276,Nathan T. Moore,1971-01-17,Identification,19,Harriet Whitmore,1977-08-17,4,$100K-$249K,Dubai,UAE,1973
+277,Samuel Roberts,1966-10-23,Solicitation,157,Stephen L. Nguyen,1968-03-05,4,$50K-$99K,Washington,DC,2006
+278,Harriet Sanchez,1953-10-23,Stewardship,655,,,4,$100K-$249K,Hong Kong,HK,2005
+279,Samuel Blackwell,1962-09-16,Qualification,312,,,4,$250K-$499K,Minneapolis,MN,2004
+280,Christina Kelly,1946-01-13,Solicitation,104,Jessica Sanchez,1957-03-10,4,$250K-$499K,Sydney,Australia,1971
+281,Miriam R. Wilson,1979-11-24,Stewardship,519,Rosalind T. Ashford,1984-05-23,4,$250K-$499K,Nashville,TN,1986
+282,Jessica J. Sanchez,1979-08-27,Cultivation,320,,,4,$1M+,Austin,TX,
+283,Ronald Harris,1958-08-06,Solicitation,379,,,4,$100K-$249K,Dubai,UAE,1973
+284,Marguerite F. Brooks,1956-01-11,Solicitation,268,,,4,$50K-$99K,Chicago,IL,1971
+285,Helen W. Rivera,1944-12-11,Identification,141,,,4,$500K-$999K,San Francisco,CA,1973
+286,Clifton M. Lewis,1953-11-11,Cultivation,429,Catherine T. Ortiz,1975-11-01,4,$250K-$499K,Denver,CO,1984
+287,Samuel D. Roberts,1956-09-24,Cultivation,379,,,4,$500K-$999K,Phoenix,AZ,1995
+288,Susan G. Adams,1972-02-04,Solicitation,115,,,4,$100K-$249K,London,UK,
+289,Jason Stewart,1946-04-18,Solicitation,389,Douglas Martinez,1983-03-01,4,$100K-$249K,Los Angeles,CA,1983
+290,Marguerite H. Diallo,1956-07-13,Identification,122,,,4,$50K-$99K,Minneapolis,MN,1989
+291,Thomas Brooks,1942-12-28,Cultivation,164,,,4,$100K-$249K,Atlanta,GA,1994
+292,Larry Murphy,1964-07-27,Identification,176,,,4,$250K-$499K,Raleigh,NC,1972
+293,Constance E. Hill,1983-12-21,Cultivation,472,,,4,$50K-$99K,Columbus,OH,
+294,Mary Turner,1974-09-03,Identification,85,Sharon Mensah,1962-04-14,4,$500K-$999K,Seattle,WA,
+295,Nicholas F. Castillo,1976-01-28,Stewardship,1004,Eugenia C. Allen,1946-04-24,4,$50K-$99K,Minneapolis,MN,1983
+296,Karen Green,1971-08-11,Cultivation,721,Brandon Martin,1976-10-12,4,$250K-$499K,Phoenix,AZ,
+297,Jeffrey Hughes,1967-05-27,Disqualified,198,Paul Nelson,1970-08-15,4,$50K-$99K,Austin,TX,1981
+298,Emily Sanchez,1956-12-21,Cultivation,168,,,4,$50K-$99K,Houston,TX,1963
+299,Jason Cox,1956-09-18,Stewardship,1026,,,4,$100K-$249K,Dubai,UAE,1971
+300,Justin T. Reed,1945-07-12,Cultivation,604,,,4,$50K-$99K,Dubai,UAE,1977
+301,Emily F. Richardson,1976-11-28,Stewardship,359,,,4,$250K-$499K,Denver,CO,1992
+302,Anna B. Castillo,1953-09-26,Stewardship,799,Jerry R. Park,1942-01-21,4,$50K-$99K,Albany,NY,2007
+303,Anna Richardson,1951-07-21,Disqualified,207,,,4,$100K-$249K,Portland,OR,2003
+304,Cynthia Rivera,1962-08-26,Stewardship,1047,Mary Moore,1968-03-08,4,$50K-$99K,Detroit,MI,2003
+305,Donald Collins,1961-12-04,Qualification,260,Frances F. Hughes,1966-01-08,4,$50K-$99K,Denver,CO,1998
+306,Donna J. White,1973-07-20,Cultivation,667,John Whitfield,1982-05-03,4,$50K-$99K,London,UK,2000
+307,Henry Langford,1977-03-20,Disqualified,351,Roger L. Rogers,1978-10-03,4,$500K-$999K,Denver,CO,1986
+308,Gerald Holloway,1949-10-04,Qualification,104,,,4,$50K-$99K,Toronto,Canada,2001
+309,Donald E. Mensah,1978-09-27,Cultivation,91,,,4,$500K-$999K,Sydney,Australia,
+310,Susan Stewart,1954-08-26,Solicitation,225,,,4,$100K-$249K,Toronto,Canada,2009
+311,Paul H. Diallo,1945-05-20,Stewardship,896,Shirley A. Watson,1973-02-17,4,$500K-$999K,Singapore,SG,2003
+312,Michelle J. King,1974-07-19,Qualification,201,Stephen Turner,1953-07-18,4,$250K-$499K,Indianapolis,IN,1992
+313,Brandon Pemberton,1985-07-24,Qualification,84,Donald Cook,1984-03-04,4,$100K-$249K,Providence,RI,1987
+314,Mary Holloway,1949-08-20,Solicitation,252,Daniel H. Mitchell,1945-10-02,4,$250K-$499K,San Francisco,CA,1987
+315,Kevin Murphy,1940-04-28,Cultivation,620,,,4,$100K-$249K,San Francisco,CA,1964
+316,Barbara A. Lee,1945-05-25,Solicitation,234,,,4,$100K-$249K,Charlotte,NC,1987
+317,Karen Cox,1958-12-27,Cultivation,662,,,4,$50K-$99K,New York,NY,
+318,Stephanie N. Watson,1940-05-06,Cultivation,506,Gerald C. Bailey,1958-06-04,4,$1M+,Portland,OR,
+319,Peter Richardson,1970-04-25,Disqualified,187,Zachary Okafor,1977-01-16,4,$500K-$999K,Singapore,SG,1966
+320,Ryan Evans,1962-09-18,Cultivation,99,,,4,$250K-$499K,Charlotte,NC,1978
+321,Melissa M. Ramirez,1976-05-06,Qualification,363,Edward G. Walker,1955-05-07,4,$50K-$99K,Baltimore,MD,1977
+322,Christopher Alvarez,1971-10-01,Stewardship,146,Harold L. Peterson,1976-05-16,4,$100K-$249K,Philadelphia,PA,1994
+323,Cornelius Morgan,1974-01-17,Qualification,191,Julie Pemberton,1951-08-04,4,$50K-$99K,Singapore,SG,1991
+324,Dorothy J. White,1975-05-08,Cultivation,365,Jean Baker,1963-03-16,4,$50K-$99K,Miami,FL,1988
+325,Brian Watson,1983-04-27,Solicitation,81,Brenda Ward,1967-07-07,4,$100K-$249K,Columbus,OH,2009
+326,Paul Aldridge,1980-09-18,Qualification,175,,,4,$250K-$499K,Minneapolis,MN,1981
+327,Carol J. Ortiz,1980-02-15,Qualification,185,Eric W. Ward,1956-06-01,4,$500K-$999K,San Francisco,CA,1984
+328,Clifton K. Rivera,1960-11-17,Stewardship,1058,,,4,$1M+,Dallas,TX,1990
+329,Donna Ruiz,1961-07-21,Stewardship,888,,,4,$100K-$249K,Nashville,TN,
+330,Justin James,1981-07-09,Identification,120,Catherine Kelly,1968-07-06,4,$50K-$99K,Charlotte,NC,1963
+331,Christopher N. Wilson,1946-02-16,Qualification,294,,,4,$50K-$99K,Detroit,MI,1987
+332,Michelle N. Flores,1954-04-24,Cultivation,380,Peter Taylor,1973-03-01,4,$1M+,Philadelphia,PA,1984
+333,Miriam Cox,1968-03-23,Stewardship,422,,,4,$50K-$99K,Providence,RI,1991
+334,Reginald M. Morgan,1974-04-26,Cultivation,181,,,4,$100K-$249K,Singapore,SG,1985
+335,Paul S. Ramos,1940-12-16,Cultivation,578,Scott P. Kingsford,1958-10-08,4,$50K-$99K,New York,NY,1997
+336,Angela N. Thornton,1964-04-09,Cultivation,171,,,4,$100K-$249K,Hong Kong,HK,1977
+337,Reginald Evans,1952-02-06,Cultivation,229,Justin R. Gray,1968-05-23,4,$250K-$499K,Portland,OR,1974
+338,Anthony E. Foster,1968-12-01,Cultivation,328,Betty S. Ramirez,1961-07-10,4,$50K-$99K,Sydney,Australia,1993
+339,Donna N. Martinez,1974-08-06,Disqualified,112,Nicholas Thornton,1940-02-25,4,$100K-$249K,Chicago,IL,1986
+340,Matthew Clark,1970-07-22,Solicitation,189,Samuel B. Worthington,1975-09-04,4,$100K-$249K,Chicago,IL,2002
+341,Laura Walker,1980-07-11,Qualification,21,,,4,$100K-$249K,San Francisco,CA,1979
+342,David Myers,1970-12-20,Cultivation,248,Jack Young,1950-08-03,4,$100K-$249K,Phoenix,AZ,1983
+343,Michelle Langford,1946-03-16,Stewardship,536,Katherine Ashford,1981-06-26,4,$1M+,San Francisco,CA,
+344,Paul B. Cooper,1985-08-18,Solicitation,180,Miriam Harris,1976-03-18,5,$50K-$99K,San Diego,CA,2008
+345,Prescott K. Fairbanks,1956-09-12,Cultivation,554,James Bailey,1964-12-06,5,$500K-$999K,Hong Kong,HK,
+346,Thomas Ramos,1964-04-17,Cultivation,599,Harriet K. Adams,1966-11-11,5,$100K-$249K,Phoenix,AZ,1995
+347,William S. Harris,1946-01-19,Cultivation,487,Carl Long,1977-05-02,5,$50K-$99K,Washington,DC,2000
+348,Christopher B. Campbell,1975-12-14,Solicitation,218,,,5,$50K-$99K,Miami,FL,1965
+349,Helen G. Kelly,1946-02-24,Solicitation,148,,,5,$50K-$99K,Chicago,IL,1974
+350,Melissa Ward,1966-12-04,Qualification,340,,,5,$250K-$499K,Singapore,SG,2005
+351,Brian Bailey,1961-11-06,Cultivation,636,Peter Mensah,1960-09-11,5,$250K-$499K,Philadelphia,PA,
+352,Constance W. Worthington,1956-06-15,Cultivation,548,,,5,$100K-$249K,Austin,TX,
+353,Eston K. Smith,1959-04-07,Identification,87,,,5,$50K-$99K,Nashville,TN,2006
+354,Michelle R. Rivera,1949-03-09,Solicitation,217,,,5,$500K-$999K,London,UK,
+355,Joyce Ramirez,1944-12-11,Qualification,261,Kevin D. Wood,1981-05-02,5,$50K-$99K,Raleigh,NC,1998
+356,Douglas D. Chen,1954-12-21,Cultivation,706,Robert Mendoza,1964-01-10,5,$250K-$499K,Baltimore,MD,1982
+357,Michelle N. Cook,1978-10-17,Cultivation,182,,,5,$50K-$99K,London,UK,1980
+358,Richard King,1945-07-17,Solicitation,252,Kimberly Morgan,1975-04-16,5,$50K-$99K,Baltimore,MD,1998
+359,Charles P. Adams,1983-10-03,Qualification,71,Henry M. Harris,1960-06-20,5,$100K-$249K,Toronto,Canada,1981
+360,Joan H. Sanchez,1983-06-05,Qualification,57,,,5,$50K-$99K,Richmond,VA,1965
+361,Emma D. Flores,1968-08-01,Qualification,183,,,5,$100K-$249K,Seattle,WA,1996
+362,Andrew Castillo,1941-07-19,Qualification,353,,,5,$100K-$249K,Detroit,MI,1978
+363,Robert J. Alvarez,1982-06-28,Qualification,69,John N. Robinson,1964-09-23,5,$50K-$99K,Portland,OR,1982
+364,Ann Ward,1985-01-02,Cultivation,343,Prescott S. Turner,1950-01-12,5,$100K-$249K,Houston,TX,1984
+365,Sarah Park,1964-01-18,Cultivation,376,Cynthia N. Alvarez,1948-02-24,5,$50K-$99K,London,UK,2005
+366,Michelle K. Diallo,1978-06-15,Cultivation,645,Kimberly E. Brooks,1974-11-26,5,$100K-$249K,Charlotte,NC,1970
+367,Ruth Sutton,1949-11-19,Cultivation,251,,,5,$250K-$499K,Toronto,Canada,1997
+368,Donna Blackwell,1960-07-14,Cultivation,400,Peter Holloway,1980-12-09,5,$250K-$499K,Minneapolis,MN,1974
+369,Kathleen Robinson,1983-01-12,Identification,27,,,5,$50K-$99K,Portland,OR,1992
+370,Jack N. Cooper,1970-03-06,Qualification,112,,,5,$500K-$999K,Providence,RI,1988
+371,Jeffrey Sanchez,1953-02-06,Solicitation,254,,,5,$50K-$99K,Portland,OR,
+372,Adam B. James,1964-12-11,Cultivation,493,,,5,$50K-$99K,Hartford,CT,2009
+373,Nathan B. Park,1955-09-18,Cultivation,495,,,5,$100K-$249K,Chicago,IL,
+374,Joan K. Pemberton,1958-08-06,Identification,115,Nicole Miller,1984-09-05,5,$100K-$249K,San Francisco,CA,2003
+375,Constance P. Adams,1968-01-06,Cultivation,554,Rebecca Lopez,1956-06-23,5,$250K-$499K,Atlanta,GA,2007
+376,Nathan Hernandez,1973-12-13,Solicitation,291,George N. Garcia,1950-06-19,5,$250K-$499K,Atlanta,GA,
+377,Jessica K. Whitfield,1968-05-21,Stewardship,430,Donald Sanchez,1940-10-25,5,$50K-$99K,Seattle,WA,1991
+378,Alice S. Rogers,1966-08-03,Cultivation,705,,,5,$100K-$249K,New York,NY,1977
+379,Sharon E. Davis,1981-06-02,Stewardship,357,,,5,$50K-$99K,Hong Kong,HK,
+380,Daniel P. Thompson,1950-11-10,Cultivation,715,Rosalind R. Worthington,1977-06-02,5,$500K-$999K,Raleigh,NC,1981
+381,Eugenia S. Moore,1947-12-28,Cultivation,371,,,5,$500K-$999K,Los Angeles,CA,1988
+382,Prescott Morgan,1984-10-26,Cultivation,384,Adam Green,1956-09-19,5,$250K-$499K,San Francisco,CA,
+383,Arthur F. Zhang,1979-04-23,Cultivation,387,,,5,$50K-$99K,Singapore,SG,
+384,Sharon Collins,1966-01-11,Identification,96,,,5,$50K-$99K,Atlanta,GA,2002
+385,Karen T. Cox,1960-01-04,Qualification,365,Debra A. Thornton,1951-04-11,5,$100K-$249K,Nashville,TN,
+386,Paul R. Okafor,1974-06-15,Stewardship,907,,,5,$100K-$249K,Providence,RI,
+387,Benjamin Williams,1953-10-22,Identification,91,,,5,$100K-$249K,Singapore,SG,1984
+388,Heather Whitmore,1950-10-20,Identification,106,Deborah Beaumont,1959-12-28,5,$50K-$99K,Boston,MA,1964
+389,Helen K. Thompson,1947-06-26,Qualification,33,Rebecca Murphy,1972-01-26,5,$50K-$99K,Phoenix,AZ,1994
+390,Cornelius L. Jackson,1946-09-22,Qualification,81,,,5,$50K-$99K,Providence,RI,1964
+391,Samantha Patel,1978-02-11,Cultivation,568,Susan K. Williams,1976-05-21,5,$250K-$499K,Toronto,Canada,
+392,Joan Wright,1949-03-09,Cultivation,207,,,5,$50K-$99K,Portland,OR,2001
+393,Katherine K. Watson,1955-03-03,Cultivation,408,Raymond Miller,1948-01-16,5,$50K-$99K,Sydney,Australia,
+394,Melissa Okafor,1977-11-27,Identification,121,,,5,$100K-$249K,Houston,TX,1981
+395,Walter Lopez,1984-08-04,Cultivation,556,Samantha Ross,1969-08-08,5,$50K-$99K,Sydney,Australia,
+396,Julie L. Ashford,1960-08-16,Qualification,29,,,5,$500K-$999K,Detroit,MI,1969
+397,Carolyn Taylor,1972-02-13,Cultivation,199,Christine Martinez,1959-09-15,5,$100K-$249K,Denver,CO,1988
+398,Diane G. Fairbanks,1984-10-14,Qualification,236,,,5,$50K-$99K,Denver,CO,1983
+399,Cheryl R. Adams,1975-02-27,Cultivation,545,,,5,$50K-$99K,Los Angeles,CA,1987
+400,Sarah E. Zhang,1977-11-26,Identification,7,Donna Cook,1974-05-13,5,$50K-$99K,San Diego,CA,1990
+401,Helen Morales,1985-06-03,Qualification,312,Robert Reed,1965-03-28,5,$250K-$499K,Austin,TX,1985
+402,Alexander K. Beaumont,1941-04-14,Stewardship,867,,,5,$1M+,New York,NY,2007
+403,Kevin G. Ward,1964-06-27,Cultivation,517,Michelle E. Moore,1940-02-21,5,$100K-$249K,Sydney,Australia,2008
+404,Kelly Okafor,1984-10-14,Stewardship,428,Judith Cox,1968-07-12,5,$250K-$499K,Washington,DC,1989
+405,Jonathan W. Watson,1963-01-02,Cultivation,671,,,5,$100K-$249K,Phoenix,AZ,1985
+406,Cornelius Ashworth,1957-08-17,Identification,27,Thaddeus Lopez,1955-08-21,5,$100K-$249K,Houston,TX,2004
+407,Jessica Ramos,1940-08-15,Identification,138,Jean Nelson,1966-06-26,5,$100K-$249K,Dubai,UAE,1972
+408,Eric S. Brooks,1950-10-02,Identification,175,,,5,$500K-$999K,Raleigh,NC,
+409,Steven Aldridge,1957-05-05,Solicitation,345,,,5,$100K-$249K,Nashville,TN,1978
+410,Kenneth Mitchell,1951-05-26,Identification,67,,,5,$50K-$99K,Minneapolis,MN,1995
+411,Michelle Ashworth,1966-07-08,Stewardship,961,,,5,$50K-$99K,Houston,TX,1972
+412,Anna Anderson,1943-03-15,Qualification,218,Kyle W. Robinson,1964-11-23,5,$250K-$499K,Pittsburgh,PA,1978
+413,Virginia L. Howard,1983-01-04,Qualification,286,Janet Morales,1979-11-28,5,$500K-$999K,New York,NY,1979
+414,Amy Chavez,1952-09-11,Qualification,360,Brian A. Sanders,1940-02-01,5,$50K-$99K,Dubai,UAE,1995
+415,Nicholas A. Gray,1945-01-20,Identification,175,,,5,$100K-$249K,Charlotte,NC,
+416,Donald E. Carter,1982-11-19,Qualification,108,,,5,$100K-$249K,Atlanta,GA,
+417,Lisa Scott,1967-12-22,Solicitation,195,,,5,$50K-$99K,Hartford,CT,1966
+418,Sarah J. Thompson,1968-02-16,Qualification,116,Julie S. Wilson,1949-09-25,5,$50K-$99K,San Diego,CA,2001
