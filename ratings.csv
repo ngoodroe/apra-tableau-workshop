@@ -1,0 +1,1048 @@
+rating_id,constituent_id,category,source,value,value_type,date
+1,1,Real Estate,DonorSearch,"$1,050,000",Currency,2025-08-15
+2,1,Likelihood to Give,DonorSearch,74%,Percent,2026-01-08
+3,2,Estimated Capacity,DonorSearch,"$130,000",Currency,2025-09-11
+4,2,Real Estate,DonorSearch,"$300,000",Currency,2024-08-14
+5,2,Likelihood to Give,DonorSearch,74%,Percent,2025-10-01
+6,3,Likelihood to Give,WealthEngine,34%,Percent,2026-04-16
+7,3,Real Estate,WealthEngine,"$2,850,000",Currency,2025-11-10
+8,4,Estimated Capacity,Blackbaud Target Analytics,"$240,000",Currency,2026-01-08
+9,4,Real Estate,Blackbaud Target Analytics,"$1,550,000",Currency,2026-01-13
+10,4,Likelihood to Give,Blackbaud Target Analytics,29%,Percent,2025-05-05
+11,5,Real Estate,Blackbaud Target Analytics,"$650,000",Currency,2024-10-20
+12,5,Likelihood to Give,Blackbaud Target Analytics,67%,Percent,2025-03-31
+13,6,Real Estate,Blackbaud Target Analytics,"$2,700,000",Currency,2026-03-07
+14,6,Estimated Capacity,Blackbaud Target Analytics,"$300,000",Currency,2025-06-30
+15,6,Likelihood to Give,Blackbaud Target Analytics,61%,Percent,2025-08-27
+16,7,Likelihood to Give,WealthEngine,77%,Percent,2025-04-08
+17,7,Real Estate,WealthEngine,"$2,750,000",Currency,2025-09-20
+18,7,Estimated Capacity,WealthEngine,"$920,000",Currency,2024-05-23
+19,8,Estimated Capacity,iWave,"$310,000",Currency,2025-03-30
+20,8,Likelihood to Give,iWave,90%,Percent,2024-07-06
+21,9,Estimated Capacity,iWave,"$170,000",Currency,2025-06-03
+22,9,Real Estate,iWave,"$1,000,000",Currency,2026-02-14
+23,9,Likelihood to Give,iWave,93%,Percent,2024-09-19
+24,10,Real Estate,Blackbaud Target Analytics,"$3,550,000",Currency,2025-03-13
+25,10,Likelihood to Give,Blackbaud Target Analytics,79%,Percent,2024-07-03
+26,11,Estimated Capacity,iWave,"$70,000",Currency,2024-09-01
+27,11,Real Estate,iWave,"$1,700,000",Currency,2024-09-02
+28,11,Likelihood to Give,iWave,28%,Percent,2025-09-10
+29,12,Estimated Capacity,WealthEngine,"$450,000",Currency,2025-11-17
+30,12,Real Estate,WealthEngine,"$1,800,000",Currency,2024-05-26
+31,13,Likelihood to Give,DonorSearch,92%,Percent,2024-10-03
+32,13,Real Estate,DonorSearch,"$2,800,000",Currency,2026-04-11
+33,13,Estimated Capacity,DonorSearch,"$90,000",Currency,2025-12-26
+34,14,Estimated Capacity,Blackbaud Target Analytics,"$2,710,000",Currency,2025-11-12
+35,14,Likelihood to Give,Blackbaud Target Analytics,81%,Percent,2025-07-27
+36,14,Real Estate,Blackbaud Target Analytics,"$2,150,000",Currency,2025-10-22
+37,15,Real Estate,DonorSearch,"$3,100,000",Currency,2025-04-05
+38,15,Estimated Capacity,DonorSearch,"$290,000",Currency,2024-10-17
+39,15,Likelihood to Give,DonorSearch,40%,Percent,2024-10-26
+40,16,Estimated Capacity,Blackbaud Target Analytics,"$130,000",Currency,2025-06-12
+41,16,Real Estate,Blackbaud Target Analytics,"$3,550,000",Currency,2025-08-19
+42,16,Likelihood to Give,Blackbaud Target Analytics,45%,Percent,2026-02-01
+43,17,Real Estate,WealthEngine,"$2,700,000",Currency,2025-12-12
+44,17,Estimated Capacity,WealthEngine,"$120,000",Currency,2024-10-07
+45,18,Real Estate,WealthEngine,"$1,700,000",Currency,2025-06-07
+46,18,Estimated Capacity,WealthEngine,"$220,000",Currency,2024-06-04
+47,19,Estimated Capacity,WealthEngine,"$70,000",Currency,2026-02-16
+48,19,Real Estate,WealthEngine,"$2,300,000",Currency,2024-08-28
+49,19,Likelihood to Give,WealthEngine,54%,Percent,2024-08-28
+50,20,Real Estate,DonorSearch,"$450,000",Currency,2025-08-31
+51,20,Estimated Capacity,DonorSearch,"$110,000",Currency,2026-03-21
+52,21,Likelihood to Give,DonorSearch,89%,Percent,2025-09-15
+53,21,Real Estate,DonorSearch,"$2,950,000",Currency,2025-12-08
+54,22,Likelihood to Give,WealthEngine,26%,Percent,2025-10-10
+55,22,Real Estate,WealthEngine,"$2,700,000",Currency,2026-01-13
+56,23,Likelihood to Give,Blackbaud Target Analytics,46%,Percent,2024-06-02
+57,23,Real Estate,Blackbaud Target Analytics,"$1,750,000",Currency,2026-02-19
+58,23,Estimated Capacity,Blackbaud Target Analytics,"$4,160,000",Currency,2025-05-10
+59,24,Estimated Capacity,DonorSearch,"$380,000",Currency,2024-10-20
+60,24,Real Estate,DonorSearch,"$900,000",Currency,2025-02-14
+61,25,Estimated Capacity,WealthEngine,"$100,000",Currency,2024-10-06
+62,25,Likelihood to Give,WealthEngine,74%,Percent,2024-06-24
+63,26,Estimated Capacity,DonorSearch,"$390,000",Currency,2025-03-02
+64,26,Real Estate,DonorSearch,"$3,500,000",Currency,2025-09-16
+65,27,Likelihood to Give,DonorSearch,56%,Percent,2025-03-19
+66,27,Estimated Capacity,DonorSearch,"$310,000",Currency,2025-01-12
+67,28,Estimated Capacity,WealthEngine,"$1,170,000",Currency,2025-09-12
+68,28,Likelihood to Give,WealthEngine,54%,Percent,2024-09-06
+69,29,Estimated Capacity,DonorSearch,"$570,000",Currency,2024-11-24
+70,29,Real Estate,DonorSearch,"$800,000",Currency,2024-10-26
+71,29,Likelihood to Give,DonorSearch,25%,Percent,2024-11-18
+72,30,Real Estate,iWave,"$3,450,000",Currency,2024-05-31
+73,30,Estimated Capacity,iWave,"$50,000",Currency,2025-03-05
+74,31,Real Estate,iWave,"$2,700,000",Currency,2025-02-17
+75,31,Estimated Capacity,iWave,"$820,000",Currency,2024-09-21
+76,32,Real Estate,Blackbaud Target Analytics,"$1,200,000",Currency,2025-08-21
+77,32,Likelihood to Give,Blackbaud Target Analytics,39%,Percent,2025-12-09
+78,33,Estimated Capacity,WealthEngine,"$120,000",Currency,2024-07-25
+79,33,Real Estate,WealthEngine,"$500,000",Currency,2026-01-10
+80,33,Likelihood to Give,WealthEngine,26%,Percent,2025-09-16
+81,34,Likelihood to Give,Blackbaud Target Analytics,63%,Percent,2025-08-15
+82,34,Estimated Capacity,Blackbaud Target Analytics,"$530,000",Currency,2025-07-05
+83,35,Real Estate,Blackbaud Target Analytics,"$600,000",Currency,2024-06-12
+84,35,Likelihood to Give,Blackbaud Target Analytics,56%,Percent,2025-12-06
+85,36,Real Estate,DonorSearch,"$1,250,000",Currency,2025-07-18
+86,36,Estimated Capacity,DonorSearch,"$490,000",Currency,2025-09-19
+87,37,Real Estate,iWave,"$550,000",Currency,2026-03-01
+88,37,Likelihood to Give,iWave,72%,Percent,2025-02-13
+89,37,Estimated Capacity,iWave,"$80,000",Currency,2026-03-08
+90,38,Estimated Capacity,iWave,"$840,000",Currency,2024-09-25
+91,38,Likelihood to Give,iWave,49%,Percent,2026-02-04
+92,38,Real Estate,iWave,"$350,000",Currency,2024-10-11
+93,39,Likelihood to Give,Blackbaud Target Analytics,39%,Percent,2026-03-11
+94,39,Estimated Capacity,Blackbaud Target Analytics,"$280,000",Currency,2025-04-14
+95,40,Estimated Capacity,DonorSearch,"$1,020,000",Currency,2025-04-25
+96,40,Real Estate,DonorSearch,"$3,900,000",Currency,2025-03-02
+97,40,Likelihood to Give,DonorSearch,35%,Percent,2025-11-15
+98,41,Likelihood to Give,iWave,61%,Percent,2025-10-21
+99,41,Estimated Capacity,iWave,"$520,000",Currency,2025-02-25
+100,42,Estimated Capacity,iWave,"$540,000",Currency,2026-03-14
+101,42,Real Estate,iWave,"$950,000",Currency,2025-09-07
+102,42,Likelihood to Give,iWave,21%,Percent,2025-01-06
+103,43,Estimated Capacity,Blackbaud Target Analytics,"$120,000",Currency,2024-06-16
+104,43,Real Estate,Blackbaud Target Analytics,"$1,250,000",Currency,2025-05-21
+105,44,Likelihood to Give,DonorSearch,62%,Percent,2026-03-25
+106,44,Real Estate,DonorSearch,"$900,000",Currency,2025-07-29
+107,44,Estimated Capacity,DonorSearch,"$90,000",Currency,2025-07-25
+108,45,Real Estate,WealthEngine,"$3,950,000",Currency,2024-08-10
+109,45,Likelihood to Give,WealthEngine,79%,Percent,2025-12-25
+110,45,Estimated Capacity,WealthEngine,"$120,000",Currency,2024-09-09
+111,46,Estimated Capacity,DonorSearch,"$460,000",Currency,2025-02-05
+112,46,Real Estate,DonorSearch,"$3,700,000",Currency,2024-06-11
+113,46,Likelihood to Give,DonorSearch,60%,Percent,2024-07-23
+114,47,Real Estate,DonorSearch,"$1,750,000",Currency,2025-05-23
+115,47,Likelihood to Give,DonorSearch,27%,Percent,2025-06-24
+116,47,Estimated Capacity,DonorSearch,"$120,000",Currency,2025-12-13
+117,48,Real Estate,WealthEngine,"$2,300,000",Currency,2025-03-03
+118,48,Likelihood to Give,WealthEngine,59%,Percent,2026-04-22
+119,49,Likelihood to Give,Blackbaud Target Analytics,68%,Percent,2025-01-01
+120,49,Real Estate,Blackbaud Target Analytics,"$2,750,000",Currency,2025-01-25
+121,50,Real Estate,WealthEngine,"$2,150,000",Currency,2025-07-06
+122,50,Estimated Capacity,WealthEngine,"$450,000",Currency,2024-07-13
+123,51,Real Estate,DonorSearch,"$3,250,000",Currency,2025-09-04
+124,51,Likelihood to Give,DonorSearch,65%,Percent,2025-11-23
+125,52,Likelihood to Give,DonorSearch,66%,Percent,2025-01-11
+126,52,Estimated Capacity,DonorSearch,"$90,000",Currency,2024-07-17
+127,53,Likelihood to Give,WealthEngine,40%,Percent,2024-06-20
+128,53,Estimated Capacity,WealthEngine,"$1,020,000",Currency,2026-01-03
+129,53,Real Estate,WealthEngine,"$850,000",Currency,2025-09-10
+130,54,Real Estate,WealthEngine,"$1,950,000",Currency,2025-12-19
+131,54,Estimated Capacity,WealthEngine,"$90,000",Currency,2025-01-02
+132,55,Real Estate,Blackbaud Target Analytics,"$3,050,000",Currency,2025-11-11
+133,55,Likelihood to Give,Blackbaud Target Analytics,68%,Percent,2024-12-22
+134,55,Estimated Capacity,Blackbaud Target Analytics,"$250,000",Currency,2025-07-31
+135,56,Real Estate,Blackbaud Target Analytics,"$500,000",Currency,2025-01-27
+136,56,Estimated Capacity,Blackbaud Target Analytics,"$60,000",Currency,2025-07-04
+137,56,Likelihood to Give,Blackbaud Target Analytics,60%,Percent,2025-05-14
+138,57,Estimated Capacity,DonorSearch,"$230,000",Currency,2025-03-26
+139,57,Real Estate,DonorSearch,"$450,000",Currency,2025-09-15
+140,58,Real Estate,WealthEngine,"$1,000,000",Currency,2026-02-18
+141,58,Likelihood to Give,WealthEngine,79%,Percent,2025-02-16
+142,58,Estimated Capacity,WealthEngine,"$120,000",Currency,2024-09-01
+143,59,Likelihood to Give,DonorSearch,89%,Percent,2025-06-21
+144,59,Estimated Capacity,DonorSearch,"$110,000",Currency,2025-03-19
+145,59,Real Estate,DonorSearch,"$2,250,000",Currency,2025-02-17
+146,60,Estimated Capacity,iWave,"$90,000",Currency,2024-12-11
+147,60,Likelihood to Give,iWave,80%,Percent,2025-05-13
+148,60,Real Estate,iWave,"$3,400,000",Currency,2025-11-04
+149,61,Likelihood to Give,iWave,85%,Percent,2026-01-27
+150,61,Estimated Capacity,iWave,"$50,000",Currency,2025-02-08
+151,62,Estimated Capacity,WealthEngine,"$660,000",Currency,2025-03-30
+152,62,Likelihood to Give,WealthEngine,60%,Percent,2025-01-12
+153,63,Likelihood to Give,Blackbaud Target Analytics,70%,Percent,2026-01-29
+154,63,Real Estate,Blackbaud Target Analytics,"$3,050,000",Currency,2026-04-03
+155,63,Estimated Capacity,Blackbaud Target Analytics,"$1,200,000",Currency,2026-02-28
+156,64,Real Estate,Blackbaud Target Analytics,"$350,000",Currency,2024-06-24
+157,64,Estimated Capacity,Blackbaud Target Analytics,"$290,000",Currency,2026-03-22
+158,65,Real Estate,iWave,"$700,000",Currency,2025-08-21
+159,65,Estimated Capacity,iWave,"$50,000",Currency,2024-06-06
+160,66,Real Estate,iWave,"$2,500,000",Currency,2025-11-02
+161,66,Likelihood to Give,iWave,29%,Percent,2025-12-26
+162,66,Estimated Capacity,iWave,"$120,000",Currency,2025-11-06
+163,67,Likelihood to Give,DonorSearch,52%,Percent,2025-03-12
+164,67,Real Estate,DonorSearch,"$2,450,000",Currency,2026-02-04
+165,68,Real Estate,iWave,"$2,500,000",Currency,2024-05-22
+166,68,Likelihood to Give,iWave,42%,Percent,2025-12-20
+167,69,Real Estate,Blackbaud Target Analytics,"$2,650,000",Currency,2024-11-20
+168,69,Likelihood to Give,Blackbaud Target Analytics,66%,Percent,2026-04-10
+169,69,Estimated Capacity,Blackbaud Target Analytics,"$100,000",Currency,2024-12-07
+170,70,Real Estate,Blackbaud Target Analytics,"$3,000,000",Currency,2025-10-24
+171,70,Estimated Capacity,Blackbaud Target Analytics,"$310,000",Currency,2024-06-25
+172,70,Likelihood to Give,Blackbaud Target Analytics,50%,Percent,2024-10-18
+173,71,Real Estate,WealthEngine,"$3,350,000",Currency,2025-08-14
+174,71,Likelihood to Give,WealthEngine,57%,Percent,2026-01-24
+175,71,Estimated Capacity,WealthEngine,"$130,000",Currency,2025-01-16
+176,72,Likelihood to Give,WealthEngine,31%,Percent,2025-05-25
+177,72,Estimated Capacity,WealthEngine,"$60,000",Currency,2024-12-09
+178,72,Real Estate,WealthEngine,"$1,500,000",Currency,2025-08-01
+179,73,Real Estate,Blackbaud Target Analytics,"$1,100,000",Currency,2026-01-25
+180,73,Estimated Capacity,Blackbaud Target Analytics,"$80,000",Currency,2025-03-02
+181,74,Real Estate,iWave,"$550,000",Currency,2026-04-05
+182,74,Likelihood to Give,iWave,80%,Percent,2025-09-08
+183,74,Estimated Capacity,iWave,"$60,000",Currency,2025-08-16
+184,75,Real Estate,Blackbaud Target Analytics,"$1,450,000",Currency,2024-10-06
+185,75,Likelihood to Give,Blackbaud Target Analytics,73%,Percent,2025-01-13
+186,75,Estimated Capacity,Blackbaud Target Analytics,"$600,000",Currency,2025-06-13
+187,76,Likelihood to Give,DonorSearch,31%,Percent,2024-10-21
+188,76,Estimated Capacity,DonorSearch,"$130,000",Currency,2025-10-08
+189,77,Real Estate,WealthEngine,"$1,350,000",Currency,2025-10-06
+190,77,Likelihood to Give,WealthEngine,66%,Percent,2025-04-18
+191,77,Estimated Capacity,WealthEngine,"$210,000",Currency,2025-06-17
+192,78,Estimated Capacity,iWave,"$3,480,000",Currency,2025-12-14
+193,78,Real Estate,iWave,"$600,000",Currency,2024-12-06
+194,78,Likelihood to Give,iWave,58%,Percent,2026-04-10
+195,79,Likelihood to Give,WealthEngine,73%,Percent,2026-03-01
+196,79,Real Estate,WealthEngine,"$650,000",Currency,2024-12-19
+197,79,Estimated Capacity,WealthEngine,"$170,000",Currency,2026-02-15
+198,80,Estimated Capacity,DonorSearch,"$290,000",Currency,2024-09-23
+199,80,Real Estate,DonorSearch,"$4,000,000",Currency,2026-01-25
+200,81,Real Estate,DonorSearch,"$3,650,000",Currency,2025-01-16
+201,81,Estimated Capacity,DonorSearch,"$110,000",Currency,2025-06-22
+202,81,Likelihood to Give,DonorSearch,74%,Percent,2025-02-07
+203,82,Estimated Capacity,DonorSearch,"$90,000",Currency,2025-07-26
+204,82,Real Estate,DonorSearch,"$1,100,000",Currency,2025-11-13
+205,83,Estimated Capacity,DonorSearch,"$480,000",Currency,2025-01-16
+206,83,Likelihood to Give,DonorSearch,58%,Percent,2024-12-27
+207,84,Likelihood to Give,DonorSearch,24%,Percent,2025-01-13
+208,84,Real Estate,DonorSearch,"$3,700,000",Currency,2025-08-26
+209,85,Estimated Capacity,iWave,"$110,000",Currency,2025-07-24
+210,85,Real Estate,iWave,"$450,000",Currency,2026-02-08
+211,85,Likelihood to Give,iWave,58%,Percent,2025-06-12
+212,86,Likelihood to Give,WealthEngine,57%,Percent,2025-03-06
+213,86,Real Estate,WealthEngine,"$2,250,000",Currency,2024-11-26
+214,87,Real Estate,WealthEngine,"$3,000,000",Currency,2025-02-04
+215,87,Estimated Capacity,WealthEngine,"$600,000",Currency,2024-08-12
+216,88,Real Estate,DonorSearch,"$3,300,000",Currency,2024-06-03
+217,88,Estimated Capacity,DonorSearch,"$430,000",Currency,2024-09-09
+218,89,Real Estate,iWave,"$4,000,000",Currency,2025-10-19
+219,89,Likelihood to Give,iWave,71%,Percent,2025-01-31
+220,89,Estimated Capacity,iWave,"$80,000",Currency,2026-01-19
+221,90,Likelihood to Give,WealthEngine,23%,Percent,2025-05-20
+222,90,Estimated Capacity,WealthEngine,"$140,000",Currency,2024-12-01
+223,90,Real Estate,WealthEngine,"$3,300,000",Currency,2025-03-08
+224,91,Estimated Capacity,DonorSearch,"$250,000",Currency,2025-05-26
+225,91,Likelihood to Give,DonorSearch,72%,Percent,2025-03-05
+226,91,Real Estate,DonorSearch,"$2,700,000",Currency,2026-04-21
+227,92,Estimated Capacity,WealthEngine,"$500,000",Currency,2024-07-24
+228,92,Real Estate,WealthEngine,"$1,900,000",Currency,2024-07-21
+229,92,Likelihood to Give,WealthEngine,16%,Percent,2026-03-01
+230,93,Likelihood to Give,Blackbaud Target Analytics,47%,Percent,2024-12-12
+231,93,Real Estate,Blackbaud Target Analytics,"$3,900,000",Currency,2026-03-24
+232,94,Likelihood to Give,iWave,66%,Percent,2024-10-04
+233,94,Estimated Capacity,iWave,"$1,740,000",Currency,2026-01-17
+234,95,Estimated Capacity,DonorSearch,"$400,000",Currency,2025-06-28
+235,95,Real Estate,DonorSearch,"$1,800,000",Currency,2025-07-17
+236,95,Likelihood to Give,DonorSearch,70%,Percent,2024-12-14
+237,96,Real Estate,iWave,"$3,700,000",Currency,2025-10-09
+238,96,Estimated Capacity,iWave,"$3,930,000",Currency,2024-11-18
+239,96,Likelihood to Give,iWave,44%,Percent,2025-12-04
+240,97,Likelihood to Give,Blackbaud Target Analytics,59%,Percent,2025-07-07
+241,97,Real Estate,Blackbaud Target Analytics,"$2,400,000",Currency,2024-08-29
+242,97,Estimated Capacity,Blackbaud Target Analytics,"$190,000",Currency,2024-06-16
+243,98,Real Estate,iWave,"$2,300,000",Currency,2025-05-17
+244,98,Likelihood to Give,iWave,77%,Percent,2024-10-13
+245,98,Estimated Capacity,iWave,"$110,000",Currency,2025-01-11
+246,99,Real Estate,iWave,"$3,450,000",Currency,2025-08-26
+247,99,Likelihood to Give,iWave,42%,Percent,2025-02-26
+248,100,Real Estate,Blackbaud Target Analytics,"$3,200,000",Currency,2024-06-12
+249,100,Likelihood to Give,Blackbaud Target Analytics,29%,Percent,2024-06-24
+250,100,Estimated Capacity,Blackbaud Target Analytics,"$4,850,000",Currency,2024-12-01
+251,101,Estimated Capacity,iWave,"$4,620,000",Currency,2024-10-31
+252,101,Likelihood to Give,iWave,33%,Percent,2026-04-07
+253,101,Real Estate,iWave,"$1,750,000",Currency,2025-11-26
+254,102,Likelihood to Give,iWave,65%,Percent,2025-05-11
+255,102,Real Estate,iWave,"$500,000",Currency,2024-06-26
+256,103,Likelihood to Give,Blackbaud Target Analytics,24%,Percent,2024-07-29
+257,103,Real Estate,Blackbaud Target Analytics,"$2,600,000",Currency,2025-08-25
+258,103,Estimated Capacity,Blackbaud Target Analytics,"$600,000",Currency,2025-07-02
+259,104,Estimated Capacity,DonorSearch,"$230,000",Currency,2025-11-03
+260,104,Real Estate,DonorSearch,"$350,000",Currency,2026-03-24
+261,104,Likelihood to Give,DonorSearch,58%,Percent,2026-02-24
+262,105,Likelihood to Give,Blackbaud Target Analytics,66%,Percent,2024-10-26
+263,105,Estimated Capacity,Blackbaud Target Analytics,"$470,000",Currency,2024-09-20
+264,105,Real Estate,Blackbaud Target Analytics,"$850,000",Currency,2025-10-20
+265,106,Real Estate,DonorSearch,"$750,000",Currency,2024-09-02
+266,106,Estimated Capacity,DonorSearch,"$90,000",Currency,2025-01-05
+267,106,Likelihood to Give,DonorSearch,18%,Percent,2025-01-07
+268,107,Likelihood to Give,DonorSearch,62%,Percent,2025-01-25
+269,107,Estimated Capacity,DonorSearch,"$150,000",Currency,2024-08-29
+270,107,Real Estate,DonorSearch,"$2,800,000",Currency,2025-02-12
+271,108,Estimated Capacity,WealthEngine,"$590,000",Currency,2026-01-03
+272,108,Likelihood to Give,WealthEngine,62%,Percent,2024-09-14
+273,108,Real Estate,WealthEngine,"$1,300,000",Currency,2024-09-11
+274,109,Real Estate,Blackbaud Target Analytics,"$250,000",Currency,2025-07-15
+275,109,Likelihood to Give,Blackbaud Target Analytics,51%,Percent,2026-03-03
+276,110,Real Estate,Blackbaud Target Analytics,"$2,600,000",Currency,2025-09-10
+277,110,Likelihood to Give,Blackbaud Target Analytics,36%,Percent,2024-07-26
+278,111,Real Estate,iWave,"$3,200,000",Currency,2025-06-10
+279,111,Estimated Capacity,iWave,"$430,000",Currency,2026-03-19
+280,112,Likelihood to Give,iWave,15%,Percent,2025-02-21
+281,112,Real Estate,iWave,"$700,000",Currency,2025-09-29
+282,113,Estimated Capacity,Blackbaud Target Analytics,"$240,000",Currency,2025-06-24
+283,113,Likelihood to Give,Blackbaud Target Analytics,47%,Percent,2025-05-11
+284,113,Real Estate,Blackbaud Target Analytics,"$3,850,000",Currency,2024-12-29
+285,114,Real Estate,iWave,"$1,600,000",Currency,2024-09-29
+286,114,Likelihood to Give,iWave,40%,Percent,2025-03-14
+287,115,Likelihood to Give,Blackbaud Target Analytics,36%,Percent,2024-06-03
+288,115,Real Estate,Blackbaud Target Analytics,"$1,650,000",Currency,2024-09-01
+289,116,Real Estate,Blackbaud Target Analytics,"$300,000",Currency,2024-12-26
+290,116,Estimated Capacity,Blackbaud Target Analytics,"$70,000",Currency,2024-09-25
+291,117,Real Estate,iWave,"$2,650,000",Currency,2025-06-17
+292,117,Likelihood to Give,iWave,69%,Percent,2025-12-24
+293,118,Likelihood to Give,DonorSearch,46%,Percent,2025-12-25
+294,118,Real Estate,DonorSearch,"$3,550,000",Currency,2025-08-25
+295,119,Likelihood to Give,iWave,33%,Percent,2024-08-29
+296,119,Real Estate,iWave,"$3,550,000",Currency,2025-11-15
+297,119,Estimated Capacity,iWave,"$100,000",Currency,2024-06-21
+298,120,Likelihood to Give,WealthEngine,68%,Percent,2025-09-12
+299,120,Estimated Capacity,WealthEngine,"$120,000",Currency,2025-01-22
+300,120,Real Estate,WealthEngine,"$600,000",Currency,2025-04-16
+301,121,Estimated Capacity,Blackbaud Target Analytics,"$290,000",Currency,2025-10-10
+302,121,Likelihood to Give,Blackbaud Target Analytics,60%,Percent,2025-01-12
+303,121,Real Estate,Blackbaud Target Analytics,"$1,000,000",Currency,2024-06-13
+304,122,Likelihood to Give,DonorSearch,35%,Percent,2025-12-15
+305,122,Estimated Capacity,DonorSearch,"$130,000",Currency,2024-09-21
+306,123,Estimated Capacity,iWave,"$250,000",Currency,2025-11-22
+307,123,Likelihood to Give,iWave,65%,Percent,2024-08-20
+308,124,Estimated Capacity,Blackbaud Target Analytics,"$100,000",Currency,2025-10-26
+309,124,Likelihood to Give,Blackbaud Target Analytics,63%,Percent,2026-03-27
+310,125,Estimated Capacity,DonorSearch,"$1,910,000",Currency,2025-10-26
+311,125,Likelihood to Give,DonorSearch,81%,Percent,2025-12-14
+312,125,Real Estate,DonorSearch,"$650,000",Currency,2024-10-31
+313,126,Likelihood to Give,DonorSearch,21%,Percent,2025-01-15
+314,126,Real Estate,DonorSearch,"$3,800,000",Currency,2025-09-08
+315,126,Estimated Capacity,DonorSearch,"$980,000",Currency,2026-03-09
+316,127,Real Estate,Blackbaud Target Analytics,"$3,400,000",Currency,2024-12-18
+317,127,Estimated Capacity,Blackbaud Target Analytics,"$90,000",Currency,2025-02-10
+318,127,Likelihood to Give,Blackbaud Target Analytics,83%,Percent,2024-12-06
+319,128,Likelihood to Give,DonorSearch,28%,Percent,2026-02-14
+320,128,Estimated Capacity,DonorSearch,"$90,000",Currency,2025-07-15
+321,129,Real Estate,Blackbaud Target Analytics,"$2,500,000",Currency,2024-11-21
+322,129,Likelihood to Give,Blackbaud Target Analytics,90%,Percent,2026-01-11
+323,129,Estimated Capacity,Blackbaud Target Analytics,"$1,080,000",Currency,2025-12-26
+324,130,Likelihood to Give,iWave,69%,Percent,2025-05-10
+325,130,Estimated Capacity,iWave,"$370,000",Currency,2025-03-10
+326,130,Real Estate,iWave,"$1,400,000",Currency,2026-01-15
+327,131,Likelihood to Give,Blackbaud Target Analytics,67%,Percent,2026-02-13
+328,131,Estimated Capacity,Blackbaud Target Analytics,"$50,000",Currency,2026-01-25
+329,131,Real Estate,Blackbaud Target Analytics,"$3,050,000",Currency,2026-01-14
+330,132,Real Estate,Blackbaud Target Analytics,"$3,850,000",Currency,2024-08-30
+331,132,Estimated Capacity,Blackbaud Target Analytics,"$70,000",Currency,2024-09-24
+332,133,Likelihood to Give,DonorSearch,59%,Percent,2025-07-02
+333,133,Real Estate,DonorSearch,"$600,000",Currency,2025-04-27
+334,133,Estimated Capacity,DonorSearch,"$570,000",Currency,2024-11-19
+335,134,Estimated Capacity,WealthEngine,"$350,000",Currency,2024-09-30
+336,134,Likelihood to Give,WealthEngine,54%,Percent,2025-07-11
+337,135,Real Estate,WealthEngine,"$900,000",Currency,2026-03-24
+338,135,Likelihood to Give,WealthEngine,15%,Percent,2025-06-10
+339,136,Estimated Capacity,Blackbaud Target Analytics,"$930,000",Currency,2024-09-20
+340,136,Real Estate,Blackbaud Target Analytics,"$750,000",Currency,2026-02-10
+341,137,Real Estate,DonorSearch,"$1,800,000",Currency,2025-04-02
+342,137,Estimated Capacity,DonorSearch,"$260,000",Currency,2025-05-08
+343,138,Real Estate,Blackbaud Target Analytics,"$800,000",Currency,2025-11-14
+344,138,Estimated Capacity,Blackbaud Target Analytics,"$90,000",Currency,2024-07-29
+345,138,Likelihood to Give,Blackbaud Target Analytics,37%,Percent,2026-01-29
+346,139,Likelihood to Give,WealthEngine,53%,Percent,2025-07-17
+347,139,Real Estate,WealthEngine,"$650,000",Currency,2024-11-14
+348,139,Estimated Capacity,WealthEngine,"$100,000",Currency,2025-02-06
+349,140,Estimated Capacity,WealthEngine,"$90,000",Currency,2024-08-17
+350,140,Real Estate,WealthEngine,"$1,350,000",Currency,2025-09-25
+351,140,Likelihood to Give,WealthEngine,89%,Percent,2025-09-18
+352,141,Likelihood to Give,iWave,86%,Percent,2026-04-15
+353,141,Real Estate,iWave,"$850,000",Currency,2025-02-06
+354,141,Estimated Capacity,iWave,"$830,000",Currency,2025-03-29
+355,142,Estimated Capacity,iWave,"$210,000",Currency,2025-01-31
+356,142,Likelihood to Give,iWave,60%,Percent,2026-02-02
+357,142,Real Estate,iWave,"$1,850,000",Currency,2024-09-10
+358,143,Likelihood to Give,WealthEngine,60%,Percent,2026-04-01
+359,143,Estimated Capacity,WealthEngine,"$520,000",Currency,2025-10-29
+360,143,Real Estate,WealthEngine,"$1,950,000",Currency,2024-07-29
+361,144,Likelihood to Give,Blackbaud Target Analytics,23%,Percent,2025-08-16
+362,144,Estimated Capacity,Blackbaud Target Analytics,"$170,000",Currency,2024-08-27
+363,145,Likelihood to Give,DonorSearch,34%,Percent,2025-05-16
+364,145,Real Estate,DonorSearch,"$500,000",Currency,2025-11-01
+365,145,Estimated Capacity,DonorSearch,"$110,000",Currency,2024-07-13
+366,146,Likelihood to Give,iWave,14%,Percent,2026-01-07
+367,146,Estimated Capacity,iWave,"$120,000",Currency,2025-08-03
+368,146,Real Estate,iWave,"$800,000",Currency,2024-08-14
+369,147,Real Estate,DonorSearch,"$3,050,000",Currency,2025-01-02
+370,147,Likelihood to Give,DonorSearch,19%,Percent,2024-09-06
+371,148,Estimated Capacity,Blackbaud Target Analytics,"$380,000",Currency,2024-12-28
+372,148,Likelihood to Give,Blackbaud Target Analytics,57%,Percent,2025-06-16
+373,148,Real Estate,Blackbaud Target Analytics,"$400,000",Currency,2024-08-25
+374,149,Likelihood to Give,DonorSearch,43%,Percent,2026-02-23
+375,149,Real Estate,DonorSearch,"$500,000",Currency,2025-07-03
+376,149,Estimated Capacity,DonorSearch,"$90,000",Currency,2026-01-20
+377,150,Real Estate,WealthEngine,"$2,700,000",Currency,2024-09-14
+378,150,Estimated Capacity,WealthEngine,"$440,000",Currency,2025-05-28
+379,150,Likelihood to Give,WealthEngine,64%,Percent,2024-11-25
+380,151,Estimated Capacity,DonorSearch,"$220,000",Currency,2024-11-22
+381,151,Likelihood to Give,DonorSearch,55%,Percent,2026-03-13
+382,151,Real Estate,DonorSearch,"$3,950,000",Currency,2025-01-29
+383,152,Likelihood to Give,iWave,61%,Percent,2025-02-28
+384,152,Real Estate,iWave,"$2,450,000",Currency,2024-05-27
+385,152,Estimated Capacity,iWave,"$220,000",Currency,2024-07-15
+386,153,Estimated Capacity,DonorSearch,"$490,000",Currency,2025-08-07
+387,153,Likelihood to Give,DonorSearch,95%,Percent,2024-06-19
+388,153,Real Estate,DonorSearch,"$3,500,000",Currency,2024-08-13
+389,154,Real Estate,Blackbaud Target Analytics,"$1,400,000",Currency,2025-04-29
+390,154,Estimated Capacity,Blackbaud Target Analytics,"$480,000",Currency,2024-06-20
+391,155,Real Estate,WealthEngine,"$2,300,000",Currency,2025-06-09
+392,155,Estimated Capacity,WealthEngine,"$250,000",Currency,2024-07-03
+393,156,Real Estate,iWave,"$1,550,000",Currency,2024-11-18
+394,156,Likelihood to Give,iWave,59%,Percent,2025-04-16
+395,157,Likelihood to Give,iWave,54%,Percent,2025-10-08
+396,157,Real Estate,iWave,"$800,000",Currency,2025-12-03
+397,158,Real Estate,Blackbaud Target Analytics,"$1,500,000",Currency,2024-06-14
+398,158,Estimated Capacity,Blackbaud Target Analytics,"$50,000",Currency,2024-07-29
+399,159,Estimated Capacity,WealthEngine,"$100,000",Currency,2024-07-22
+400,159,Real Estate,WealthEngine,"$2,950,000",Currency,2025-11-04
+401,160,Likelihood to Give,DonorSearch,73%,Percent,2024-08-05
+402,160,Estimated Capacity,DonorSearch,"$60,000",Currency,2025-01-18
+403,160,Real Estate,DonorSearch,"$1,400,000",Currency,2025-08-21
+404,161,Likelihood to Give,WealthEngine,58%,Percent,2025-01-05
+405,161,Real Estate,WealthEngine,"$2,100,000",Currency,2025-03-27
+406,162,Estimated Capacity,WealthEngine,"$90,000",Currency,2025-08-09
+407,162,Real Estate,WealthEngine,"$3,500,000",Currency,2024-12-16
+408,163,Likelihood to Give,DonorSearch,37%,Percent,2025-11-09
+409,163,Estimated Capacity,DonorSearch,"$560,000",Currency,2025-01-17
+410,164,Estimated Capacity,iWave,"$570,000",Currency,2025-04-30
+411,164,Real Estate,iWave,"$400,000",Currency,2025-02-22
+412,164,Likelihood to Give,iWave,63%,Percent,2024-11-24
+413,165,Estimated Capacity,iWave,"$150,000",Currency,2026-03-25
+414,165,Likelihood to Give,iWave,76%,Percent,2026-01-11
+415,165,Real Estate,iWave,"$700,000",Currency,2025-11-24
+416,166,Real Estate,Blackbaud Target Analytics,"$2,550,000",Currency,2025-01-18
+417,166,Estimated Capacity,Blackbaud Target Analytics,"$40,000",Currency,2026-01-31
+418,166,Likelihood to Give,Blackbaud Target Analytics,64%,Percent,2025-09-14
+419,167,Likelihood to Give,WealthEngine,62%,Percent,2025-06-18
+420,167,Estimated Capacity,WealthEngine,"$130,000",Currency,2026-03-05
+421,168,Estimated Capacity,WealthEngine,"$3,050,000",Currency,2024-08-19
+422,168,Likelihood to Give,WealthEngine,87%,Percent,2024-07-14
+423,169,Likelihood to Give,iWave,62%,Percent,2026-04-21
+424,169,Real Estate,iWave,"$2,350,000",Currency,2025-08-19
+425,170,Real Estate,iWave,"$3,800,000",Currency,2026-02-12
+426,170,Likelihood to Give,iWave,26%,Percent,2024-10-12
+427,171,Likelihood to Give,DonorSearch,56%,Percent,2025-04-05
+428,171,Estimated Capacity,DonorSearch,"$160,000",Currency,2026-04-06
+429,171,Real Estate,DonorSearch,"$1,500,000",Currency,2026-02-12
+430,172,Estimated Capacity,DonorSearch,"$70,000",Currency,2024-10-10
+431,172,Real Estate,DonorSearch,"$850,000",Currency,2024-07-03
+432,172,Likelihood to Give,DonorSearch,70%,Percent,2025-01-02
+433,173,Estimated Capacity,iWave,"$320,000",Currency,2026-03-16
+434,173,Likelihood to Give,iWave,67%,Percent,2026-03-09
+435,174,Likelihood to Give,DonorSearch,11%,Percent,2025-08-06
+436,174,Real Estate,DonorSearch,"$950,000",Currency,2024-06-29
+437,174,Estimated Capacity,DonorSearch,"$1,090,000",Currency,2025-04-22
+438,175,Likelihood to Give,DonorSearch,93%,Percent,2025-01-30
+439,175,Estimated Capacity,DonorSearch,"$100,000",Currency,2025-03-09
+440,175,Real Estate,DonorSearch,"$1,500,000",Currency,2025-03-23
+441,176,Real Estate,iWave,"$1,200,000",Currency,2024-11-07
+442,176,Likelihood to Give,iWave,33%,Percent,2026-01-28
+443,176,Estimated Capacity,iWave,"$230,000",Currency,2025-02-12
+444,177,Likelihood to Give,iWave,86%,Percent,2025-05-22
+445,177,Estimated Capacity,iWave,"$320,000",Currency,2025-06-24
+446,177,Real Estate,iWave,"$2,950,000",Currency,2024-08-13
+447,178,Likelihood to Give,iWave,67%,Percent,2025-04-26
+448,178,Real Estate,iWave,"$2,650,000",Currency,2025-07-15
+449,178,Estimated Capacity,iWave,"$230,000",Currency,2026-02-23
+450,179,Real Estate,WealthEngine,"$3,400,000",Currency,2025-11-27
+451,179,Estimated Capacity,WealthEngine,"$250,000",Currency,2024-05-28
+452,179,Likelihood to Give,WealthEngine,48%,Percent,2026-03-18
+453,180,Real Estate,DonorSearch,"$1,650,000",Currency,2025-04-17
+454,180,Likelihood to Give,DonorSearch,66%,Percent,2024-09-19
+455,181,Likelihood to Give,iWave,28%,Percent,2026-02-03
+456,181,Real Estate,iWave,"$2,200,000",Currency,2025-12-03
+457,181,Estimated Capacity,iWave,"$70,000",Currency,2025-03-11
+458,182,Estimated Capacity,Blackbaud Target Analytics,"$190,000",Currency,2025-10-14
+459,182,Real Estate,Blackbaud Target Analytics,"$3,650,000",Currency,2025-03-22
+460,183,Likelihood to Give,DonorSearch,19%,Percent,2024-08-04
+461,183,Real Estate,DonorSearch,"$950,000",Currency,2024-12-06
+462,183,Estimated Capacity,DonorSearch,"$540,000",Currency,2025-12-05
+463,184,Real Estate,WealthEngine,"$3,300,000",Currency,2026-01-23
+464,184,Likelihood to Give,WealthEngine,62%,Percent,2025-05-30
+465,185,Likelihood to Give,DonorSearch,26%,Percent,2025-04-17
+466,185,Estimated Capacity,DonorSearch,"$110,000",Currency,2025-09-05
+467,185,Real Estate,DonorSearch,"$3,200,000",Currency,2025-09-29
+468,186,Estimated Capacity,iWave,"$1,040,000",Currency,2024-12-30
+469,186,Likelihood to Give,iWave,48%,Percent,2024-10-05
+470,186,Real Estate,iWave,"$3,550,000",Currency,2024-08-04
+471,187,Likelihood to Give,DonorSearch,44%,Percent,2025-02-27
+472,187,Real Estate,DonorSearch,"$3,900,000",Currency,2025-12-15
+473,187,Estimated Capacity,DonorSearch,"$100,000",Currency,2024-07-04
+474,188,Estimated Capacity,WealthEngine,"$800,000",Currency,2025-02-03
+475,188,Real Estate,WealthEngine,"$3,350,000",Currency,2026-02-25
+476,188,Likelihood to Give,WealthEngine,29%,Percent,2024-11-08
+477,189,Estimated Capacity,Blackbaud Target Analytics,"$340,000",Currency,2025-09-04
+478,189,Likelihood to Give,Blackbaud Target Analytics,73%,Percent,2024-11-07
+479,190,Estimated Capacity,DonorSearch,"$60,000",Currency,2024-07-21
+480,190,Likelihood to Give,DonorSearch,25%,Percent,2024-10-23
+481,190,Real Estate,DonorSearch,"$2,650,000",Currency,2024-11-24
+482,191,Real Estate,iWave,"$350,000",Currency,2024-09-22
+483,191,Likelihood to Give,iWave,45%,Percent,2026-03-24
+484,192,Real Estate,DonorSearch,"$2,650,000",Currency,2024-07-29
+485,192,Estimated Capacity,DonorSearch,"$110,000",Currency,2024-11-29
+486,192,Likelihood to Give,DonorSearch,38%,Percent,2024-10-11
+487,193,Estimated Capacity,Blackbaud Target Analytics,"$230,000",Currency,2025-01-13
+488,193,Likelihood to Give,Blackbaud Target Analytics,15%,Percent,2026-02-20
+489,193,Real Estate,Blackbaud Target Analytics,"$1,800,000",Currency,2025-01-27
+490,194,Likelihood to Give,WealthEngine,60%,Percent,2025-06-06
+491,194,Estimated Capacity,WealthEngine,"$120,000",Currency,2025-05-04
+492,195,Real Estate,iWave,"$1,950,000",Currency,2025-08-18
+493,195,Estimated Capacity,iWave,"$80,000",Currency,2025-07-23
+494,195,Likelihood to Give,iWave,61%,Percent,2025-11-29
+495,196,Likelihood to Give,DonorSearch,60%,Percent,2025-11-10
+496,196,Real Estate,DonorSearch,"$2,950,000",Currency,2024-09-08
+497,196,Estimated Capacity,DonorSearch,"$250,000",Currency,2025-10-10
+498,197,Likelihood to Give,WealthEngine,45%,Percent,2026-03-30
+499,197,Real Estate,WealthEngine,"$2,100,000",Currency,2025-03-16
+500,197,Estimated Capacity,WealthEngine,"$60,000",Currency,2025-08-19
+501,198,Estimated Capacity,Blackbaud Target Analytics,"$90,000",Currency,2024-12-02
+502,198,Likelihood to Give,Blackbaud Target Analytics,70%,Percent,2024-06-22
+503,199,Estimated Capacity,Blackbaud Target Analytics,"$270,000",Currency,2025-12-06
+504,199,Likelihood to Give,Blackbaud Target Analytics,80%,Percent,2025-04-13
+505,200,Likelihood to Give,Blackbaud Target Analytics,82%,Percent,2024-09-16
+506,200,Estimated Capacity,Blackbaud Target Analytics,"$350,000",Currency,2025-10-05
+507,201,Likelihood to Give,Blackbaud Target Analytics,57%,Percent,2024-10-06
+508,201,Real Estate,Blackbaud Target Analytics,"$2,800,000",Currency,2024-07-23
+509,202,Estimated Capacity,DonorSearch,"$250,000",Currency,2025-04-05
+510,202,Likelihood to Give,DonorSearch,82%,Percent,2025-05-10
+511,203,Estimated Capacity,Blackbaud Target Analytics,"$90,000",Currency,2024-11-26
+512,203,Likelihood to Give,Blackbaud Target Analytics,48%,Percent,2026-03-14
+513,204,Real Estate,Blackbaud Target Analytics,"$3,600,000",Currency,2024-08-10
+514,204,Likelihood to Give,Blackbaud Target Analytics,60%,Percent,2025-11-30
+515,204,Estimated Capacity,Blackbaud Target Analytics,"$330,000",Currency,2024-08-03
+516,205,Real Estate,WealthEngine,"$1,350,000",Currency,2024-09-23
+517,205,Likelihood to Give,WealthEngine,21%,Percent,2026-04-05
+518,205,Estimated Capacity,WealthEngine,"$470,000",Currency,2025-05-18
+519,206,Real Estate,WealthEngine,"$3,850,000",Currency,2025-07-25
+520,206,Estimated Capacity,WealthEngine,"$90,000",Currency,2024-09-07
+521,206,Likelihood to Give,WealthEngine,85%,Percent,2026-03-01
+522,207,Estimated Capacity,iWave,"$120,000",Currency,2024-09-13
+523,207,Real Estate,iWave,"$900,000",Currency,2025-12-31
+524,207,Likelihood to Give,iWave,60%,Percent,2025-01-26
+525,208,Likelihood to Give,WealthEngine,26%,Percent,2025-02-26
+526,208,Estimated Capacity,WealthEngine,"$1,140,000",Currency,2024-08-04
+527,209,Real Estate,DonorSearch,"$1,450,000",Currency,2024-09-25
+528,209,Estimated Capacity,DonorSearch,"$390,000",Currency,2024-06-13
+529,210,Estimated Capacity,WealthEngine,"$70,000",Currency,2024-10-10
+530,210,Likelihood to Give,WealthEngine,30%,Percent,2024-05-25
+531,210,Real Estate,WealthEngine,"$2,500,000",Currency,2025-07-26
+532,211,Likelihood to Give,iWave,74%,Percent,2025-09-04
+533,211,Real Estate,iWave,"$2,900,000",Currency,2025-07-01
+534,212,Likelihood to Give,WealthEngine,62%,Percent,2025-07-02
+535,212,Real Estate,WealthEngine,"$2,750,000",Currency,2024-09-12
+536,212,Estimated Capacity,WealthEngine,"$110,000",Currency,2025-03-30
+537,213,Estimated Capacity,WealthEngine,"$580,000",Currency,2025-07-02
+538,213,Likelihood to Give,WealthEngine,77%,Percent,2026-02-01
+539,213,Real Estate,WealthEngine,"$2,700,000",Currency,2025-01-25
+540,214,Estimated Capacity,WealthEngine,"$230,000",Currency,2024-09-24
+541,214,Likelihood to Give,WealthEngine,46%,Percent,2025-12-03
+542,215,Estimated Capacity,iWave,"$60,000",Currency,2024-07-08
+543,215,Real Estate,iWave,"$1,750,000",Currency,2026-01-10
+544,216,Real Estate,WealthEngine,"$3,850,000",Currency,2026-04-17
+545,216,Estimated Capacity,WealthEngine,"$70,000",Currency,2025-11-12
+546,217,Real Estate,WealthEngine,"$1,300,000",Currency,2025-05-29
+547,217,Estimated Capacity,WealthEngine,"$560,000",Currency,2026-02-21
+548,217,Likelihood to Give,WealthEngine,54%,Percent,2026-01-21
+549,218,Likelihood to Give,DonorSearch,45%,Percent,2026-03-16
+550,218,Estimated Capacity,DonorSearch,"$550,000",Currency,2024-12-01
+551,219,Estimated Capacity,Blackbaud Target Analytics,"$210,000",Currency,2024-09-18
+552,219,Likelihood to Give,Blackbaud Target Analytics,74%,Percent,2025-05-14
+553,220,Estimated Capacity,WealthEngine,"$100,000",Currency,2025-10-07
+554,220,Likelihood to Give,WealthEngine,15%,Percent,2025-05-19
+555,220,Real Estate,WealthEngine,"$2,650,000",Currency,2025-01-08
+556,221,Real Estate,iWave,"$2,350,000",Currency,2025-06-24
+557,221,Likelihood to Give,iWave,31%,Percent,2025-10-07
+558,222,Real Estate,WealthEngine,"$2,750,000",Currency,2025-03-08
+559,222,Likelihood to Give,WealthEngine,69%,Percent,2025-10-15
+560,222,Estimated Capacity,WealthEngine,"$660,000",Currency,2024-12-20
+561,223,Likelihood to Give,iWave,83%,Percent,2025-08-24
+562,223,Real Estate,iWave,"$3,850,000",Currency,2025-07-23
+563,224,Likelihood to Give,Blackbaud Target Analytics,11%,Percent,2025-08-24
+564,224,Real Estate,Blackbaud Target Analytics,"$650,000",Currency,2024-06-08
+565,225,Likelihood to Give,Blackbaud Target Analytics,85%,Percent,2025-12-23
+566,225,Real Estate,Blackbaud Target Analytics,"$1,600,000",Currency,2025-06-24
+567,226,Estimated Capacity,iWave,"$380,000",Currency,2025-11-17
+568,226,Likelihood to Give,iWave,63%,Percent,2024-08-10
+569,227,Real Estate,WealthEngine,"$3,050,000",Currency,2024-05-26
+570,227,Estimated Capacity,WealthEngine,"$200,000",Currency,2026-01-29
+571,227,Likelihood to Give,WealthEngine,87%,Percent,2024-10-29
+572,228,Real Estate,Blackbaud Target Analytics,"$3,350,000",Currency,2026-02-18
+573,228,Estimated Capacity,Blackbaud Target Analytics,"$60,000",Currency,2024-11-21
+574,229,Likelihood to Give,iWave,31%,Percent,2025-12-24
+575,229,Real Estate,iWave,"$2,900,000",Currency,2025-09-24
+576,230,Real Estate,WealthEngine,"$1,900,000",Currency,2026-02-25
+577,230,Likelihood to Give,WealthEngine,78%,Percent,2024-11-13
+578,231,Real Estate,WealthEngine,"$3,250,000",Currency,2024-06-03
+579,231,Likelihood to Give,WealthEngine,80%,Percent,2026-03-31
+580,232,Real Estate,Blackbaud Target Analytics,"$500,000",Currency,2024-09-07
+581,232,Estimated Capacity,Blackbaud Target Analytics,"$70,000",Currency,2025-02-13
+582,233,Estimated Capacity,DonorSearch,"$310,000",Currency,2026-03-21
+583,233,Likelihood to Give,DonorSearch,34%,Percent,2025-10-20
+584,234,Likelihood to Give,iWave,44%,Percent,2025-04-01
+585,234,Real Estate,iWave,"$2,800,000",Currency,2026-01-30
+586,234,Estimated Capacity,iWave,"$270,000",Currency,2024-06-14
+587,235,Estimated Capacity,iWave,"$110,000",Currency,2024-10-28
+588,235,Real Estate,iWave,"$3,350,000",Currency,2025-09-06
+589,235,Likelihood to Give,iWave,19%,Percent,2026-03-30
+590,236,Real Estate,WealthEngine,"$1,950,000",Currency,2025-08-12
+591,236,Likelihood to Give,WealthEngine,18%,Percent,2025-11-15
+592,236,Estimated Capacity,WealthEngine,"$110,000",Currency,2025-10-11
+593,237,Real Estate,DonorSearch,"$3,100,000",Currency,2024-08-01
+594,237,Likelihood to Give,DonorSearch,17%,Percent,2026-04-06
+595,238,Estimated Capacity,iWave,"$440,000",Currency,2025-01-20
+596,238,Real Estate,iWave,"$1,150,000",Currency,2026-03-04
+597,239,Likelihood to Give,DonorSearch,9%,Percent,2026-02-24
+598,239,Estimated Capacity,DonorSearch,"$120,000",Currency,2024-11-23
+599,239,Real Estate,DonorSearch,"$3,300,000",Currency,2025-08-26
+600,240,Estimated Capacity,Blackbaud Target Analytics,"$190,000",Currency,2024-06-15
+601,240,Likelihood to Give,Blackbaud Target Analytics,39%,Percent,2025-02-23
+602,240,Real Estate,Blackbaud Target Analytics,"$450,000",Currency,2025-07-15
+603,241,Real Estate,iWave,"$3,800,000",Currency,2025-05-05
+604,241,Likelihood to Give,iWave,64%,Percent,2024-06-04
+605,241,Estimated Capacity,iWave,"$330,000",Currency,2024-11-01
+606,242,Estimated Capacity,WealthEngine,"$500,000",Currency,2025-10-16
+607,242,Likelihood to Give,WealthEngine,17%,Percent,2024-12-24
+608,242,Real Estate,WealthEngine,"$1,350,000",Currency,2025-09-04
+609,243,Estimated Capacity,iWave,"$80,000",Currency,2024-09-29
+610,243,Likelihood to Give,iWave,72%,Percent,2025-03-21
+611,243,Real Estate,iWave,"$950,000",Currency,2025-08-04
+612,244,Likelihood to Give,DonorSearch,72%,Percent,2026-03-01
+613,244,Estimated Capacity,DonorSearch,"$230,000",Currency,2025-04-01
+614,244,Real Estate,DonorSearch,"$350,000",Currency,2024-08-13
+615,245,Real Estate,DonorSearch,"$1,000,000",Currency,2024-12-18
+616,245,Estimated Capacity,DonorSearch,"$640,000",Currency,2025-05-17
+617,246,Estimated Capacity,DonorSearch,"$570,000",Currency,2024-12-18
+618,246,Real Estate,DonorSearch,"$2,850,000",Currency,2024-08-12
+619,247,Real Estate,WealthEngine,"$1,650,000",Currency,2025-07-07
+620,247,Likelihood to Give,WealthEngine,62%,Percent,2024-10-23
+621,248,Likelihood to Give,Blackbaud Target Analytics,35%,Percent,2026-01-12
+622,248,Real Estate,Blackbaud Target Analytics,"$3,100,000",Currency,2024-12-28
+623,248,Estimated Capacity,Blackbaud Target Analytics,"$110,000",Currency,2025-05-30
+624,249,Likelihood to Give,Blackbaud Target Analytics,41%,Percent,2025-11-24
+625,249,Estimated Capacity,Blackbaud Target Analytics,"$80,000",Currency,2025-07-29
+626,249,Real Estate,Blackbaud Target Analytics,"$2,400,000",Currency,2024-09-01
+627,250,Estimated Capacity,WealthEngine,"$70,000",Currency,2025-08-30
+628,250,Real Estate,WealthEngine,"$2,100,000",Currency,2025-08-14
+629,250,Likelihood to Give,WealthEngine,61%,Percent,2024-06-21
+630,251,Real Estate,Blackbaud Target Analytics,"$3,000,000",Currency,2025-11-01
+631,251,Likelihood to Give,Blackbaud Target Analytics,50%,Percent,2025-04-27
+632,251,Estimated Capacity,Blackbaud Target Analytics,"$490,000",Currency,2025-11-30
+633,252,Real Estate,WealthEngine,"$350,000",Currency,2024-11-02
+634,252,Estimated Capacity,WealthEngine,"$120,000",Currency,2026-02-05
+635,253,Likelihood to Give,DonorSearch,34%,Percent,2024-07-16
+636,253,Estimated Capacity,DonorSearch,"$970,000",Currency,2026-02-12
+637,254,Real Estate,DonorSearch,"$450,000",Currency,2025-04-05
+638,254,Likelihood to Give,DonorSearch,86%,Percent,2024-07-08
+639,255,Estimated Capacity,WealthEngine,"$80,000",Currency,2026-04-10
+640,255,Real Estate,WealthEngine,"$2,250,000",Currency,2025-07-15
+641,255,Likelihood to Give,WealthEngine,21%,Percent,2025-07-03
+642,256,Estimated Capacity,WealthEngine,"$50,000",Currency,2024-11-02
+643,256,Real Estate,WealthEngine,"$2,550,000",Currency,2025-10-08
+644,257,Likelihood to Give,Blackbaud Target Analytics,65%,Percent,2025-04-05
+645,257,Real Estate,Blackbaud Target Analytics,"$2,350,000",Currency,2025-01-07
+646,257,Estimated Capacity,Blackbaud Target Analytics,"$150,000",Currency,2025-09-03
+647,258,Estimated Capacity,DonorSearch,"$350,000",Currency,2025-03-30
+648,258,Likelihood to Give,DonorSearch,58%,Percent,2024-12-21
+649,259,Estimated Capacity,DonorSearch,"$90,000",Currency,2025-02-02
+650,259,Likelihood to Give,DonorSearch,26%,Percent,2025-05-18
+651,260,Estimated Capacity,DonorSearch,"$40,000",Currency,2025-07-19
+652,260,Likelihood to Give,DonorSearch,57%,Percent,2026-02-05
+653,261,Likelihood to Give,DonorSearch,29%,Percent,2025-09-22
+654,261,Estimated Capacity,DonorSearch,"$570,000",Currency,2025-03-11
+655,262,Real Estate,Blackbaud Target Analytics,"$3,350,000",Currency,2024-09-19
+656,262,Estimated Capacity,Blackbaud Target Analytics,"$90,000",Currency,2025-03-20
+657,263,Real Estate,Blackbaud Target Analytics,"$3,050,000",Currency,2024-11-26
+658,263,Estimated Capacity,Blackbaud Target Analytics,"$90,000",Currency,2025-05-03
+659,263,Likelihood to Give,Blackbaud Target Analytics,12%,Percent,2025-01-30
+660,264,Real Estate,DonorSearch,"$2,600,000",Currency,2026-03-23
+661,264,Likelihood to Give,DonorSearch,71%,Percent,2025-01-16
+662,264,Estimated Capacity,DonorSearch,"$340,000",Currency,2025-09-01
+663,265,Estimated Capacity,WealthEngine,"$60,000",Currency,2024-07-28
+664,265,Likelihood to Give,WealthEngine,27%,Percent,2025-08-13
+665,265,Real Estate,WealthEngine,"$500,000",Currency,2026-02-06
+666,266,Real Estate,iWave,"$1,550,000",Currency,2025-06-02
+667,266,Estimated Capacity,iWave,"$40,000",Currency,2026-01-19
+668,266,Likelihood to Give,iWave,48%,Percent,2025-06-11
+669,267,Estimated Capacity,Blackbaud Target Analytics,"$370,000",Currency,2025-10-13
+670,267,Real Estate,Blackbaud Target Analytics,"$2,300,000",Currency,2024-09-29
+671,267,Likelihood to Give,Blackbaud Target Analytics,13%,Percent,2025-03-01
+672,268,Likelihood to Give,DonorSearch,60%,Percent,2024-08-19
+673,268,Estimated Capacity,DonorSearch,"$80,000",Currency,2025-03-24
+674,269,Estimated Capacity,WealthEngine,"$120,000",Currency,2025-03-29
+675,269,Real Estate,WealthEngine,"$1,350,000",Currency,2025-07-21
+676,269,Likelihood to Give,WealthEngine,69%,Percent,2024-12-04
+677,270,Likelihood to Give,DonorSearch,39%,Percent,2025-02-15
+678,270,Real Estate,DonorSearch,"$3,150,000",Currency,2024-12-13
+679,271,Estimated Capacity,Blackbaud Target Analytics,"$240,000",Currency,2025-01-09
+680,271,Likelihood to Give,Blackbaud Target Analytics,40%,Percent,2025-06-15
+681,271,Real Estate,Blackbaud Target Analytics,"$1,450,000",Currency,2025-03-13
+682,272,Likelihood to Give,WealthEngine,84%,Percent,2024-06-25
+683,272,Real Estate,WealthEngine,"$1,350,000",Currency,2025-12-04
+684,272,Estimated Capacity,WealthEngine,"$290,000",Currency,2024-08-13
+685,273,Likelihood to Give,iWave,73%,Percent,2025-05-31
+686,273,Estimated Capacity,iWave,"$80,000",Currency,2024-07-13
+687,273,Real Estate,iWave,"$3,150,000",Currency,2024-09-10
+688,274,Likelihood to Give,Blackbaud Target Analytics,32%,Percent,2025-12-27
+689,274,Real Estate,Blackbaud Target Analytics,"$4,000,000",Currency,2024-08-24
+690,274,Estimated Capacity,Blackbaud Target Analytics,"$90,000",Currency,2025-10-20
+691,275,Real Estate,DonorSearch,"$3,350,000",Currency,2025-06-28
+692,275,Estimated Capacity,DonorSearch,"$530,000",Currency,2026-02-11
+693,275,Likelihood to Give,DonorSearch,51%,Percent,2025-02-28
+694,276,Estimated Capacity,iWave,"$100,000",Currency,2025-02-13
+695,276,Likelihood to Give,iWave,83%,Percent,2026-02-06
+696,276,Real Estate,iWave,"$2,000,000",Currency,2024-08-18
+697,277,Real Estate,WealthEngine,"$2,450,000",Currency,2024-10-20
+698,277,Estimated Capacity,WealthEngine,"$490,000",Currency,2026-01-25
+699,277,Likelihood to Give,WealthEngine,42%,Percent,2025-08-11
+700,278,Real Estate,iWave,"$3,850,000",Currency,2025-05-18
+701,278,Likelihood to Give,iWave,68%,Percent,2025-02-06
+702,279,Likelihood to Give,DonorSearch,33%,Percent,2024-11-16
+703,279,Estimated Capacity,DonorSearch,"$80,000",Currency,2024-11-07
+704,280,Likelihood to Give,iWave,87%,Percent,2024-05-27
+705,280,Real Estate,iWave,"$1,500,000",Currency,2025-11-19
+706,280,Estimated Capacity,iWave,"$80,000",Currency,2026-03-28
+707,281,Estimated Capacity,Blackbaud Target Analytics,"$60,000",Currency,2025-05-01
+708,281,Real Estate,Blackbaud Target Analytics,"$3,200,000",Currency,2025-01-11
+709,281,Likelihood to Give,Blackbaud Target Analytics,70%,Percent,2024-11-05
+710,282,Estimated Capacity,Blackbaud Target Analytics,"$50,000",Currency,2025-05-31
+711,282,Likelihood to Give,Blackbaud Target Analytics,47%,Percent,2026-03-08
+712,282,Real Estate,Blackbaud Target Analytics,"$3,450,000",Currency,2026-03-30
+713,283,Real Estate,DonorSearch,"$850,000",Currency,2024-11-10
+714,283,Estimated Capacity,DonorSearch,"$150,000",Currency,2025-11-10
+715,284,Estimated Capacity,WealthEngine,"$460,000",Currency,2025-10-14
+716,284,Likelihood to Give,WealthEngine,45%,Percent,2025-02-04
+717,284,Real Estate,WealthEngine,"$3,000,000",Currency,2026-03-24
+718,285,Real Estate,iWave,"$2,900,000",Currency,2026-04-18
+719,285,Likelihood to Give,iWave,18%,Percent,2025-09-24
+720,285,Estimated Capacity,iWave,"$3,220,000",Currency,2026-02-17
+721,286,Likelihood to Give,iWave,56%,Percent,2025-12-27
+722,286,Estimated Capacity,iWave,"$110,000",Currency,2024-06-05
+723,286,Real Estate,iWave,"$3,850,000",Currency,2024-10-29
+724,287,Real Estate,Blackbaud Target Analytics,"$1,550,000",Currency,2025-05-01
+725,287,Likelihood to Give,Blackbaud Target Analytics,66%,Percent,2025-01-09
+726,287,Estimated Capacity,Blackbaud Target Analytics,"$240,000",Currency,2024-06-02
+727,288,Real Estate,Blackbaud Target Analytics,"$650,000",Currency,2025-06-06
+728,288,Estimated Capacity,Blackbaud Target Analytics,"$50,000",Currency,2025-06-14
+729,289,Real Estate,Blackbaud Target Analytics,"$2,450,000",Currency,2025-02-18
+730,289,Likelihood to Give,Blackbaud Target Analytics,64%,Percent,2024-09-11
+731,290,Likelihood to Give,WealthEngine,65%,Percent,2024-10-01
+732,290,Estimated Capacity,WealthEngine,"$140,000",Currency,2024-12-07
+733,291,Likelihood to Give,iWave,80%,Percent,2026-04-13
+734,291,Estimated Capacity,iWave,"$120,000",Currency,2025-12-04
+735,291,Real Estate,iWave,"$3,850,000",Currency,2025-03-25
+736,292,Real Estate,WealthEngine,"$2,050,000",Currency,2025-01-23
+737,292,Likelihood to Give,WealthEngine,56%,Percent,2026-01-28
+738,292,Estimated Capacity,WealthEngine,"$60,000",Currency,2025-09-09
+739,293,Real Estate,Blackbaud Target Analytics,"$3,150,000",Currency,2025-11-01
+740,293,Likelihood to Give,Blackbaud Target Analytics,51%,Percent,2024-09-20
+741,294,Likelihood to Give,DonorSearch,36%,Percent,2024-10-14
+742,294,Real Estate,DonorSearch,"$3,100,000",Currency,2026-03-11
+743,295,Likelihood to Give,WealthEngine,35%,Percent,2024-06-22
+744,295,Estimated Capacity,WealthEngine,"$270,000",Currency,2025-06-22
+745,296,Likelihood to Give,DonorSearch,47%,Percent,2025-01-28
+746,296,Real Estate,DonorSearch,"$1,000,000",Currency,2025-08-23
+747,296,Estimated Capacity,DonorSearch,"$230,000",Currency,2024-08-28
+748,297,Real Estate,WealthEngine,"$3,300,000",Currency,2025-09-23
+749,297,Estimated Capacity,WealthEngine,"$210,000",Currency,2026-02-21
+750,298,Likelihood to Give,Blackbaud Target Analytics,37%,Percent,2025-06-30
+751,298,Real Estate,Blackbaud Target Analytics,"$3,950,000",Currency,2024-11-12
+752,299,Likelihood to Give,DonorSearch,28%,Percent,2025-07-13
+753,299,Estimated Capacity,DonorSearch,"$60,000",Currency,2025-12-08
+754,300,Real Estate,Blackbaud Target Analytics,"$750,000",Currency,2024-12-07
+755,300,Likelihood to Give,Blackbaud Target Analytics,57%,Percent,2024-07-14
+756,301,Likelihood to Give,WealthEngine,72%,Percent,2025-03-06
+757,301,Estimated Capacity,WealthEngine,"$480,000",Currency,2025-07-12
+758,301,Real Estate,WealthEngine,"$1,950,000",Currency,2025-04-10
+759,302,Real Estate,WealthEngine,"$2,600,000",Currency,2025-01-08
+760,302,Estimated Capacity,WealthEngine,"$540,000",Currency,2025-04-21
+761,302,Likelihood to Give,WealthEngine,45%,Percent,2024-10-22
+762,303,Estimated Capacity,iWave,"$260,000",Currency,2025-05-27
+763,303,Likelihood to Give,iWave,27%,Percent,2025-05-12
+764,303,Real Estate,iWave,"$700,000",Currency,2024-09-08
+765,304,Real Estate,WealthEngine,"$2,600,000",Currency,2026-01-11
+766,304,Estimated Capacity,WealthEngine,"$410,000",Currency,2025-01-07
+767,304,Likelihood to Give,WealthEngine,68%,Percent,2025-11-12
+768,305,Likelihood to Give,WealthEngine,39%,Percent,2025-12-08
+769,305,Estimated Capacity,WealthEngine,"$270,000",Currency,2025-11-11
+770,306,Real Estate,Blackbaud Target Analytics,"$500,000",Currency,2025-08-09
+771,306,Likelihood to Give,Blackbaud Target Analytics,50%,Percent,2024-06-11
+772,307,Real Estate,DonorSearch,"$2,700,000",Currency,2025-02-07
+773,307,Likelihood to Give,DonorSearch,40%,Percent,2026-01-15
+774,307,Estimated Capacity,DonorSearch,"$80,000",Currency,2025-09-16
+775,308,Real Estate,iWave,"$250,000",Currency,2026-04-13
+776,308,Likelihood to Give,iWave,47%,Percent,2025-05-06
+777,309,Likelihood to Give,WealthEngine,79%,Percent,2025-08-31
+778,309,Estimated Capacity,WealthEngine,"$100,000",Currency,2026-01-21
+779,310,Likelihood to Give,DonorSearch,48%,Percent,2025-06-20
+780,310,Real Estate,DonorSearch,"$3,150,000",Currency,2025-03-27
+781,311,Estimated Capacity,iWave,"$220,000",Currency,2024-08-06
+782,311,Real Estate,iWave,"$1,550,000",Currency,2025-01-27
+783,312,Likelihood to Give,iWave,67%,Percent,2025-09-12
+784,312,Real Estate,iWave,"$750,000",Currency,2026-01-10
+785,313,Likelihood to Give,DonorSearch,55%,Percent,2025-11-30
+786,313,Real Estate,DonorSearch,"$2,650,000",Currency,2025-07-13
+787,313,Estimated Capacity,DonorSearch,"$200,000",Currency,2025-08-11
+788,314,Real Estate,Blackbaud Target Analytics,"$2,150,000",Currency,2025-09-24
+789,314,Likelihood to Give,Blackbaud Target Analytics,11%,Percent,2024-11-17
+790,315,Real Estate,WealthEngine,"$1,650,000",Currency,2024-12-02
+791,315,Estimated Capacity,WealthEngine,"$190,000",Currency,2025-08-19
+792,315,Likelihood to Give,WealthEngine,12%,Percent,2024-08-22
+793,316,Likelihood to Give,DonorSearch,46%,Percent,2024-09-17
+794,316,Estimated Capacity,DonorSearch,"$200,000",Currency,2025-04-13
+795,316,Real Estate,DonorSearch,"$3,100,000",Currency,2025-10-28
+796,317,Real Estate,DonorSearch,"$1,200,000",Currency,2026-04-08
+797,317,Estimated Capacity,DonorSearch,"$570,000",Currency,2026-03-13
+798,318,Real Estate,WealthEngine,"$500,000",Currency,2025-03-07
+799,318,Likelihood to Give,WealthEngine,27%,Percent,2024-10-20
+800,318,Estimated Capacity,WealthEngine,"$260,000",Currency,2024-07-31
+801,319,Estimated Capacity,DonorSearch,"$70,000",Currency,2024-10-20
+802,319,Real Estate,DonorSearch,"$2,600,000",Currency,2024-08-30
+803,319,Likelihood to Give,DonorSearch,24%,Percent,2024-06-26
+804,320,Real Estate,Blackbaud Target Analytics,"$550,000",Currency,2025-08-15
+805,320,Estimated Capacity,Blackbaud Target Analytics,"$110,000",Currency,2025-02-02
+806,320,Likelihood to Give,Blackbaud Target Analytics,43%,Percent,2024-08-04
+807,321,Estimated Capacity,Blackbaud Target Analytics,"$960,000",Currency,2025-12-03
+808,321,Real Estate,Blackbaud Target Analytics,"$2,100,000",Currency,2025-11-06
+809,322,Estimated Capacity,Blackbaud Target Analytics,"$240,000",Currency,2025-07-21
+810,322,Likelihood to Give,Blackbaud Target Analytics,56%,Percent,2025-12-23
+811,322,Real Estate,Blackbaud Target Analytics,"$3,250,000",Currency,2025-05-14
+812,323,Likelihood to Give,Blackbaud Target Analytics,49%,Percent,2024-11-30
+813,323,Estimated Capacity,Blackbaud Target Analytics,"$70,000",Currency,2024-11-15
+814,324,Likelihood to Give,WealthEngine,89%,Percent,2025-08-04
+815,324,Estimated Capacity,WealthEngine,"$110,000",Currency,2026-01-07
+816,325,Real Estate,DonorSearch,"$3,450,000",Currency,2026-03-08
+817,325,Estimated Capacity,DonorSearch,"$60,000",Currency,2026-04-10
+818,326,Likelihood to Give,WealthEngine,75%,Percent,2026-03-17
+819,326,Estimated Capacity,WealthEngine,"$2,560,000",Currency,2024-06-20
+820,326,Real Estate,WealthEngine,"$1,150,000",Currency,2025-05-28
+821,327,Estimated Capacity,Blackbaud Target Analytics,"$230,000",Currency,2024-11-24
+822,327,Likelihood to Give,Blackbaud Target Analytics,51%,Percent,2026-02-28
+823,327,Real Estate,Blackbaud Target Analytics,"$3,250,000",Currency,2025-09-06
+824,328,Estimated Capacity,DonorSearch,"$150,000",Currency,2025-06-08
+825,328,Likelihood to Give,DonorSearch,69%,Percent,2024-10-03
+826,328,Real Estate,DonorSearch,"$1,600,000",Currency,2026-04-14
+827,329,Real Estate,Blackbaud Target Analytics,"$2,450,000",Currency,2025-04-10
+828,329,Estimated Capacity,Blackbaud Target Analytics,"$120,000",Currency,2024-12-03
+829,329,Likelihood to Give,Blackbaud Target Analytics,54%,Percent,2025-10-04
+830,330,Estimated Capacity,iWave,"$590,000",Currency,2026-03-29
+831,330,Likelihood to Give,iWave,55%,Percent,2025-05-03
+832,331,Real Estate,Blackbaud Target Analytics,"$600,000",Currency,2025-06-12
+833,331,Likelihood to Give,Blackbaud Target Analytics,55%,Percent,2024-10-27
+834,332,Estimated Capacity,WealthEngine,"$440,000",Currency,2026-01-17
+835,332,Real Estate,WealthEngine,"$3,600,000",Currency,2025-08-28
+836,332,Likelihood to Give,WealthEngine,46%,Percent,2024-11-06
+837,333,Real Estate,Blackbaud Target Analytics,"$700,000",Currency,2024-11-21
+838,333,Estimated Capacity,Blackbaud Target Analytics,"$100,000",Currency,2025-03-15
+839,333,Likelihood to Give,Blackbaud Target Analytics,11%,Percent,2024-09-18
+840,334,Estimated Capacity,WealthEngine,"$540,000",Currency,2025-07-29
+841,334,Likelihood to Give,WealthEngine,75%,Percent,2025-03-16
+842,335,Likelihood to Give,Blackbaud Target Analytics,48%,Percent,2025-09-27
+843,335,Estimated Capacity,Blackbaud Target Analytics,"$490,000",Currency,2024-09-01
+844,335,Real Estate,Blackbaud Target Analytics,"$800,000",Currency,2026-01-04
+845,336,Likelihood to Give,WealthEngine,68%,Percent,2025-09-22
+846,336,Estimated Capacity,WealthEngine,"$180,000",Currency,2025-06-11
+847,336,Real Estate,WealthEngine,"$550,000",Currency,2025-12-21
+848,337,Estimated Capacity,Blackbaud Target Analytics,"$240,000",Currency,2025-11-22
+849,337,Likelihood to Give,Blackbaud Target Analytics,42%,Percent,2025-08-11
+850,338,Real Estate,WealthEngine,"$3,300,000",Currency,2025-07-30
+851,338,Likelihood to Give,WealthEngine,10%,Percent,2025-10-26
+852,339,Real Estate,WealthEngine,"$600,000",Currency,2025-01-04
+853,339,Estimated Capacity,WealthEngine,"$500,000",Currency,2025-11-30
+854,339,Likelihood to Give,WealthEngine,54%,Percent,2026-02-18
+855,340,Likelihood to Give,iWave,25%,Percent,2024-07-16
+856,340,Real Estate,iWave,"$2,400,000",Currency,2026-01-26
+857,341,Estimated Capacity,Blackbaud Target Analytics,"$280,000",Currency,2025-10-02
+858,341,Real Estate,Blackbaud Target Analytics,"$3,300,000",Currency,2025-01-23
+859,342,Estimated Capacity,DonorSearch,"$50,000",Currency,2026-03-02
+860,342,Real Estate,DonorSearch,"$1,850,000",Currency,2024-09-12
+861,342,Likelihood to Give,DonorSearch,25%,Percent,2025-03-14
+862,343,Real Estate,DonorSearch,"$1,000,000",Currency,2025-04-25
+863,343,Likelihood to Give,DonorSearch,57%,Percent,2025-10-13
+864,343,Estimated Capacity,DonorSearch,"$380,000",Currency,2025-07-10
+865,344,Real Estate,iWave,"$1,300,000",Currency,2024-06-29
+866,344,Estimated Capacity,iWave,"$550,000",Currency,2025-02-25
+867,345,Estimated Capacity,WealthEngine,"$50,000",Currency,2025-03-26
+868,345,Likelihood to Give,WealthEngine,88%,Percent,2025-09-30
+869,346,Likelihood to Give,iWave,54%,Percent,2024-12-17
+870,346,Real Estate,iWave,"$1,500,000",Currency,2024-12-12
+871,347,Likelihood to Give,Blackbaud Target Analytics,54%,Percent,2025-05-31
+872,347,Estimated Capacity,Blackbaud Target Analytics,"$110,000",Currency,2026-03-23
+873,347,Real Estate,Blackbaud Target Analytics,"$400,000",Currency,2025-07-09
+874,348,Real Estate,WealthEngine,"$1,150,000",Currency,2026-01-10
+875,348,Estimated Capacity,WealthEngine,"$310,000",Currency,2025-08-19
+876,348,Likelihood to Give,WealthEngine,54%,Percent,2026-02-24
+877,349,Estimated Capacity,WealthEngine,"$330,000",Currency,2024-08-24
+878,349,Real Estate,WealthEngine,"$3,650,000",Currency,2025-04-20
+879,349,Likelihood to Give,WealthEngine,42%,Percent,2026-03-25
+880,350,Likelihood to Give,iWave,86%,Percent,2025-10-25
+881,350,Real Estate,iWave,"$550,000",Currency,2026-03-15
+882,351,Estimated Capacity,iWave,"$330,000",Currency,2026-04-22
+883,351,Likelihood to Give,iWave,67%,Percent,2024-08-02
+884,352,Real Estate,iWave,"$300,000",Currency,2026-02-21
+885,352,Estimated Capacity,iWave,"$100,000",Currency,2024-08-30
+886,352,Likelihood to Give,iWave,34%,Percent,2025-11-28
+887,353,Estimated Capacity,DonorSearch,"$480,000",Currency,2024-08-30
+888,353,Likelihood to Give,DonorSearch,60%,Percent,2025-06-17
+889,353,Real Estate,DonorSearch,"$3,900,000",Currency,2025-12-04
+890,354,Real Estate,WealthEngine,"$2,850,000",Currency,2024-09-24
+891,354,Likelihood to Give,WealthEngine,77%,Percent,2024-08-02
+892,354,Estimated Capacity,WealthEngine,"$90,000",Currency,2025-09-06
+893,355,Likelihood to Give,iWave,20%,Percent,2025-10-23
+894,355,Real Estate,iWave,"$1,700,000",Currency,2024-09-13
+895,355,Estimated Capacity,iWave,"$40,000",Currency,2024-09-18
+896,356,Real Estate,Blackbaud Target Analytics,"$750,000",Currency,2024-11-30
+897,356,Estimated Capacity,Blackbaud Target Analytics,"$300,000",Currency,2026-02-02
+898,357,Real Estate,Blackbaud Target Analytics,"$2,650,000",Currency,2024-06-05
+899,357,Estimated Capacity,Blackbaud Target Analytics,"$180,000",Currency,2025-05-14
+900,358,Estimated Capacity,Blackbaud Target Analytics,"$140,000",Currency,2025-04-29
+901,358,Real Estate,Blackbaud Target Analytics,"$2,950,000",Currency,2026-01-02
+902,359,Likelihood to Give,DonorSearch,80%,Percent,2025-02-23
+903,359,Real Estate,DonorSearch,"$1,550,000",Currency,2025-03-31
+904,359,Estimated Capacity,DonorSearch,"$100,000",Currency,2025-04-03
+905,360,Estimated Capacity,WealthEngine,"$100,000",Currency,2026-02-06
+906,360,Likelihood to Give,WealthEngine,19%,Percent,2026-03-19
+907,361,Likelihood to Give,DonorSearch,70%,Percent,2025-05-07
+908,361,Estimated Capacity,DonorSearch,"$120,000",Currency,2025-04-03
+909,361,Real Estate,DonorSearch,"$2,300,000",Currency,2026-02-05
+910,362,Real Estate,DonorSearch,"$3,800,000",Currency,2025-02-05
+911,362,Likelihood to Give,DonorSearch,29%,Percent,2025-11-05
+912,362,Estimated Capacity,DonorSearch,"$260,000",Currency,2025-02-02
+913,363,Estimated Capacity,DonorSearch,"$100,000",Currency,2024-10-02
+914,363,Real Estate,DonorSearch,"$1,200,000",Currency,2024-10-16
+915,363,Likelihood to Give,DonorSearch,59%,Percent,2025-07-08
+916,364,Estimated Capacity,iWave,"$80,000",Currency,2024-09-14
+917,364,Likelihood to Give,iWave,69%,Percent,2024-12-06
+918,365,Estimated Capacity,DonorSearch,"$110,000",Currency,2025-06-25
+919,365,Likelihood to Give,DonorSearch,85%,Percent,2024-07-21
+920,365,Real Estate,DonorSearch,"$550,000",Currency,2025-09-30
+921,366,Real Estate,iWave,"$2,000,000",Currency,2026-01-29
+922,366,Likelihood to Give,iWave,59%,Percent,2025-12-25
+923,367,Likelihood to Give,WealthEngine,82%,Percent,2024-07-04
+924,367,Real Estate,WealthEngine,"$900,000",Currency,2025-03-22
+925,367,Estimated Capacity,WealthEngine,"$70,000",Currency,2025-03-28
+926,368,Likelihood to Give,WealthEngine,71%,Percent,2025-01-01
+927,368,Real Estate,WealthEngine,"$3,400,000",Currency,2025-09-03
+928,369,Real Estate,DonorSearch,"$2,750,000",Currency,2026-01-25
+929,369,Estimated Capacity,DonorSearch,"$70,000",Currency,2024-10-15
+930,370,Likelihood to Give,iWave,86%,Percent,2024-10-21
+931,370,Real Estate,iWave,"$2,400,000",Currency,2024-12-22
+932,371,Likelihood to Give,iWave,72%,Percent,2026-03-18
+933,371,Estimated Capacity,iWave,"$1,120,000",Currency,2024-09-15
+934,371,Real Estate,iWave,"$2,750,000",Currency,2024-09-14
+935,372,Likelihood to Give,iWave,68%,Percent,2025-11-02
+936,372,Estimated Capacity,iWave,"$110,000",Currency,2025-10-07
+937,373,Real Estate,WealthEngine,"$4,000,000",Currency,2025-09-28
+938,373,Likelihood to Give,WealthEngine,64%,Percent,2024-07-19
+939,374,Real Estate,Blackbaud Target Analytics,"$2,300,000",Currency,2025-03-21
+940,374,Estimated Capacity,Blackbaud Target Analytics,"$330,000",Currency,2024-10-04
+941,374,Likelihood to Give,Blackbaud Target Analytics,73%,Percent,2025-07-14
+942,375,Real Estate,WealthEngine,"$1,750,000",Currency,2025-12-28
+943,375,Likelihood to Give,WealthEngine,46%,Percent,2025-11-22
+944,376,Likelihood to Give,DonorSearch,71%,Percent,2025-02-26
+945,376,Real Estate,DonorSearch,"$2,700,000",Currency,2025-03-26
+946,377,Estimated Capacity,WealthEngine,"$110,000",Currency,2025-03-06
+947,377,Likelihood to Give,WealthEngine,86%,Percent,2024-08-07
+948,378,Likelihood to Give,WealthEngine,11%,Percent,2025-08-22
+949,378,Real Estate,WealthEngine,"$3,700,000",Currency,2024-12-22
+950,379,Likelihood to Give,Blackbaud Target Analytics,57%,Percent,2025-06-08
+951,379,Real Estate,Blackbaud Target Analytics,"$3,450,000",Currency,2024-12-05
+952,380,Estimated Capacity,DonorSearch,"$100,000",Currency,2025-01-24
+953,380,Likelihood to Give,DonorSearch,37%,Percent,2025-05-29
+954,381,Estimated Capacity,WealthEngine,"$280,000",Currency,2025-09-18
+955,381,Likelihood to Give,WealthEngine,71%,Percent,2025-03-02
+956,382,Real Estate,Blackbaud Target Analytics,"$1,400,000",Currency,2026-02-14
+957,382,Estimated Capacity,Blackbaud Target Analytics,"$170,000",Currency,2024-11-20
+958,383,Estimated Capacity,DonorSearch,"$130,000",Currency,2026-02-22
+959,383,Real Estate,DonorSearch,"$400,000",Currency,2025-01-10
+960,384,Likelihood to Give,Blackbaud Target Analytics,72%,Percent,2025-01-02
+961,384,Real Estate,Blackbaud Target Analytics,"$2,600,000",Currency,2025-03-12
+962,385,Estimated Capacity,DonorSearch,"$210,000",Currency,2024-12-08
+963,385,Likelihood to Give,DonorSearch,20%,Percent,2025-10-23
+964,386,Estimated Capacity,Blackbaud Target Analytics,"$420,000",Currency,2025-07-05
+965,386,Likelihood to Give,Blackbaud Target Analytics,30%,Percent,2026-03-03
+966,386,Real Estate,Blackbaud Target Analytics,"$3,150,000",Currency,2024-09-14
+967,387,Real Estate,iWave,"$1,000,000",Currency,2024-05-29
+968,387,Estimated Capacity,iWave,"$70,000",Currency,2024-06-24
+969,388,Likelihood to Give,DonorSearch,66%,Percent,2024-06-29
+970,388,Estimated Capacity,DonorSearch,"$260,000",Currency,2024-08-15
+971,389,Real Estate,iWave,"$3,600,000",Currency,2025-02-13
+972,389,Likelihood to Give,iWave,69%,Percent,2025-04-30
+973,389,Estimated Capacity,iWave,"$290,000",Currency,2025-08-07
+974,390,Real Estate,Blackbaud Target Analytics,"$4,000,000",Currency,2024-11-15
+975,390,Estimated Capacity,Blackbaud Target Analytics,"$80,000",Currency,2025-04-04
+976,390,Likelihood to Give,Blackbaud Target Analytics,58%,Percent,2024-08-22
+977,391,Likelihood to Give,Blackbaud Target Analytics,57%,Percent,2025-05-13
+978,391,Estimated Capacity,Blackbaud Target Analytics,"$660,000",Currency,2024-07-06
+979,392,Real Estate,Blackbaud Target Analytics,"$2,150,000",Currency,2025-11-20
+980,392,Likelihood to Give,Blackbaud Target Analytics,58%,Percent,2025-08-19
+981,392,Estimated Capacity,Blackbaud Target Analytics,"$720,000",Currency,2024-08-16
+982,393,Real Estate,Blackbaud Target Analytics,"$2,100,000",Currency,2024-06-20
+983,393,Estimated Capacity,Blackbaud Target Analytics,"$60,000",Currency,2025-06-24
+984,394,Likelihood to Give,WealthEngine,54%,Percent,2025-05-06
+985,394,Estimated Capacity,WealthEngine,"$220,000",Currency,2024-10-22
+986,394,Real Estate,WealthEngine,"$3,650,000",Currency,2024-12-21
+987,395,Estimated Capacity,Blackbaud Target Analytics,"$180,000",Currency,2026-01-13
+988,395,Real Estate,Blackbaud Target Analytics,"$2,950,000",Currency,2025-08-01
+989,395,Likelihood to Give,Blackbaud Target Analytics,66%,Percent,2024-09-27
+990,396,Estimated Capacity,Blackbaud Target Analytics,"$3,930,000",Currency,2025-09-06
+991,396,Likelihood to Give,Blackbaud Target Analytics,66%,Percent,2025-06-12
+992,397,Likelihood to Give,Blackbaud Target Analytics,70%,Percent,2025-12-23
+993,397,Real Estate,Blackbaud Target Analytics,"$3,500,000",Currency,2026-02-27
+994,397,Estimated Capacity,Blackbaud Target Analytics,"$430,000",Currency,2024-09-02
+995,398,Estimated Capacity,DonorSearch,"$150,000",Currency,2024-10-27
+996,398,Real Estate,DonorSearch,"$3,500,000",Currency,2026-02-26
+997,398,Likelihood to Give,DonorSearch,9%,Percent,2025-11-19
+998,399,Likelihood to Give,iWave,31%,Percent,2025-06-03
+999,399,Real Estate,iWave,"$2,050,000",Currency,2026-01-30
+1000,399,Estimated Capacity,iWave,"$300,000",Currency,2024-07-15
+1001,400,Estimated Capacity,Blackbaud Target Analytics,"$60,000",Currency,2025-07-16
+1002,400,Likelihood to Give,Blackbaud Target Analytics,65%,Percent,2025-11-01
+1003,401,Estimated Capacity,WealthEngine,"$70,000",Currency,2024-07-13
+1004,401,Likelihood to Give,WealthEngine,70%,Percent,2025-02-07
+1005,402,Estimated Capacity,WealthEngine,"$120,000",Currency,2025-04-05
+1006,402,Real Estate,WealthEngine,"$3,100,000",Currency,2025-05-28
+1007,403,Real Estate,iWave,"$3,000,000",Currency,2024-07-20
+1008,403,Estimated Capacity,iWave,"$230,000",Currency,2025-09-03
+1009,404,Estimated Capacity,Blackbaud Target Analytics,"$210,000",Currency,2024-11-23
+1010,404,Real Estate,Blackbaud Target Analytics,"$450,000",Currency,2025-11-02
+1011,404,Likelihood to Give,Blackbaud Target Analytics,74%,Percent,2026-03-07
+1012,405,Real Estate,Blackbaud Target Analytics,"$1,500,000",Currency,2025-12-06
+1013,405,Likelihood to Give,Blackbaud Target Analytics,62%,Percent,2024-12-07
+1014,405,Estimated Capacity,Blackbaud Target Analytics,"$50,000",Currency,2025-10-12
+1015,406,Estimated Capacity,WealthEngine,"$130,000",Currency,2025-12-09
+1016,406,Real Estate,WealthEngine,"$2,450,000",Currency,2026-03-31
+1017,407,Likelihood to Give,iWave,56%,Percent,2025-04-03
+1018,407,Estimated Capacity,iWave,"$220,000",Currency,2024-10-22
+1019,408,Real Estate,DonorSearch,"$2,800,000",Currency,2026-03-04
+1020,408,Estimated Capacity,DonorSearch,"$80,000",Currency,2025-02-20
+1021,409,Likelihood to Give,DonorSearch,40%,Percent,2024-07-16
+1022,409,Estimated Capacity,DonorSearch,"$70,000",Currency,2025-06-18
+1023,409,Real Estate,DonorSearch,"$2,700,000",Currency,2026-01-09
+1024,410,Likelihood to Give,Blackbaud Target Analytics,47%,Percent,2024-11-15
+1025,410,Estimated Capacity,Blackbaud Target Analytics,"$250,000",Currency,2025-07-07
+1026,411,Estimated Capacity,DonorSearch,"$1,180,000",Currency,2024-11-03
+1027,411,Real Estate,DonorSearch,"$2,850,000",Currency,2025-04-21
+1028,411,Likelihood to Give,DonorSearch,70%,Percent,2025-06-24
+1029,412,Estimated Capacity,DonorSearch,"$40,000",Currency,2025-08-25
+1030,412,Likelihood to Give,DonorSearch,25%,Percent,2024-06-04
+1031,412,Real Estate,DonorSearch,"$3,350,000",Currency,2025-12-30
+1032,413,Estimated Capacity,WealthEngine,"$110,000",Currency,2026-01-09
+1033,413,Real Estate,WealthEngine,"$1,100,000",Currency,2024-07-02
+1034,414,Likelihood to Give,Blackbaud Target Analytics,92%,Percent,2025-10-26
+1035,414,Estimated Capacity,Blackbaud Target Analytics,"$110,000",Currency,2026-03-13
+1036,414,Real Estate,Blackbaud Target Analytics,"$3,250,000",Currency,2025-04-19
+1037,415,Real Estate,Blackbaud Target Analytics,"$250,000",Currency,2026-03-07
+1038,415,Estimated Capacity,Blackbaud Target Analytics,"$230,000",Currency,2025-12-02
+1039,415,Likelihood to Give,Blackbaud Target Analytics,61%,Percent,2025-10-30
+1040,416,Real Estate,Blackbaud Target Analytics,"$3,300,000",Currency,2025-04-06
+1041,416,Likelihood to Give,Blackbaud Target Analytics,13%,Percent,2025-10-17
+1042,416,Estimated Capacity,Blackbaud Target Analytics,"$170,000",Currency,2025-03-08
+1043,417,Likelihood to Give,WealthEngine,50%,Percent,2024-06-27
+1044,417,Real Estate,WealthEngine,"$700,000",Currency,2025-12-28
+1045,417,Estimated Capacity,WealthEngine,"$120,000",Currency,2026-02-21
+1046,418,Likelihood to Give,iWave,86%,Percent,2024-09-17
+1047,418,Real Estate,iWave,"$900,000",Currency,2025-01-29

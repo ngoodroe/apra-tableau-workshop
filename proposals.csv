@@ -1,213 +1,213 @@
-proposal_id,constituent_id,fundraiser_id,fundraiser_name,proposal_date,ask_amount,funded_amount,status,designation,expected_close_date
-1,2,1,Sarah Chen,2024-10-18,45000.0,0.0,Declined,Dean's Discretionary Fund,
-2,5,1,Sarah Chen,2022-05-08,150000.0,125000.0,Funded,Global Initiatives,
-3,6,1,Sarah Chen,2026-04-19,65000.0,0.0,Pending,Student Life,2026-10-18
-4,7,1,Sarah Chen,2025-07-09,350000.0,0.0,Pending,Dean's Discretionary Fund,2027-05-19
-5,8,1,Sarah Chen,2025-12-31,225000.0,0.0,Pending,Annual Fund,2026-11-10
-6,9,1,Sarah Chen,2022-03-25,125000.0,100000.0,Funded,Faculty Excellence Fund,
-7,10,1,Sarah Chen,2025-07-27,125000.0,95000.0,Funded,Arts & Humanities,
-8,10,1,Sarah Chen,2022-10-04,175000.0,125000.0,Funded,Library Fund,
-9,13,1,Sarah Chen,2025-09-13,55000.0,55000.0,Funded,Global Initiatives,
-10,13,1,Sarah Chen,2021-03-06,70000.0,65000.0,Funded,Dean's Discretionary Fund,
-11,14,1,Sarah Chen,2025-11-20,1500000.0,1400000.0,Funded,Scholarship Endowment,
-12,18,1,Sarah Chen,2025-09-02,150000.0,0.0,Pending,Capital Campaign,2026-12-24
-13,21,1,Sarah Chen,2023-12-25,100000.0,0.0,Declined,Global Initiatives,
-14,21,1,Sarah Chen,2025-11-11,75000.0,0.0,Pending,Capital Campaign,2026-10-24
-15,31,1,Sarah Chen,2026-03-25,375000.0,0.0,Pending,Arts & Humanities,2026-07-07
-16,35,1,Sarah Chen,2023-12-24,350000.0,0.0,Withdrawn,Faculty Excellence Fund,
-17,37,1,Sarah Chen,2025-11-09,125000.0,0.0,Pending,Capital Campaign,2026-11-03
-18,43,1,Sarah Chen,2024-06-22,80000.0,0.0,Withdrawn,Arts & Humanities,
-19,43,1,Sarah Chen,2026-03-25,200000.0,0.0,Pending,Student Life,2026-08-30
-20,44,1,Sarah Chen,2026-04-19,175000.0,0.0,Pending,Unrestricted Endowment,2026-09-07
-21,45,1,Sarah Chen,2024-05-04,80000.0,0.0,Declined,Research Initiative,
-22,45,1,Sarah Chen,2026-01-15,150000.0,0.0,Pending,Student Life,2027-02-15
-23,51,1,Sarah Chen,2022-04-27,175000.0,175000.0,Funded,Unrestricted Endowment,
-24,56,1,Sarah Chen,2023-07-18,35000.0,0.0,Withdrawn,Student Life,
-25,58,1,Sarah Chen,2026-02-27,70000.0,0.0,Pending,Unrestricted Endowment,2026-11-20
-26,59,1,Sarah Chen,2022-09-23,35000.0,30000.0,Funded,Capital Campaign,
-27,59,1,Sarah Chen,2023-02-13,75000.0,75000.0,Funded,Annual Fund,
-28,59,1,Sarah Chen,2022-10-14,40000.0,30000.0,Funded,Arts & Humanities,
-29,60,1,Sarah Chen,2025-11-16,85000.0,0.0,Pending,Global Initiatives,2026-10-22
-30,61,1,Sarah Chen,2025-08-30,60000.0,55000.0,Funded,Student Life,
-31,66,1,Sarah Chen,2024-05-31,30000.0,0.0,Declined,Student Life,
-32,74,1,Sarah Chen,2026-04-06,50000.0,0.0,Pending,Faculty Excellence Fund,2026-10-25
-33,75,1,Sarah Chen,2024-03-31,250000.0,225000.0,Funded,Global Initiatives,
-34,77,1,Sarah Chen,2025-03-12,225000.0,0.0,Declined,Faculty Excellence Fund,
-35,77,1,Sarah Chen,2026-03-19,375000.0,0.0,Pending,Scholarship Endowment,2026-12-07
-36,79,1,Sarah Chen,2022-05-23,125000.0,100000.0,Funded,Dean's Discretionary Fund,
-37,79,1,Sarah Chen,2021-03-12,125000.0,100000.0,Funded,Library Fund,
-38,81,1,Sarah Chen,2025-08-12,30000.0,25000.0,Funded,Research Initiative,
-39,85,1,Sarah Chen,2023-09-26,35000.0,0.0,Declined,Annual Fund,
-40,87,2,Marcus Williams,2026-04-16,375000.0,0.0,Pending,Student Life,2026-09-26
-41,98,2,Marcus Williams,2022-06-27,75000.0,70000.0,Funded,Scholarship Endowment,
-42,111,2,Marcus Williams,2025-01-19,60000.0,0.0,Withdrawn,Athletics Fund,
-43,117,2,Marcus Williams,2022-01-17,75000.0,65000.0,Funded,Dean's Discretionary Fund,
-44,117,2,Marcus Williams,2023-06-01,35000.0,30000.0,Funded,Annual Fund,
-45,117,2,Marcus Williams,2022-11-23,60000.0,45000.0,Funded,Arts & Humanities,
-46,118,2,Marcus Williams,2023-12-06,24000.0,0.0,Declined,Annual Fund,
-47,121,2,Marcus Williams,2025-01-12,40000.0,0.0,Declined,Unrestricted Endowment,
-48,121,2,Marcus Williams,2025-12-23,100000.0,0.0,Pending,Faculty Excellence Fund,2027-04-08
-49,123,2,Marcus Williams,2022-10-23,55000.0,40000.0,Funded,Unrestricted Endowment,
-50,123,2,Marcus Williams,2022-11-14,125000.0,100000.0,Funded,Athletics Fund,
-51,123,2,Marcus Williams,2024-12-30,150000.0,125000.0,Funded,Athletics Fund,
-52,124,2,Marcus Williams,2025-11-02,150000.0,0.0,Pending,Arts & Humanities,2027-02-10
-53,125,2,Marcus Williams,2026-03-16,500000.0,0.0,Pending,Global Initiatives,2027-05-05
-54,127,2,Marcus Williams,2024-12-29,35000.0,0.0,Declined,Arts & Humanities,
-55,127,2,Marcus Williams,2026-03-18,70000.0,0.0,Pending,Athletics Fund,2026-12-27
-56,129,2,Marcus Williams,2023-09-08,650000.0,600000.0,Funded,Global Initiatives,
-57,131,2,Marcus Williams,2023-03-06,25000.0,24000.0,Funded,Athletics Fund,
-58,131,2,Marcus Williams,2020-12-01,60000.0,60000.0,Funded,Capital Campaign,
-59,131,2,Marcus Williams,2024-08-29,30000.0,23000.0,Funded,Student Life,
-60,135,2,Marcus Williams,2024-05-03,100000.0,0.0,Withdrawn,Athletics Fund,
-61,140,2,Marcus Williams,2022-08-02,125000.0,100000.0,Funded,Annual Fund,
-62,141,2,Marcus Williams,2026-04-06,550000.0,0.0,Pending,Capital Campaign,2026-11-02
-63,147,2,Marcus Williams,2026-02-02,18000.0,0.0,Declined,Student Life,
-64,148,2,Marcus Williams,2024-07-13,125000.0,0.0,Declined,Research Initiative,
-65,150,2,Marcus Williams,2024-11-11,150000.0,0.0,Declined,Arts & Humanities,
-66,150,2,Marcus Williams,2026-04-21,300000.0,0.0,Pending,Arts & Humanities,2026-08-12
-67,153,2,Marcus Williams,2022-08-30,325000.0,325000.0,Funded,Faculty Excellence Fund,
-68,153,2,Marcus Williams,2021-04-18,150000.0,150000.0,Funded,Capital Campaign,
-69,154,2,Marcus Williams,2026-04-16,150000.0,0.0,Pending,Research Initiative,2026-12-08
-70,160,2,Marcus Williams,2024-01-27,19000.0,0.0,Withdrawn,Faculty Excellence Fund,
-71,160,2,Marcus Williams,2026-01-10,65000.0,0.0,Pending,Arts & Humanities,2027-02-11
-72,165,2,Marcus Williams,2025-04-05,100000.0,0.0,Withdrawn,Arts & Humanities,
-73,165,2,Marcus Williams,2026-02-10,175000.0,0.0,Pending,Arts & Humanities,2026-11-10
-74,166,2,Marcus Williams,2026-01-10,60000.0,0.0,Pending,Arts & Humanities,2027-03-22
-75,167,2,Marcus Williams,2026-04-22,175000.0,0.0,Pending,Capital Campaign,2026-11-01
-76,168,2,Marcus Williams,2026-02-14,550000.0,0.0,Pending,Research Initiative,2027-04-22
-77,173,2,Marcus Williams,2026-02-22,225000.0,0.0,Pending,Faculty Excellence Fund,2027-04-12
-78,175,2,Marcus Williams,2025-11-23,60000.0,45000.0,Funded,Student Life,
-79,175,2,Marcus Williams,2022-04-17,60000.0,55000.0,Funded,Unrestricted Endowment,
-80,177,2,Marcus Williams,2024-02-07,225000.0,225000.0,Funded,Arts & Humanities,
-81,180,3,Priya Patel,2022-02-08,700000.0,600000.0,Funded,Unrestricted Endowment,
-82,182,3,Priya Patel,2024-04-24,100000.0,80000.0,Funded,Capital Campaign,
-83,182,3,Priya Patel,2025-01-25,125000.0,125000.0,Funded,Unrestricted Endowment,
-84,189,3,Priya Patel,2026-04-22,200000.0,0.0,Pending,Research Initiative,2026-10-06
-85,195,3,Priya Patel,2025-09-08,45000.0,0.0,Pending,Student Life,2026-10-08
-86,199,3,Priya Patel,2025-03-05,65000.0,0.0,Withdrawn,Scholarship Endowment,
-87,199,3,Priya Patel,2025-12-23,150000.0,0.0,Pending,Faculty Excellence Fund,2026-10-14
-88,200,3,Priya Patel,2026-01-02,125000.0,125000.0,Funded,Global Initiatives,
-89,202,3,Priya Patel,2023-08-04,100000.0,90000.0,Funded,Faculty Excellence Fund,
-90,206,3,Priya Patel,2026-02-06,60000.0,0.0,Pending,Scholarship Endowment,2026-06-23
-91,211,3,Priya Patel,2026-04-06,250000.0,0.0,Pending,Faculty Excellence Fund,2027-04-02
-92,212,3,Priya Patel,2026-03-22,50000.0,0.0,Pending,Unrestricted Endowment,2027-02-13
-93,213,3,Priya Patel,2025-11-30,275000.0,0.0,Pending,Global Initiatives,2027-02-02
-94,219,3,Priya Patel,2023-08-23,175000.0,175000.0,Funded,Library Fund,
-95,219,3,Priya Patel,2023-08-15,90000.0,75000.0,Funded,Unrestricted Endowment,
-96,219,3,Priya Patel,2024-08-03,175000.0,150000.0,Funded,Unrestricted Endowment,
-97,222,3,Priya Patel,2024-08-08,475000.0,450000.0,Funded,Faculty Excellence Fund,
-98,223,3,Priya Patel,2024-11-05,50000.0,0.0,Declined,Capital Campaign,
-99,223,3,Priya Patel,2026-03-15,35000.0,0.0,Pending,Dean's Discretionary Fund,2026-09-07
-100,225,3,Priya Patel,2025-10-13,225000.0,175000.0,Funded,Library Fund,
-101,227,3,Priya Patel,2021-06-22,125000.0,125000.0,Funded,Global Initiatives,
-102,230,3,Priya Patel,2021-05-04,70000.0,65000.0,Funded,Library Fund,
-103,231,3,Priya Patel,2024-10-19,30000.0,0.0,Withdrawn,Research Initiative,
-104,231,3,Priya Patel,2026-02-13,60000.0,0.0,Pending,Global Initiatives,2027-03-27
-105,232,3,Priya Patel,2026-04-07,35000.0,0.0,Pending,Library Fund,2027-01-30
-106,239,3,Priya Patel,2025-03-04,35000.0,0.0,Withdrawn,Dean's Discretionary Fund,
-107,243,3,Priya Patel,2020-12-26,30000.0,25000.0,Funded,Annual Fund,
-108,243,3,Priya Patel,2021-01-21,45000.0,40000.0,Funded,Annual Fund,
-109,244,3,Priya Patel,2024-09-10,50000.0,0.0,Withdrawn,Capital Campaign,
-110,244,3,Priya Patel,2026-04-10,90000.0,0.0,Pending,Faculty Excellence Fund,2026-12-05
-111,245,3,Priya Patel,2025-11-01,650000.0,0.0,Pending,Athletics Fund,2027-01-01
-112,251,3,Priya Patel,2025-07-07,150000.0,0.0,Declined,Arts & Humanities,
-113,252,3,Priya Patel,2025-03-13,45000.0,0.0,Declined,Annual Fund,
-114,252,3,Priya Patel,2025-12-17,35000.0,0.0,Pending,Global Initiatives,2026-07-01
-115,254,3,Priya Patel,2024-10-21,70000.0,65000.0,Funded,Global Initiatives,
-116,258,4,James O'Brien,2024-10-11,100000.0,0.0,Declined,Capital Campaign,
-117,258,4,James O'Brien,2025-11-14,125000.0,0.0,Pending,Athletics Fund,2026-07-04
-118,262,4,James O'Brien,2026-01-16,45000.0,0.0,Pending,Scholarship Endowment,2026-09-30
-119,263,4,James O'Brien,2024-05-10,50000.0,0.0,Withdrawn,Unrestricted Endowment,
-120,265,4,James O'Brien,2024-07-12,40000.0,0.0,Withdrawn,Student Life,
-121,269,4,James O'Brien,2025-10-03,125000.0,100000.0,Funded,Research Initiative,
-122,269,4,James O'Brien,2021-07-13,125000.0,100000.0,Funded,Arts & Humanities,
-123,272,4,James O'Brien,2022-03-06,75000.0,60000.0,Funded,Student Life,
-124,272,4,James O'Brien,2022-06-30,90000.0,85000.0,Funded,Student Life,
-125,273,4,James O'Brien,2025-12-24,45000.0,0.0,Pending,Athletics Fund,2027-04-20
-126,276,4,James O'Brien,2026-02-19,65000.0,0.0,Pending,Athletics Fund,2026-08-04
-127,278,4,James O'Brien,2024-10-10,175000.0,150000.0,Funded,Unrestricted Endowment,
-128,278,4,James O'Brien,2024-01-07,100000.0,85000.0,Funded,Arts & Humanities,
-129,280,4,James O'Brien,2024-12-30,30000.0,0.0,Withdrawn,Arts & Humanities,
-130,280,4,James O'Brien,2026-02-10,70000.0,0.0,Pending,Student Life,2026-11-09
-131,281,4,James O'Brien,2025-01-12,15000.0,0.0,Withdrawn,Library Fund,
-132,283,4,James O'Brien,2024-08-17,100000.0,0.0,Withdrawn,Library Fund,
-133,283,4,James O'Brien,2025-10-02,55000.0,0.0,Pending,Faculty Excellence Fund,2026-11-18
-134,287,4,James O'Brien,2024-05-13,95000.0,0.0,Withdrawn,Student Life,
-135,287,4,James O'Brien,2025-12-08,100000.0,0.0,Pending,Arts & Humanities,2027-03-29
-136,290,4,James O'Brien,2025-12-25,70000.0,0.0,Pending,Arts & Humanities,2026-09-27
-137,291,4,James O'Brien,2021-12-23,125000.0,125000.0,Funded,Capital Campaign,
-138,292,4,James O'Brien,2024-04-04,35000.0,0.0,Withdrawn,Scholarship Endowment,
-139,292,4,James O'Brien,2026-04-16,40000.0,0.0,Pending,Capital Campaign,2026-12-22
-140,297,4,James O'Brien,2023-02-24,70000.0,55000.0,Funded,Annual Fund,
-141,297,4,James O'Brien,2023-01-15,95000.0,95000.0,Funded,Unrestricted Endowment,
-142,297,4,James O'Brien,2021-04-10,175000.0,125000.0,Funded,Annual Fund,
-143,307,4,James O'Brien,2023-02-25,24000.0,0.0,Declined,Research Initiative,
-144,309,4,James O'Brien,2026-03-26,35000.0,0.0,Pending,Athletics Fund,2027-04-05
-145,310,4,James O'Brien,2024-11-14,35000.0,0.0,Withdrawn,Global Initiatives,
-146,311,4,James O'Brien,2021-09-16,150000.0,150000.0,Funded,Research Initiative,
-147,311,4,James O'Brien,2023-08-14,175000.0,150000.0,Funded,Global Initiatives,
-148,311,4,James O'Brien,2023-09-27,95000.0,85000.0,Funded,Global Initiatives,
-149,312,4,James O'Brien,2025-08-02,200000.0,150000.0,Funded,Faculty Excellence Fund,
-150,312,4,James O'Brien,2024-08-29,150000.0,125000.0,Funded,Capital Campaign,
-151,312,4,James O'Brien,2023-01-18,60000.0,45000.0,Funded,Library Fund,
-152,314,4,James O'Brien,2026-01-09,100000.0,0.0,Withdrawn,Dean's Discretionary Fund,
-153,320,4,James O'Brien,2024-11-29,95000.0,0.0,Declined,Research Initiative,
-154,322,4,James O'Brien,2024-12-23,100000.0,0.0,Withdrawn,Capital Campaign,
-155,322,4,James O'Brien,2026-04-18,60000.0,0.0,Pending,Global Initiatives,2026-11-25
-156,324,4,James O'Brien,2021-07-09,55000.0,45000.0,Funded,Scholarship Endowment,
-157,324,4,James O'Brien,2023-07-08,60000.0,55000.0,Funded,Athletics Fund,
-158,324,4,James O'Brien,2023-05-04,50000.0,45000.0,Funded,Global Initiatives,
-159,325,4,James O'Brien,2024-09-08,45000.0,0.0,Withdrawn,Annual Fund,
-160,325,4,James O'Brien,2026-03-30,35000.0,0.0,Pending,Global Initiatives,2027-04-11
-161,330,4,James O'Brien,2025-03-28,450000.0,0.0,Declined,Library Fund,
-162,330,4,James O'Brien,2025-07-31,600000.0,0.0,Pending,Capital Campaign,2026-11-10
-163,334,4,James O'Brien,2025-08-14,400000.0,0.0,Pending,Arts & Humanities,2027-02-16
-164,339,4,James O'Brien,2025-02-12,200000.0,0.0,Withdrawn,Athletics Fund,
-165,341,4,James O'Brien,2025-07-15,55000.0,0.0,Pending,Arts & Humanities,2026-08-05
-166,344,5,Linda Okafor,2023-05-27,100000.0,0.0,Declined,Unrestricted Endowment,
-167,345,5,Linda Okafor,2025-12-25,45000.0,0.0,Pending,Student Life,2026-09-25
-168,350,5,Linda Okafor,2025-10-10,30000.0,0.0,Pending,Student Life,2026-11-04
-169,351,5,Linda Okafor,2024-11-21,150000.0,0.0,Withdrawn,Scholarship Endowment,
-170,351,5,Linda Okafor,2026-04-22,400000.0,0.0,Pending,Faculty Excellence Fund,2027-04-28
-171,354,5,Linda Okafor,2026-04-19,55000.0,0.0,Pending,Faculty Excellence Fund,2026-08-07
-172,356,5,Linda Okafor,2023-07-22,375000.0,350000.0,Funded,Capital Campaign,
-173,359,5,Linda Okafor,2022-03-10,90000.0,85000.0,Funded,Library Fund,
-174,359,5,Linda Okafor,2024-10-10,125000.0,100000.0,Funded,Faculty Excellence Fund,
-175,359,5,Linda Okafor,2020-12-22,150000.0,150000.0,Funded,Capital Campaign,
-176,361,5,Linda Okafor,2024-08-05,175000.0,175000.0,Funded,Arts & Humanities,
-177,364,5,Linda Okafor,2024-08-23,65000.0,55000.0,Funded,Athletics Fund,
-178,364,5,Linda Okafor,2021-06-12,55000.0,55000.0,Funded,Library Fund,
-179,364,5,Linda Okafor,2021-04-16,30000.0,25000.0,Funded,Arts & Humanities,
-180,365,5,Linda Okafor,2025-10-11,50000.0,0.0,Pending,Faculty Excellence Fund,2026-12-02
-181,367,5,Linda Okafor,2022-12-08,45000.0,45000.0,Funded,Research Initiative,
-182,368,5,Linda Okafor,2024-04-01,350000.0,0.0,Withdrawn,Research Initiative,
-183,368,5,Linda Okafor,2025-11-04,650000.0,0.0,Pending,Capital Campaign,2027-05-20
-184,369,5,Linda Okafor,2025-12-08,30000.0,30000.0,Funded,Arts & Humanities,
-185,369,5,Linda Okafor,2021-04-07,30000.0,30000.0,Funded,Scholarship Endowment,
-186,370,5,Linda Okafor,2021-01-14,125000.0,125000.0,Funded,Research Initiative,
-187,370,5,Linda Okafor,2021-04-05,150000.0,125000.0,Funded,Library Fund,
-188,370,5,Linda Okafor,2021-10-05,200000.0,175000.0,Funded,Dean's Discretionary Fund,
-189,372,5,Linda Okafor,2024-10-31,125000.0,0.0,Withdrawn,Arts & Humanities,
-190,372,5,Linda Okafor,2026-02-01,150000.0,0.0,Pending,Student Life,2027-02-25
-191,373,5,Linda Okafor,2025-03-13,60000.0,0.0,Withdrawn,Faculty Excellence Fund,
-192,373,5,Linda Okafor,2026-03-30,125000.0,0.0,Pending,Unrestricted Endowment,2026-08-10
-193,375,5,Linda Okafor,2025-02-06,30000.0,0.0,Declined,Annual Fund,
-194,376,5,Linda Okafor,2026-04-08,200000.0,0.0,Pending,Research Initiative,2026-12-29
-195,377,5,Linda Okafor,2024-10-09,125000.0,100000.0,Funded,Capital Campaign,
-196,381,5,Linda Okafor,2023-02-16,55000.0,0.0,Declined,Library Fund,
-197,385,5,Linda Okafor,2025-05-27,70000.0,0.0,Declined,Library Fund,
-198,388,5,Linda Okafor,2025-10-31,125000.0,0.0,Pending,Library Fund,2026-07-28
-199,392,5,Linda Okafor,2025-05-04,375000.0,0.0,Pending,Faculty Excellence Fund,2026-11-22
-200,395,5,Linda Okafor,2024-10-04,95000.0,0.0,Withdrawn,Dean's Discretionary Fund,
-201,395,5,Linda Okafor,2026-03-16,55000.0,0.0,Pending,Athletics Fund,2027-01-09
-202,396,5,Linda Okafor,2023-02-22,750000.0,0.0,Declined,Global Initiatives,
-203,400,5,Linda Okafor,2025-10-06,65000.0,0.0,Pending,Arts & Humanities,2027-04-27
-204,404,5,Linda Okafor,2024-03-27,100000.0,0.0,Declined,Unrestricted Endowment,
-205,404,5,Linda Okafor,2026-03-29,175000.0,0.0,Pending,Annual Fund,2027-05-17
-206,411,5,Linda Okafor,2021-01-16,400000.0,375000.0,Funded,Capital Campaign,
-207,414,5,Linda Okafor,2021-03-25,75000.0,65000.0,Funded,Athletics Fund,
-208,414,5,Linda Okafor,2021-06-27,35000.0,35000.0,Funded,Library Fund,
-209,414,5,Linda Okafor,2021-08-15,40000.0,40000.0,Funded,Scholarship Endowment,
-210,417,5,Linda Okafor,2023-06-15,35000.0,0.0,Withdrawn,Student Life,
-211,418,5,Linda Okafor,2025-08-21,175000.0,125000.0,Funded,Student Life,
-212,418,5,Linda Okafor,2025-06-13,125000.0,125000.0,Funded,Unrestricted Endowment,
+proposal_id,constituent_id,fundraiser_id,proposal_date,ask_amount,funded_amount,status,designation,expected_close_date
+1,2,1,2024-10-18,45000.0,0.0,Declined,Dean's Discretionary Fund,
+2,5,1,2022-05-08,150000.0,125000.0,Funded,Global Initiatives,
+3,6,1,2026-04-19,65000.0,0.0,Pending,Student Life,2026-10-18
+4,7,1,2025-07-09,350000.0,0.0,Pending,Dean's Discretionary Fund,2027-05-19
+5,8,1,2025-12-31,225000.0,0.0,Pending,Annual Fund,2026-11-10
+6,9,1,2022-03-25,125000.0,100000.0,Funded,Faculty Excellence Fund,
+7,10,1,2025-07-27,125000.0,95000.0,Funded,Arts & Humanities,
+8,10,1,2022-10-04,175000.0,125000.0,Funded,Library Fund,
+9,13,1,2025-09-13,55000.0,55000.0,Funded,Global Initiatives,
+10,13,1,2021-03-06,70000.0,65000.0,Funded,Dean's Discretionary Fund,
+11,14,1,2025-11-20,1500000.0,1400000.0,Funded,Scholarship Endowment,
+12,18,1,2025-09-02,150000.0,0.0,Pending,Capital Campaign,2026-12-24
+13,21,1,2023-12-25,100000.0,0.0,Declined,Global Initiatives,
+14,21,1,2025-11-11,75000.0,0.0,Pending,Capital Campaign,2026-10-24
+15,31,1,2026-03-25,375000.0,0.0,Pending,Arts & Humanities,2026-07-07
+16,35,1,2023-12-24,350000.0,0.0,Withdrawn,Faculty Excellence Fund,
+17,37,1,2025-11-09,125000.0,0.0,Pending,Capital Campaign,2026-11-03
+18,43,1,2024-06-22,80000.0,0.0,Withdrawn,Arts & Humanities,
+19,43,1,2026-03-25,200000.0,0.0,Pending,Student Life,2026-08-30
+20,44,1,2026-04-19,175000.0,0.0,Pending,Unrestricted Endowment,2026-09-07
+21,45,1,2024-05-04,80000.0,0.0,Declined,Research Initiative,
+22,45,1,2026-01-15,150000.0,0.0,Pending,Student Life,2027-02-15
+23,51,1,2022-04-27,175000.0,175000.0,Funded,Unrestricted Endowment,
+24,56,1,2023-07-18,35000.0,0.0,Withdrawn,Student Life,
+25,58,1,2026-02-27,70000.0,0.0,Pending,Unrestricted Endowment,2026-11-20
+26,59,1,2022-09-23,35000.0,30000.0,Funded,Capital Campaign,
+27,59,1,2023-02-13,75000.0,75000.0,Funded,Annual Fund,
+28,59,1,2022-10-14,40000.0,30000.0,Funded,Arts & Humanities,
+29,60,1,2025-11-16,85000.0,0.0,Pending,Global Initiatives,2026-10-22
+30,61,1,2025-08-30,60000.0,55000.0,Funded,Student Life,
+31,66,1,2024-05-31,30000.0,0.0,Declined,Student Life,
+32,74,1,2026-04-06,50000.0,0.0,Pending,Faculty Excellence Fund,2026-10-25
+33,75,1,2024-03-31,250000.0,225000.0,Funded,Global Initiatives,
+34,77,1,2025-03-12,225000.0,0.0,Declined,Faculty Excellence Fund,
+35,77,1,2026-03-19,375000.0,0.0,Pending,Scholarship Endowment,2026-12-07
+36,79,1,2022-05-23,125000.0,100000.0,Funded,Dean's Discretionary Fund,
+37,79,1,2021-03-12,125000.0,100000.0,Funded,Library Fund,
+38,81,1,2025-08-12,30000.0,25000.0,Funded,Research Initiative,
+39,85,1,2023-09-26,35000.0,0.0,Declined,Annual Fund,
+40,87,2,2026-04-16,375000.0,0.0,Pending,Student Life,2026-09-26
+41,98,2,2022-06-27,75000.0,70000.0,Funded,Scholarship Endowment,
+42,111,2,2025-01-19,60000.0,0.0,Withdrawn,Athletics Fund,
+43,117,2,2022-01-17,75000.0,65000.0,Funded,Dean's Discretionary Fund,
+44,117,2,2023-06-01,35000.0,30000.0,Funded,Annual Fund,
+45,117,2,2022-11-23,60000.0,45000.0,Funded,Arts & Humanities,
+46,118,2,2023-12-06,24000.0,0.0,Declined,Annual Fund,
+47,121,2,2025-01-12,40000.0,0.0,Declined,Unrestricted Endowment,
+48,121,2,2025-12-23,100000.0,0.0,Pending,Faculty Excellence Fund,2027-04-08
+49,123,2,2022-10-23,55000.0,40000.0,Funded,Unrestricted Endowment,
+50,123,2,2022-11-14,125000.0,100000.0,Funded,Athletics Fund,
+51,123,2,2024-12-30,150000.0,125000.0,Funded,Athletics Fund,
+52,124,2,2025-11-02,150000.0,0.0,Pending,Arts & Humanities,2027-02-10
+53,125,2,2026-03-16,500000.0,0.0,Pending,Global Initiatives,2027-05-05
+54,127,2,2024-12-29,35000.0,0.0,Declined,Arts & Humanities,
+55,127,2,2026-03-18,70000.0,0.0,Pending,Athletics Fund,2026-12-27
+56,129,2,2023-09-08,650000.0,600000.0,Funded,Global Initiatives,
+57,131,2,2023-03-06,25000.0,24000.0,Funded,Athletics Fund,
+58,131,2,2020-12-01,60000.0,60000.0,Funded,Capital Campaign,
+59,131,2,2024-08-29,30000.0,23000.0,Funded,Student Life,
+60,135,2,2024-05-03,100000.0,0.0,Withdrawn,Athletics Fund,
+61,140,2,2022-08-02,125000.0,100000.0,Funded,Annual Fund,
+62,141,2,2026-04-06,550000.0,0.0,Pending,Capital Campaign,2026-11-02
+63,147,2,2026-02-02,18000.0,0.0,Declined,Student Life,
+64,148,2,2024-07-13,125000.0,0.0,Declined,Research Initiative,
+65,150,2,2024-11-11,150000.0,0.0,Declined,Arts & Humanities,
+66,150,2,2026-04-21,300000.0,0.0,Pending,Arts & Humanities,2026-08-12
+67,153,2,2022-08-30,325000.0,325000.0,Funded,Faculty Excellence Fund,
+68,153,2,2021-04-18,150000.0,150000.0,Funded,Capital Campaign,
+69,154,2,2026-04-16,150000.0,0.0,Pending,Research Initiative,2026-12-08
+70,160,2,2024-01-27,19000.0,0.0,Withdrawn,Faculty Excellence Fund,
+71,160,2,2026-01-10,65000.0,0.0,Pending,Arts & Humanities,2027-02-11
+72,165,2,2025-04-05,100000.0,0.0,Withdrawn,Arts & Humanities,
+73,165,2,2026-02-10,175000.0,0.0,Pending,Arts & Humanities,2026-11-10
+74,166,2,2026-01-10,60000.0,0.0,Pending,Arts & Humanities,2027-03-22
+75,167,2,2026-04-22,175000.0,0.0,Pending,Capital Campaign,2026-11-01
+76,168,2,2026-02-14,550000.0,0.0,Pending,Research Initiative,2027-04-22
+77,173,2,2026-02-22,225000.0,0.0,Pending,Faculty Excellence Fund,2027-04-12
+78,175,2,2025-11-23,60000.0,45000.0,Funded,Student Life,
+79,175,2,2022-04-17,60000.0,55000.0,Funded,Unrestricted Endowment,
+80,177,2,2024-02-07,225000.0,225000.0,Funded,Arts & Humanities,
+81,180,3,2022-02-08,700000.0,600000.0,Funded,Unrestricted Endowment,
+82,182,3,2024-04-24,100000.0,80000.0,Funded,Capital Campaign,
+83,182,3,2025-01-25,125000.0,125000.0,Funded,Unrestricted Endowment,
+84,189,3,2026-04-22,200000.0,0.0,Pending,Research Initiative,2026-10-06
+85,195,3,2025-09-08,45000.0,0.0,Pending,Student Life,2026-10-08
+86,199,3,2025-03-05,65000.0,0.0,Withdrawn,Scholarship Endowment,
+87,199,3,2025-12-23,150000.0,0.0,Pending,Faculty Excellence Fund,2026-10-14
+88,200,3,2026-01-02,125000.0,125000.0,Funded,Global Initiatives,
+89,202,3,2023-08-04,100000.0,90000.0,Funded,Faculty Excellence Fund,
+90,206,3,2026-02-06,60000.0,0.0,Pending,Scholarship Endowment,2026-06-23
+91,211,3,2026-04-06,250000.0,0.0,Pending,Faculty Excellence Fund,2027-04-02
+92,212,3,2026-03-22,50000.0,0.0,Pending,Unrestricted Endowment,2027-02-13
+93,213,3,2025-11-30,275000.0,0.0,Pending,Global Initiatives,2027-02-02
+94,219,3,2023-08-23,175000.0,175000.0,Funded,Library Fund,
+95,219,3,2023-08-15,90000.0,75000.0,Funded,Unrestricted Endowment,
+96,219,3,2024-08-03,175000.0,150000.0,Funded,Unrestricted Endowment,
+97,222,3,2024-08-08,475000.0,450000.0,Funded,Faculty Excellence Fund,
+98,223,3,2024-11-05,50000.0,0.0,Declined,Capital Campaign,
+99,223,3,2026-03-15,35000.0,0.0,Pending,Dean's Discretionary Fund,2026-09-07
+100,225,3,2025-10-13,225000.0,175000.0,Funded,Library Fund,
+101,227,3,2021-06-22,125000.0,125000.0,Funded,Global Initiatives,
+102,230,3,2021-05-04,70000.0,65000.0,Funded,Library Fund,
+103,231,3,2024-10-19,30000.0,0.0,Withdrawn,Research Initiative,
+104,231,3,2026-02-13,60000.0,0.0,Pending,Global Initiatives,2027-03-27
+105,232,3,2026-04-07,35000.0,0.0,Pending,Library Fund,2027-01-30
+106,239,3,2025-03-04,35000.0,0.0,Withdrawn,Dean's Discretionary Fund,
+107,243,3,2020-12-26,30000.0,25000.0,Funded,Annual Fund,
+108,243,3,2021-01-21,45000.0,40000.0,Funded,Annual Fund,
+109,244,3,2024-09-10,50000.0,0.0,Withdrawn,Capital Campaign,
+110,244,3,2026-04-10,90000.0,0.0,Pending,Faculty Excellence Fund,2026-12-05
+111,245,3,2025-11-01,650000.0,0.0,Pending,Athletics Fund,2027-01-01
+112,251,3,2025-07-07,150000.0,0.0,Declined,Arts & Humanities,
+113,252,3,2025-03-13,45000.0,0.0,Declined,Annual Fund,
+114,252,3,2025-12-17,35000.0,0.0,Pending,Global Initiatives,2026-07-01
+115,254,3,2024-10-21,70000.0,65000.0,Funded,Global Initiatives,
+116,258,4,2024-10-11,100000.0,0.0,Declined,Capital Campaign,
+117,258,4,2025-11-14,125000.0,0.0,Pending,Athletics Fund,2026-07-04
+118,262,4,2026-01-16,45000.0,0.0,Pending,Scholarship Endowment,2026-09-30
+119,263,4,2024-05-10,50000.0,0.0,Withdrawn,Unrestricted Endowment,
+120,265,4,2024-07-12,40000.0,0.0,Withdrawn,Student Life,
+121,269,4,2025-10-03,125000.0,100000.0,Funded,Research Initiative,
+122,269,4,2021-07-13,125000.0,100000.0,Funded,Arts & Humanities,
+123,272,4,2022-03-06,75000.0,60000.0,Funded,Student Life,
+124,272,4,2022-06-30,90000.0,85000.0,Funded,Student Life,
+125,273,4,2025-12-24,45000.0,0.0,Pending,Athletics Fund,2027-04-20
+126,276,4,2026-02-19,65000.0,0.0,Pending,Athletics Fund,2026-08-04
+127,278,4,2024-10-10,175000.0,150000.0,Funded,Unrestricted Endowment,
+128,278,4,2024-01-07,100000.0,85000.0,Funded,Arts & Humanities,
+129,280,4,2024-12-30,30000.0,0.0,Withdrawn,Arts & Humanities,
+130,280,4,2026-02-10,70000.0,0.0,Pending,Student Life,2026-11-09
+131,281,4,2025-01-12,15000.0,0.0,Withdrawn,Library Fund,
+132,283,4,2024-08-17,100000.0,0.0,Withdrawn,Library Fund,
+133,283,4,2025-10-02,55000.0,0.0,Pending,Faculty Excellence Fund,2026-11-18
+134,287,4,2024-05-13,95000.0,0.0,Withdrawn,Student Life,
+135,287,4,2025-12-08,100000.0,0.0,Pending,Arts & Humanities,2027-03-29
+136,290,4,2025-12-25,70000.0,0.0,Pending,Arts & Humanities,2026-09-27
+137,291,4,2021-12-23,125000.0,125000.0,Funded,Capital Campaign,
+138,292,4,2024-04-04,35000.0,0.0,Withdrawn,Scholarship Endowment,
+139,292,4,2026-04-16,40000.0,0.0,Pending,Capital Campaign,2026-12-22
+140,297,4,2023-02-24,70000.0,55000.0,Funded,Annual Fund,
+141,297,4,2023-01-15,95000.0,95000.0,Funded,Unrestricted Endowment,
+142,297,4,2021-04-10,175000.0,125000.0,Funded,Annual Fund,
+143,307,4,2023-02-25,24000.0,0.0,Declined,Research Initiative,
+144,309,4,2026-03-26,35000.0,0.0,Pending,Athletics Fund,2027-04-05
+145,310,4,2024-11-14,35000.0,0.0,Withdrawn,Global Initiatives,
+146,311,4,2021-09-16,150000.0,150000.0,Funded,Research Initiative,
+147,311,4,2023-08-14,175000.0,150000.0,Funded,Global Initiatives,
+148,311,4,2023-09-27,95000.0,85000.0,Funded,Global Initiatives,
+149,312,4,2025-08-02,200000.0,150000.0,Funded,Faculty Excellence Fund,
+150,312,4,2024-08-29,150000.0,125000.0,Funded,Capital Campaign,
+151,312,4,2023-01-18,60000.0,45000.0,Funded,Library Fund,
+152,314,4,2026-01-09,100000.0,0.0,Withdrawn,Dean's Discretionary Fund,
+153,320,4,2024-11-29,95000.0,0.0,Declined,Research Initiative,
+154,322,4,2024-12-23,100000.0,0.0,Withdrawn,Capital Campaign,
+155,322,4,2026-04-18,60000.0,0.0,Pending,Global Initiatives,2026-11-25
+156,324,4,2021-07-09,55000.0,45000.0,Funded,Scholarship Endowment,
+157,324,4,2023-07-08,60000.0,55000.0,Funded,Athletics Fund,
+158,324,4,2023-05-04,50000.0,45000.0,Funded,Global Initiatives,
+159,325,4,2024-09-08,45000.0,0.0,Withdrawn,Annual Fund,
+160,325,4,2026-03-30,35000.0,0.0,Pending,Global Initiatives,2027-04-11
+161,330,4,2025-03-28,450000.0,0.0,Declined,Library Fund,
+162,330,4,2025-07-31,600000.0,0.0,Pending,Capital Campaign,2026-11-10
+163,334,4,2025-08-14,400000.0,0.0,Pending,Arts & Humanities,2027-02-16
+164,339,4,2025-02-12,200000.0,0.0,Withdrawn,Athletics Fund,
+165,341,4,2025-07-15,55000.0,0.0,Pending,Arts & Humanities,2026-08-05
+166,344,5,2023-05-27,100000.0,0.0,Declined,Unrestricted Endowment,
+167,345,5,2025-12-25,45000.0,0.0,Pending,Student Life,2026-09-25
+168,350,5,2025-10-10,30000.0,0.0,Pending,Student Life,2026-11-04
+169,351,5,2024-11-21,150000.0,0.0,Withdrawn,Scholarship Endowment,
+170,351,5,2026-04-22,400000.0,0.0,Pending,Faculty Excellence Fund,2027-04-28
+171,354,5,2026-04-19,55000.0,0.0,Pending,Faculty Excellence Fund,2026-08-07
+172,356,5,2023-07-22,375000.0,350000.0,Funded,Capital Campaign,
+173,359,5,2022-03-10,90000.0,85000.0,Funded,Library Fund,
+174,359,5,2024-10-10,125000.0,100000.0,Funded,Faculty Excellence Fund,
+175,359,5,2020-12-22,150000.0,150000.0,Funded,Capital Campaign,
+176,361,5,2024-08-05,175000.0,175000.0,Funded,Arts & Humanities,
+177,364,5,2024-08-23,65000.0,55000.0,Funded,Athletics Fund,
+178,364,5,2021-06-12,55000.0,55000.0,Funded,Library Fund,
+179,364,5,2021-04-16,30000.0,25000.0,Funded,Arts & Humanities,
+180,365,5,2025-10-11,50000.0,0.0,Pending,Faculty Excellence Fund,2026-12-02
+181,367,5,2022-12-08,45000.0,45000.0,Funded,Research Initiative,
+182,368,5,2024-04-01,350000.0,0.0,Withdrawn,Research Initiative,
+183,368,5,2025-11-04,650000.0,0.0,Pending,Capital Campaign,2027-05-20
+184,369,5,2025-12-08,30000.0,30000.0,Funded,Arts & Humanities,
+185,369,5,2021-04-07,30000.0,30000.0,Funded,Scholarship Endowment,
+186,370,5,2021-01-14,125000.0,125000.0,Funded,Research Initiative,
+187,370,5,2021-04-05,150000.0,125000.0,Funded,Library Fund,
+188,370,5,2021-10-05,200000.0,175000.0,Funded,Dean's Discretionary Fund,
+189,372,5,2024-10-31,125000.0,0.0,Withdrawn,Arts & Humanities,
+190,372,5,2026-02-01,150000.0,0.0,Pending,Student Life,2027-02-25
+191,373,5,2025-03-13,60000.0,0.0,Withdrawn,Faculty Excellence Fund,
+192,373,5,2026-03-30,125000.0,0.0,Pending,Unrestricted Endowment,2026-08-10
+193,375,5,2025-02-06,30000.0,0.0,Declined,Annual Fund,
+194,376,5,2026-04-08,200000.0,0.0,Pending,Research Initiative,2026-12-29
+195,377,5,2024-10-09,125000.0,100000.0,Funded,Capital Campaign,
+196,381,5,2023-02-16,55000.0,0.0,Declined,Library Fund,
+197,385,5,2025-05-27,70000.0,0.0,Declined,Library Fund,
+198,388,5,2025-10-31,125000.0,0.0,Pending,Library Fund,2026-07-28
+199,392,5,2025-05-04,375000.0,0.0,Pending,Faculty Excellence Fund,2026-11-22
+200,395,5,2024-10-04,95000.0,0.0,Withdrawn,Dean's Discretionary Fund,
+201,395,5,2026-03-16,55000.0,0.0,Pending,Athletics Fund,2027-01-09
+202,396,5,2023-02-22,750000.0,0.0,Declined,Global Initiatives,
+203,400,5,2025-10-06,65000.0,0.0,Pending,Arts & Humanities,2027-04-27
+204,404,5,2024-03-27,100000.0,0.0,Declined,Unrestricted Endowment,
+205,404,5,2026-03-29,175000.0,0.0,Pending,Annual Fund,2027-05-17
+206,411,5,2021-01-16,400000.0,375000.0,Funded,Capital Campaign,
+207,414,5,2021-03-25,75000.0,65000.0,Funded,Athletics Fund,
+208,414,5,2021-06-27,35000.0,35000.0,Funded,Library Fund,
+209,414,5,2021-08-15,40000.0,40000.0,Funded,Scholarship Endowment,
+210,417,5,2023-06-15,35000.0,0.0,Withdrawn,Student Life,
+211,418,5,2025-08-21,175000.0,125000.0,Funded,Student Life,
+212,418,5,2025-06-13,125000.0,125000.0,Funded,Unrestricted Endowment,
